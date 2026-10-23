@@ -2,6 +2,8 @@ This dataset is part of the Wilde Short Fiction project, an initiative by Regina
 
 The dataset is a `.csv` file which includes manual transcriptions of contemporary reviews related to Wilde’s short story collections as well as relevant metadata, such as the periodicals’ names and countries of publication, the date of publication of the reviews, and static URLs to the source of these materials. Future iterations of this project aim to include richer metadata for more sophisticated forms of analyses.
 
-The Wilde Short Fiction project is ongoing and open for contributions. Please consider contributing <a href="https://wildeshortfictions.com/contribute">through the website</a>.   
+The Wilde Short Fiction project is ongoing and open for contributions. Please consider contributing <a href="https://wildeshortfiction.com/contribute">through the website</a>.   
 
 This dataset is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0 DEED</a>, meaning that all content can be shared, adapted, and redistributed but has to be attributed to the Wilde Short Fiction dataset. Every review includes in its metadata a “how to cite” section to do so.
+
+How the reviews were found and transcribed is described in [METHODOLOGY.md](METHODOLOGY.md). To cite the dataset as a whole, use the "Cite this repository" button on GitHub, which reads [CITATION.cff](CITATION.cff).

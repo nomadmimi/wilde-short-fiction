@@ -1,0 +1,32 @@
+# Canonical citation metadata for the Wilde Short Fiction dataset.
+# This file is the single source of truth for how the dataset is cited:
+# - GitHub reads it to show the "Cite this repository" button.
+# - Zenodo reads it when a GitHub release is archived (do not add a .zenodo.json).
+# - wildeshortfiction.com reads it to render "How to cite" and its search-engine (schema.org) metadata.
+# After Zenodo mints a DOI, add it below as `doi:` and bump `version` / `date-released` on each release.
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Wilde Short Fiction: Contemporary Reviews of Oscar Wilde's Short Story Collections"
+abstract: >-
+  Manual transcriptions, with bibliographic and archival metadata, of contemporary
+  periodical reviews and notices of Oscar Wilde's three short story collections:
+  The Happy Prince and Other Tales (1888), Lord Arthur Savile's Crime and Other
+  Stories (1891), and A House of Pomegranates (1891).
+authors:
+  - family-names: "Martínez Ponciano"
+    given-names: "Regina"
+    affiliation: "Universidad de León"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2026-10-23"
+license: CC-BY-4.0
+url: "https://wildeshortfiction.com"
+repository-code: "https://github.com/nomadmimi/wilde-short-fiction"
+keywords:
+  - Oscar Wilde
+  - short fiction
+  - reception studies
+  - Victorian periodicals
+  - book reviews
+  - digital humanities
