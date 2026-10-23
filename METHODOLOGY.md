@@ -9,12 +9,13 @@ then delete the markers (and this comment) before the release.
 
 The dataset collects reviews, notices and related press items about Oscar Wilde's three short story collections: *The Happy Prince and Other Tales* (1888), *Lord Arthur Savile's Crime and Other Stories* (1891) and *A House of Pomegranates* (1891). An item is in scope when it discusses at least one of these collections and was printed in a periodical. Each record is classified by `publication_type`:
 
-- **Contemporary review (original)**: a review first printed in the periodical named.
-- **Contemporary review (reprint)**: a review reprinted from another periodical (the original source is given in `comments` where known).
+- **Contemporary review**: a review of one or more of the collections.
 - **News**: a news item that mentions a collection without reviewing it.
 - **Advertisement**: a publisher's or bookseller's advertisement for a collection.
 
-The `period` field groups items chronologically: period 1 covers the first reception of the collections (1888–1894); period 3 covers items from 1895, the year of Wilde's trials. (TO CONFIRM: definition of each period, and what period 2 will hold.)
+The same review was often reprinted in several periodicals. The dataset does not yet distinguish original reviews from reprints: each printing is a separate record. Linking reprints of the same text into clusters with shared identifiers is planned for a future release.
+
+The `period` field groups items chronologically: period 1 covers the first reception of the collections (1888–1894); period 3 covers items from 1895, the year of Wilde's trials.
 
 ## Finding the reviews
 
@@ -22,9 +23,9 @@ Reviews were located by searching digitised newspaper and periodical collections
 
 ## Transcription
 
-Every review is transcribed by hand from the digitised page; none of the text is uncorrected OCR. Transcriptions follow these conventions:
+Transcriptions are checked against the digitised page, but some OCR errors may remain. Corrections are ongoing, and every change to a transcription is recorded in the [history of `data.csv`](https://github.com/nomadmimi/wilde-short-fiction/commits/main/data.csv), where any correction can be checked against the previous version. When quoting a transcription, please verify it against the source linked in `archive_url`. Transcriptions follow these conventions:
 
-- Original spelling, punctuation and typographical errors are kept. Errors in the original are marked `[sic]`.
+- Original spelling, punctuation and typographical errors are kept, and errors in the original are marked `[sic]`.
 - Editorial additions are placed in square brackets.
 - Titles and other text italicised in the original are marked with asterisks (`*A House of Pomegranates*`).
 - Long dashes are rendered as `---`.
