@@ -14,8 +14,8 @@ abstract: >-
   The Happy Prince and Other Tales (1888), Lord Arthur Savile's Crime and Other
   Stories (1891), and A House of Pomegranates (1891).
 authors:
-  - family-names: "Martínez Ponciano"
-    given-names: "Regina"
+  - family-names: "Ponciano"
+    given-names: "Regina M."
     affiliation: "Universidad de León"
     # orcid: "https://orcid.org/0000-0000-0000-0000"
 version: "1.0.0"
