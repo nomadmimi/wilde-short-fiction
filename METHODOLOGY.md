@@ -1,10 +1,3 @@
-<!--
-DRAFT. This file is rendered on wildeshortfiction.com/about and travels with every
-Zenodo release, so it is the one place the methodology is described.
-Lines marked "TO CONFIRM" contain wording inferred from the data; check and edit them,
-then delete the markers (and this comment) before the release.
--->
-
 ## Scope
 
 The dataset collects reviews, notices and related press items about Oscar Wilde's three short story collections: *The Happy Prince and Other Tales* (1888), *Lord Arthur Savile's Crime and Other Stories* (1891) and *A House of Pomegranates* (1891). An item is in scope when it discusses at least one of these collections and was printed in a periodical. Each record is classified by `publication_type`:
@@ -19,7 +12,7 @@ The `period` field groups items chronologically: period 1 covers the first recep
 
 ## Finding the reviews
 
-Reviews were located by searching digitised newspaper and periodical collections, mainly the British Newspaper Archive, HathiTrust Digital Library, Newspapers.com by Ancestry, Google Books and NewspaperArchive, with smaller numbers from Chronicling America, the Irish Newspaper Archives, Welsh Newspapers Online, the Internet Archive and the British Library. The archive used is recorded for every item in `archive_name`, with a stable link in `archive_url` and the date it was consulted in `accessed`. (TO CONFIRM: search terms used, and whether existing bibliographies such as Mason (1914) and Mikhail (1978) were checked for leads.)
+Reviews were located by searching digitised newspaper and periodical collections, mainly the British Newspaper Archive, HathiTrust Digital Library, Newspapers.com by Ancestry, Google Books and NewspaperArchive, with smaller numbers from Chronicling America, the Irish Newspaper Archives, Welsh Newspapers Online, the Internet Archive and the British Library. The archive used is recorded for every item in `archive_name`, with a stable link in `archive_url` and the date it was consulted in `accessed`.
 
 ## Transcription
 
@@ -29,7 +22,7 @@ Transcriptions are checked against the digitised page, but some OCR errors may r
 - Editorial additions are placed in square brackets.
 - Titles and other text italicised in the original are marked with asterisks (`*A House of Pomegranates*`).
 - Long dashes are rendered as `---`.
-- Omitted passages are marked with an ellipsis (`...`). (TO CONFIRM: whether ellipses are always editorial or sometimes in the original.)
+- Omitted passages are marked with an ellipsis (`...`).
 
 The date each transcription was completed is recorded in `transcribed`.
 
