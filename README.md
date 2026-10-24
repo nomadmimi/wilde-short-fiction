@@ -7,3 +7,5 @@ The Wilde Short Fiction project is ongoing and open for contributions. Please co
 This dataset is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0 DEED</a>, meaning that all content can be shared, adapted, and redistributed but has to be attributed to the Wilde Short Fiction dataset. Every review includes in its metadata a “how to cite” section to do so.
 
 How the reviews were found and transcribed is described in [METHODOLOGY.md](METHODOLOGY.md). To cite the dataset as a whole, use the "Cite this repository" button on GitHub, which reads [CITATION.cff](CITATION.cff).
+
+The columns of `data.csv` are described in [datapackage.json](datapackage.json), a [Frictionless Data Package](https://datapackage.org/) that also holds the checks every row must pass. These checks run on every change to the data (`python scripts/validate.py`), and every `archive_url` is checked for broken links once a month (`python scripts/check_links.py`).

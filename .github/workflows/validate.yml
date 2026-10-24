@@ -1,0 +1,21 @@
+name: Validate data
+
+on:
+  push:
+    paths: [data.csv, datapackage.json, scripts/**, .github/workflows/validate.yml]
+  pull_request:
+    paths: [data.csv, datapackage.json, scripts/**, .github/workflows/validate.yml]
+
+jobs:
+  validate:
+    name: Check data.csv against datapackage.json
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+      - run: pip install -r scripts/requirements.txt
+      - run: python scripts/validate.py
