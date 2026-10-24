@@ -2,9 +2,9 @@ name: Validate data
 
 on:
   push:
-    paths: [data.csv, datapackage.json, scripts/**, .github/workflows/validate.yml]
+    paths: [data.csv, datapackage.json, bibliography.json, scripts/**, .github/workflows/validate.yml]
   pull_request:
-    paths: [data.csv, datapackage.json, scripts/**, .github/workflows/validate.yml]
+    paths: [data.csv, datapackage.json, bibliography.json, scripts/**, .github/workflows/validate.yml]
 
 jobs:
   validate:
@@ -19,3 +19,13 @@ jobs:
           cache-dependency-path: scripts/requirements.txt
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/validate.py
+
+  bibliography:
+    name: Check bibliography.json
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/validate_bibliography.py
