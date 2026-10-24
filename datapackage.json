@@ -1,0 +1,155 @@
+{
+  "$comment": "Single source of truth for the structure of data.csv: field names, types, descriptions (the data dictionary rendered on wildeshortfiction.com/about) and the row checks run on every push by .github/workflows/validate.yml. Citation metadata lives in CITATION.cff, not here.",
+  "profile": "tabular-data-package",
+  "name": "wilde-short-fiction",
+  "title": "Wilde Short Fiction: Contemporary Reviews of Oscar Wilde's Short Story Collections",
+  "homepage": "https://wildeshortfiction.com",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "resources": [
+    {
+      "name": "reviews",
+      "path": "data.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "schema": {
+        "primaryKey": ["id"],
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Stable identifier of the record. It is also the address of the record's page on the website (/reviews/{id}).",
+            "constraints": { "required": true, "unique": true }
+          },
+          {
+            "name": "transcription",
+            "type": "string",
+            "description": "Manual transcription of the item. See Transcription in METHODOLOGY.md for the conventions (asterisks for italics, [sic], square brackets for editorial additions)."
+          },
+          {
+            "name": "collection",
+            "type": "string",
+            "description": "The collection the item discusses.",
+            "constraints": {
+              "required": true,
+              "enum": [
+                "The Happy Prince and Other Tales",
+                "Lord Arthur Savile’s Crime and Other Stories",
+                "A House of Pomegranates"
+              ]
+            }
+          },
+          {
+            "name": "period",
+            "type": "integer",
+            "description": "Chronological group: 1 is the first reception of the collections (1888–1894); 3 is items from 1895, the year of Wilde's trials.",
+            "constraints": { "minimum": 1 }
+          },
+          {
+            "name": "publication_type",
+            "type": "string",
+            "description": "Kind of item: a contemporary review, a news item mentioning a collection without reviewing it, or an advertisement. See Scope in METHODOLOGY.md.",
+            "constraints": { "required": true }
+          },
+          {
+            "name": "publication_year",
+            "type": "integer",
+            "description": "Year of publication.",
+            "constraints": { "required": true, "minimum": 1888 }
+          },
+          {
+            "name": "publication_month",
+            "type": "integer",
+            "description": "Month of publication (1–12), where known.",
+            "constraints": { "minimum": 1, "maximum": 12 }
+          },
+          {
+            "name": "publication_day",
+            "type": "integer",
+            "description": "Day of publication, where known.",
+            "constraints": { "minimum": 1, "maximum": 31 }
+          },
+          {
+            "name": "publication_name",
+            "type": "string",
+            "description": "Name of the periodical.",
+            "constraints": { "required": true }
+          },
+          {
+            "name": "publication_country",
+            "type": "string",
+            "description": "Country where the periodical was published.",
+            "constraints": { "required": true }
+          },
+          {
+            "name": "publication_region",
+            "type": "string",
+            "description": "Region within the country where the periodical was published."
+          },
+          {
+            "name": "publication_place",
+            "type": "string",
+            "description": "Town or city where the periodical was published."
+          },
+          {
+            "name": "publication_volume",
+            "type": "string",
+            "description": "Volume of the periodical, as printed (Arabic or Roman numerals)."
+          },
+          {
+            "name": "publication_number",
+            "type": "string",
+            "description": "Issue number of the periodical."
+          },
+          {
+            "name": "publication_pages",
+            "type": "string",
+            "description": "Page or page range of the item."
+          },
+          {
+            "name": "publication_reviewer",
+            "type": "string",
+            "description": "Reviewer, where identified. Most Victorian reviews were unsigned, so this is usually empty."
+          },
+          {
+            "name": "archive_name",
+            "type": "string",
+            "description": "Digitised collection where the item was found."
+          },
+          {
+            "name": "archive_url",
+            "type": "string",
+            "format": "uri",
+            "description": "Link to the item in that collection. Some collections require a subscription.",
+            "constraints": { "required": true }
+          },
+          {
+            "name": "accessed",
+            "type": "date",
+            "description": "Date the source was consulted (YYYY-MM-DD)."
+          },
+          {
+            "name": "transcribed",
+            "type": "date",
+            "description": "Date the transcription was completed (YYYY-MM-DD)."
+          },
+          {
+            "name": "comments",
+            "type": "string",
+            "description": "Editorial notes on the record."
+          }
+        ]
+      }
+    }
+  ]
+}
