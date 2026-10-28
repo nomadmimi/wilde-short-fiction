@@ -75,7 +75,7 @@ def work_key(item):
     doi = clean_doi(item.get('DOI'))
     if doi:
         return 'doi:' + doi
-    return '|'.join((plain(first_creator(item)), year_of(item), plain(item.get('title'))[:60]))
+    return '|'.join((plain(first_creator(item)), year_of(item), plain(item.get('title'))))
 
 
 def base_id(item):

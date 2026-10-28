@@ -12,8 +12,10 @@ Options:
                             carries each entry's id in Zotero's Extra field
                             ("Citation Key: ..."), so the one-time import keeps the ids
 
-An entry's id is the "Citation Key: ..." line in its Extra field when it has one,
-otherwise it is generated from the first author, year and first title word.
+An entry's id is, in this order: the "Citation Key: ..." line in its Extra field; the id
+the same work already has in bibliography.json (matched by DOI, or first author + year +
+title), so existing ids survive the move to Zotero; otherwise one generated from the first
+author, year and first title word.
 """
 import argparse
 import json
@@ -23,7 +25,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from bibliography_lib import (ZoteroError, base_id, bibliography_path, dump_bibliography, fail, load_config, notice,
-                              plain, zotero_from_config)
+                              plain, work_key, zotero_from_config)
 
 CITATION_KEY = re.compile(r'^Citation Key:\s*(\S+)\s*$', re.M | re.I)
 # Fields Zotero adds that the website does not use.
@@ -49,8 +51,10 @@ def tidy(item):
     return out
 
 
-def build_items(raw):
-    """CSL-JSON from Zotero -> the entries to store: untitled records dropped, ids assigned, sorted by id."""
+def build_items(raw, previous=()):
+    """CSL-JSON from Zotero -> the entries to store: untitled records dropped, ids assigned, sorted by id.
+
+    `previous` is the current bibliography; a work found there keeps the id it has."""
     items, skipped = [], 0
     for record in raw:
         if not record.get('title'):  # a standalone note, not a work
@@ -65,13 +69,26 @@ def build_items(raw):
     if duplicates:
         raise ValueError(f'These Citation Key values are used by more than one entry: {", ".join(duplicates)}')
 
-    # Generated ids: the same base gets b, c, ... in a fixed order (by title) so reruns give the same ids.
-    used, groups = set(taken), defaultdict(list)
-    for pin, item in items:
-        if not pin:
+    used = set(taken)
+    carried = defaultdict(list)  # work -> ids it already has, in file order
+    for old in previous:
+        carried[work_key(old)].append(old['id'])
+    unpinned = sorted((i for pin, i in items if not pin), key=lambda i: (plain(i['title']), i.get('DOI', '')))
+    for item in unpinned:
+        ids = carried[work_key(item)]
+        while ids and ids[0] in used:
+            ids.pop(0)
+        if ids:
+            item['_id'] = ids.pop(0)
+            used.add(item['_id'])
+
+    # New works get a generated id: the same base gets b, c, ... in a fixed order so reruns agree.
+    groups = defaultdict(list)
+    for item in unpinned:
+        if '_id' not in item:
             groups[base_id(item)].append(item)
     for base, group in groups.items():
-        for n, item in enumerate(sorted(group, key=lambda i: (plain(i['title']), i.get('DOI', '')))):
+        for n, item in enumerate(group):
             candidate = base if n == 0 else base + chr(ord('a') + n)
             while candidate in used:
                 candidate += 'x'
@@ -113,7 +130,8 @@ def main():
         key = zotero.find_collection(name)
         if key is None:
             fail(f'No top-level Zotero collection named {name!r}. Fix zotero.collection in bibliography.config.json.')
-        items = build_items(zotero.csl_items(key))
+        previous = json.loads(path.read_text(encoding='utf-8')) if path.exists() else []
+        items = build_items(zotero.csl_items(key), previous)
     except (ZoteroError, ValueError) as error:
         fail(str(error))
 
