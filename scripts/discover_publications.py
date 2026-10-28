@@ -192,8 +192,9 @@ def main():
     print(f'{len(fresh)} new candidate(s) since {since}:' + ('\n' + '\n'.join(lines) if lines else ''))
     if os.environ.get('GITHUB_STEP_SUMMARY'):
         with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as summary:
-            summary.write(f'### {len(fresh)} new candidate(s) in "{names["reviewSubcollection"]}"\n\n'
-                          + '\n'.join(lines) + '\n')
+            heading = (f'{len(fresh)} candidate(s) found (dry run: nothing was added to Zotero)' if args.dry_run
+                       else f'{len(fresh)} new candidate(s) added to "{names["reviewSubcollection"]}"')
+            summary.write(f'### {heading}\n\n' + '\n'.join(lines) + '\n')
 
     if fresh and not args.dry_run:
         try:
