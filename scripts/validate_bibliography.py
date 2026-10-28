@@ -8,18 +8,14 @@ import json
 import re
 import sys
 from collections import defaultdict
-from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-PATH = ROOT / 'bibliography.json'
+from bibliography_lib import bibliography_path, load_config, plain
+
+PATH = bibliography_path(load_config())  # where the bibliography lives is set in bibliography.config.json
 
 # The CSL item types the bibliography uses; extend when a new kind of work is added.
 TYPES = {'article-journal', 'book', 'chapter', 'manuscript', 'motion_picture', 'review', 'thesis', 'webpage'}
 DOI = re.compile(r'^10[./]\S+$')
-
-
-def plain(text):
-    return re.sub(r'\W+', ' ', re.sub(r'<[^>]+>', '', text or '')).strip().lower()
 
 
 def main() -> int:

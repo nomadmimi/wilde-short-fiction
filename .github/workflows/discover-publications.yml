@@ -1,0 +1,49 @@
+name: Find new publications
+
+# Every week, search OpenAlex and Crossref for new work on Wilde's short fiction and add
+# what is new to the "To review" sub-collection in Zotero. Nothing reaches the
+# bibliography until a person moves an item into the main collection. Queries and limits
+# live in bibliography.config.json. Secrets: ZOTERO_API_KEY (required) and
+# OPENALEX_API_KEY (optional, lifts OpenAlex's free daily allowance).
+
+on:
+  schedule:
+    - cron: '7 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      since:
+        description: 'Search from this date, YYYY-MM-DD (empty = the lookback in the config; 1888-01-01 = all years)'
+        type: string
+        default: ''
+      dry_run:
+        description: List the candidates without adding them to Zotero
+        type: boolean
+        default: false
+
+concurrency:
+  group: bibliography-discovery
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  discover:
+    name: Search for new publications
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Search and add candidates to Zotero
+        env:
+          ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          SINCE: ${{ inputs.since }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          args=()
+          if [ -n "$SINCE" ]; then args+=(--since "$SINCE"); fi
+          if [ "$DRY_RUN" = "true" ]; then args+=(--dry-run); fi
+          python scripts/discover_publications.py "${args[@]}"
