@@ -6,7 +6,7 @@
     "issued": {
       "date-parts": [
         [
-          "1888",
+          1888,
           2,
           16
         ]
@@ -19,7 +19,7 @@
   {
     "id": "1944canterville",
     "URL": "https://www.imdb.com/title/tt0036696/?ref_=tt_sims_tt_i_2",
-    "author": [
+    "director": [
       {
         "family": "Dassin",
         "given": "Jules"
@@ -43,7 +43,7 @@
   {
     "id": "1986canterville",
     "URL": "https://www.imdb.com/title/tt0090792/?ref_=fn_al_tt_4",
-    "author": [
+    "director": [
       {
         "family": "Bogart",
         "given": "Paul"
@@ -63,7 +63,7 @@
   {
     "id": "1996canterville",
     "URL": "https://www.imdb.com/title/tt0115820/",
-    "author": [
+    "director": [
       {
         "family": "Macartney",
         "given": "Syd"
@@ -86,7 +86,7 @@
     "issued": {
       "date-parts": [
         [
-          "2010",
+          2010,
           10,
           14
         ]
@@ -102,7 +102,7 @@
     "issued": {
       "date-parts": [
         [
-          "2010",
+          2010,
           10,
           12
         ]
@@ -113,7 +113,7 @@
   },
   {
     "id": "2018happy",
-    "author": [
+    "director": [
       {
         "family": "Everett",
         "given": "Rupert"
@@ -597,7 +597,7 @@
     "issued": {
       "date-parts": [
         [
-          "2002",
+          2002,
           11
         ]
       ]
@@ -750,7 +750,7 @@
     "issued": {
       "date-parts": [
         [
-          "2018",
+          2018,
           10,
           13
         ]
@@ -940,7 +940,7 @@
     "issued": {
       "date-parts": [
         [
-          "2011"
+          2011
         ]
       ],
       "season": "Spring–Fall"
@@ -964,7 +964,7 @@
     "issued": {
       "date-parts": [
         [
-          "2017"
+          2017
         ]
       ],
       "season": "Fall"
@@ -1092,14 +1092,13 @@
     "URL": "https://books.google.com/ngrams/graph?content=Happy+Prince+and+Other+Tales%2CA+House+of+Pomegranates%2CLord+Arthur+Savile%27s+Crime&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3",
     "author": [
       {
-        "family": "Google Books Ngram Viewer",
-        "given": ""
+        "literal": "Google Books Ngram Viewer"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          "2023",
+          2023,
           3,
           30
         ]
@@ -1213,7 +1212,7 @@
     "issued": {
       "date-parts": [
         [
-          "2002",
+          2002,
           3
         ]
       ]
@@ -1302,7 +1301,7 @@
     "issued": {
       "date-parts": [
         [
-          "2014",
+          2014,
           10
         ]
       ]
@@ -1581,7 +1580,7 @@
     "issued": {
       "date-parts": [
         [
-          "2010",
+          2010,
           10,
           14
         ]
@@ -1631,7 +1630,7 @@
     "issued": {
       "date-parts": [
         [
-          "2010",
+          2010,
           10,
           14
         ]
@@ -1820,7 +1819,7 @@
     "issued": {
       "date-parts": [
         [
-          "2019",
+          2019,
           8
         ]
       ]
@@ -1843,7 +1842,7 @@
     "issued": {
       "date-parts": [
         [
-          "2020",
+          2020,
           12
         ]
       ]
@@ -1866,7 +1865,7 @@
     "issued": {
       "date-parts": [
         [
-          "2021",
+          2021,
           6
         ]
       ]
@@ -1949,7 +1948,7 @@
     "issued": {
       "date-parts": [
         [
-          "2018"
+          2018
         ]
       ],
       "season": "Summer"
@@ -2569,7 +2568,7 @@
     "issued": {
       "date-parts": [
         [
-          "1997",
+          1997,
           9
         ]
       ]
@@ -2614,7 +2613,7 @@
     "issued": {
       "date-parts": [
         [
-          "2004",
+          2004,
           12
         ]
       ]
@@ -2771,7 +2770,7 @@
     "issued": {
       "date-parts": [
         [
-          "2025",
+          2025,
           7
         ]
       ]
@@ -2793,7 +2792,7 @@
     "issued": {
       "date-parts": [
         [
-          "1970"
+          1970
         ]
       ],
       "season": "Summer"
@@ -2816,7 +2815,7 @@
     "issued": {
       "date-parts": [
         [
-          "2008",
+          2008,
           1
         ]
       ]
@@ -2870,7 +2869,7 @@
     "issued": {
       "date-parts": [
         [
-          "2018",
+          2018,
           4
         ]
       ]
@@ -2993,7 +2992,7 @@
     "issued": {
       "date-parts": [
         [
-          "2010",
+          2010,
           10,
           14
         ]
@@ -3141,7 +3140,7 @@
     "issued": {
       "date-parts": [
         [
-          "2009"
+          2009
         ]
       ],
       "season": "Spring"
@@ -3186,7 +3185,7 @@
     "issued": {
       "date-parts": [
         [
-          "2005",
+          2005,
           1
         ]
       ]
@@ -3354,7 +3353,7 @@
     "issued": {
       "date-parts": [
         [
-          "1993"
+          1993
         ]
       ],
       "season": "Fall"
@@ -3715,7 +3714,7 @@
     "issued": {
       "date-parts": [
         [
-          "2021",
+          2021,
           2,
           25
         ]
@@ -6096,14 +6095,13 @@
     "archive": "Morgan Library and Museum",
     "author": [
       {
-        "family": "Wilde, Oscar",
-        "given": ""
+        "literal": "Wilde, Oscar"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          "1891",
+          1891,
           5,
           26
         ]
