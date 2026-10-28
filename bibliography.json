@@ -1,26 +1,145 @@
 [
   {
-    "id": "2010giant",
-    "URL": "https://web.archive.org/web/20101012231032/http://www.oscholars.com/TO/Specials/Tales/ToC.htm",
-    "title": "A Giant’s Garden: Special ‘Fairy Tales’ Issue",
+    "id": "1888reader",
+    "archive": "Macmillan Archive, British Library",
+    "archive_location": "Add. MS 55945",
     "issued": {
       "date-parts": [
         [
-          2010,
+          "1888",
+          2,
+          16
+        ]
+      ]
+    },
+    "note": "Reproduced in Small (2017), pp. xxviii, xxx.",
+    "title": "Reader Report for Macmillan",
+    "type": "manuscript"
+  },
+  {
+    "id": "1944canterville",
+    "URL": "https://www.imdb.com/title/tt0036696/?ref_=tt_sims_tt_i_2",
+    "author": [
+      {
+        "family": "Dassin",
+        "given": "Jules"
+      },
+      {
+        "family": "McLeod",
+        "given": "Norman Z."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1944
+        ]
+      ]
+    },
+    "publisher": "Metro-Goldwyn-Mayer (MGM)",
+    "title": "The Canterville Ghost",
+    "type": "motion_picture"
+  },
+  {
+    "id": "1986canterville",
+    "URL": "https://www.imdb.com/title/tt0090792/?ref_=fn_al_tt_4",
+    "author": [
+      {
+        "family": "Bogart",
+        "given": "Paul"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "publisher": "Columbia Pictures Television, HTV, Inter-Hemisphere",
+    "title": "The Canterville Ghost",
+    "type": "motion_picture"
+  },
+  {
+    "id": "1996canterville",
+    "URL": "https://www.imdb.com/title/tt0115820/",
+    "author": [
+      {
+        "family": "Macartney",
+        "given": "Syd"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "title": "The Canterville Ghost",
+    "type": "motion_picture"
+  },
+  {
+    "id": "2010bibliography",
+    "URL": "https://web.archive.org/web/20101014201958/http://www.oscholars.com/TO/Specials/Tales/Bibliography.htm",
+    "container-title": "The Oscholars",
+    "issued": {
+      "date-parts": [
+        [
+          "2010",
+          10,
+          14
+        ]
+      ]
+    },
+    "title": "Bibliography of Criticism of Wilde’s Fairy Tales",
+    "type": "webpage"
+  },
+  {
+    "id": "2010giant",
+    "URL": "https://web.archive.org/web/20101012231032/http://www.oscholars.com/TO/Specials/Tales/ToC.htm",
+    "container-title": "The Oscholars",
+    "issued": {
+      "date-parts": [
+        [
+          "2010",
           10,
           12
         ]
       ]
     },
-    "type": "webpage",
-    "container-title": "The Oscholars"
+    "title": "A Giant’s Garden: Special ‘Fairy Tales’ Issue",
+    "type": "webpage"
+  },
+  {
+    "id": "2018happy",
+    "author": [
+      {
+        "family": "Everett",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "Maze Pictures, Entre Chien et Loup, Palomar",
+    "title": "The Happy Prince",
+    "type": "motion_picture"
   },
   {
     "id": "ablow2009oscar",
     "DOI": "10.1215/00295132-2009-002",
-    "title": "Oscar Wilde’s Fictions of Belief",
+    "author": [
+      {
+        "family": "Ablow",
+        "given": "Rachel"
+      }
+    ],
     "container-title": "Novel: A Forum on Fiction",
-    "volume": "42",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -30,13 +149,9 @@
       ]
     },
     "page": "175–82",
+    "title": "Oscar Wilde’s Fictions of Belief",
     "type": "article-journal",
-    "author": [
-      {
-        "family": "Ablow",
-        "given": "Rachel"
-      }
-    ]
+    "volume": "42"
   },
   {
     "id": "ackroyd2003foreword",
@@ -46,7 +161,6 @@
         "given": "Peter"
       }
     ],
-    "title": "Foreword: The Portrait of Mr. W.H. by Oscar Wilde",
     "issued": {
       "date-parts": [
         [
@@ -55,6 +169,7 @@
       ]
     },
     "publisher": "Hesperus Press",
+    "title": "Foreword: The Portrait of Mr. W.H. by Oscar Wilde",
     "type": "book"
   },
   {
@@ -65,7 +180,6 @@
         "given": "Jameela Khedher"
       }
     ],
-    "title": "Pomegranates as a Symbol of Sin in Oscar Wilde’s A House of Pomegranates",
     "container-title": "Al-Ma’mon College Journal",
     "issue": "16",
     "issued": {
@@ -76,6 +190,7 @@
       ]
     },
     "page": "338–45",
+    "title": "Pomegranates as a Symbol of Sin in Oscar Wilde’s A House of Pomegranates",
     "type": "article-journal"
   },
   {
@@ -86,9 +201,7 @@
         "given": "Erica"
       }
     ],
-    "title": "The Adaptability of Propp’s Method for the Morphological Analysis of Oscar Wilde’s Fairy Tales",
     "container-title": "Studia Russica",
-    "volume": "16",
     "issued": {
       "date-parts": [
         [
@@ -97,7 +210,9 @@
       ]
     },
     "page": "293–319",
-    "type": "article-journal"
+    "title": "The Adaptability of Propp’s Method for the Morphological Analysis of Oscar Wilde’s Fairy Tales",
+    "type": "article-journal",
+    "volume": "16"
   },
   {
     "id": "bartle2012pederasty",
@@ -108,9 +223,7 @@
         "given": "Chris"
       }
     ],
-    "title": "Pederasty and Sexual Activity in Oscar Wilde’s The Happy Prince and Other Tales",
     "container-title": "Victorian Network",
-    "volume": "4",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -120,7 +233,9 @@
       ]
     },
     "page": "87–106",
-    "type": "article-journal"
+    "title": "Pederasty and Sexual Activity in Oscar Wilde’s The Happy Prince and Other Tales",
+    "type": "article-journal",
+    "volume": "4"
   },
   {
     "id": "bashford1988hermeneutics",
@@ -130,9 +245,7 @@
         "given": "Bruce"
       }
     ],
-    "title": "Hermeneutics in Oscar Wilde’s ‘The Portrait of Mr W.H.’",
     "container-title": "Papers on Language and Literature",
-    "volume": "50",
     "issue": "1",
     "issued": {
       "date-parts": [
@@ -142,7 +255,9 @@
       ]
     },
     "page": "412–22",
-    "type": "article-journal"
+    "title": "Hermeneutics in Oscar Wilde’s ‘The Portrait of Mr W.H.’",
+    "type": "article-journal",
+    "volume": "50"
   },
   {
     "id": "beckson2005oscar",
@@ -152,7 +267,6 @@
         "given": "Karl"
       }
     ],
-    "title": "Oscar Wilde: The Critical Heritage",
     "issued": {
       "date-parts": [
         [
@@ -161,23 +275,8 @@
       ]
     },
     "publisher": "Routledge",
+    "title": "Oscar Wilde: The Critical Heritage",
     "type": "book"
-  },
-  {
-    "id": "2010bibliography",
-    "URL": "https://web.archive.org/web/20101014201958/http://www.oscholars.com/TO/Specials/Tales/Bibliography.htm",
-    "title": "Bibliography of Criticism of Wilde’s Fairy Tales",
-    "issued": {
-      "date-parts": [
-        [
-          2010,
-          10,
-          14
-        ]
-      ]
-    },
-    "type": "webpage",
-    "container-title": "The Oscholars"
   },
   {
     "id": "binder2007text",
@@ -188,7 +287,6 @@
         "given": "Leandra Elisabeth"
       }
     ],
-    "title": "Text and Paratext in Oscar Wilde’s “A House of Pomegranates.”",
     "issued": {
       "date-parts": [
         [
@@ -196,8 +294,9 @@
         ]
       ]
     },
-    "type": "thesis",
-    "publisher": "University of Nevada, Las Vegas"
+    "publisher": "University of Nevada, Las Vegas",
+    "title": "Text and Paratext in Oscar Wilde’s “A House of Pomegranates.”",
+    "type": "thesis"
   },
   {
     "id": "blackwood2000oscar",
@@ -207,7 +306,6 @@
         "given": "William"
       }
     ],
-    "title": "Signed Letter to Oscar Wilde, 45 George Street, Edinburgh, 4 June 1889",
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -228,11 +326,17 @@
     },
     "page": "401n",
     "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Oscar Wilde, 45 George Street, Edinburgh, 4 June 1889",
     "type": "chapter"
   },
   {
     "id": "blackwood2000oscarb",
-    "title": "Signed Letter to Oscar Wilde, 45 George Street, Edinburgh, 9 July 1889",
+    "author": [
+      {
+        "family": "Blackwood",
+        "given": "William"
+      }
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -253,17 +357,17 @@
     },
     "page": "405n",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Oscar Wilde, 45 George Street, Edinburgh, 9 July 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "blackwood2000oscarc",
     "author": [
       {
         "family": "Blackwood",
         "given": "William"
       }
-    ]
-  },
-  {
-    "id": "blackwood2000oscarc",
-    "title": "Signed Letter to Oscar Wilde, 45 George Street, Edinburgh, 10 June 1889",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -284,17 +388,17 @@
     },
     "page": "402n",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Oscar Wilde, 45 George Street, Edinburgh, 10 June 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "blackwood2000oscard",
     "author": [
       {
         "family": "Blackwood",
         "given": "William"
       }
-    ]
-  },
-  {
-    "id": "blackwood2000oscard",
-    "title": "Signed Letter to Oscar Wilde, 45 George Street, Edinburgh, 20 May 1889",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -315,27 +419,19 @@
     },
     "page": "400n",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Blackwood",
-        "given": "William"
-      }
-    ]
+    "title": "Signed Letter to Oscar Wilde, 45 George Street, Edinburgh, 20 May 1889",
+    "type": "chapter"
   },
   {
     "id": "bonniord2013performativit",
     "URL": "https://dune.univ-angers.fr/fichiers/20114409/20132MALLC1411/fichier/1411F.pdf",
-    "type": "thesis",
     "author": [
       {
         "family": "Bonniord",
         "given": "Julie"
       }
     ],
-    "title": "Performativité et construction identitaire dans <i>Lord Arthur Savile’s Crime and Other Stories</i> d’Oscar Wilde",
     "genre": "Master’s dissertation, supervised by Emmanuel Vernadakis",
-    "publisher": "Université d’Angers",
     "issued": {
       "date-parts": [
         [
@@ -343,7 +439,10 @@
         ]
       ]
     },
-    "language": "fr"
+    "language": "fr",
+    "publisher": "Université d’Angers",
+    "title": "Performativité et construction identitaire dans <i>Lord Arthur Savile’s Crime and Other Stories</i> d’Oscar Wilde",
+    "type": "thesis"
   },
   {
     "id": "boyiopoulos2019brilliancy",
@@ -353,7 +452,6 @@
         "given": "Kostas"
       }
     ],
-    "title": "Brilliancy and Mimicry: Epigrammatic Wit in Oscar Wilde, Max Beerbohm, and Ada Leverson",
     "container-title": "Aphoristic Modernity: 1880 to the Present",
     "editor": [
       {
@@ -373,75 +471,8 @@
       ]
     },
     "publisher": "Brill Academic Publishers",
+    "title": "Brilliancy and Mimicry: Epigrammatic Wit in Oscar Wilde, Max Beerbohm, and Ada Leverson",
     "type": "chapter"
-  },
-  {
-    "id": "bristow2017introduction",
-    "DOI": "10.1007/978-3-319-60411-4_1",
-    "author": [
-      {
-        "family": "Bristow",
-        "given": "Joseph"
-      }
-    ],
-    "title": "Introduction: Oscar Wilde and the Cultures of Childhood",
-    "container-title": "Oscar Wilde and the Cultures of Childhood",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "page": "1–40",
-    "publisher": "Palgrave Macmillan",
-    "type": "chapter",
-    "editor": [
-      {
-        "family": "Bristow",
-        "given": "Joseph"
-      }
-    ]
-  },
-  {
-    "id": "bristow2017oscar",
-    "DOI": "10.1007/978-3-319-60411-4",
-    "title": "Oscar Wilde and the Cultures of Childhood",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "publisher": "Springer International Publishing",
-    "type": "book",
-    "editor": [
-      {
-        "family": "Bristow",
-        "given": "Joseph"
-      }
-    ]
-  },
-  {
-    "id": "bristow2017oscarb",
-    "URL": "http://udspace.udel.edu/handle/19716/21195#files-area",
-    "title": "Oscar Wilde, the Fairy Tale, and the Illustrated Book, 1888-1928",
-    "container-title": "Celebrating the Mark Samuels Lasner Collection: Rare Books and Manuscripts, Victorian Literature and Art",
-    "issued": {
-      "date-parts": [
-        [
-          2017
-        ]
-      ]
-    },
-    "type": "webpage",
-    "author": [
-      {
-        "family": "Bristow",
-        "given": "Joseph"
-      }
-    ]
   },
   {
     "id": "bristow2015oscar",
@@ -455,7 +486,6 @@
         "given": "Rebecca N."
       }
     ],
-    "title": "Oscar Wilde’s Chatterton: Literary History, Romanticism, and the Art of Forgery",
     "issued": {
       "date-parts": [
         [
@@ -464,26 +494,95 @@
       ]
     },
     "publisher": "Yale University Press",
+    "title": "Oscar Wilde’s Chatterton: Literary History, Romanticism, and the Art of Forgery",
     "type": "book"
   },
   {
+    "id": "bristow2017introduction",
+    "DOI": "10.1007/978-3-319-60411-4_1",
+    "author": [
+      {
+        "family": "Bristow",
+        "given": "Joseph"
+      }
+    ],
+    "container-title": "Oscar Wilde and the Cultures of Childhood",
+    "editor": [
+      {
+        "family": "Bristow",
+        "given": "Joseph"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "1–40",
+    "publisher": "Palgrave Macmillan",
+    "title": "Introduction: Oscar Wilde and the Cultures of Childhood",
+    "type": "chapter"
+  },
+  {
+    "id": "bristow2017oscar",
+    "DOI": "10.1007/978-3-319-60411-4",
+    "editor": [
+      {
+        "family": "Bristow",
+        "given": "Joseph"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "Springer International Publishing",
+    "title": "Oscar Wilde and the Cultures of Childhood",
+    "type": "book"
+  },
+  {
+    "id": "bristow2017oscarb",
+    "URL": "http://udspace.udel.edu/handle/19716/21195#files-area",
+    "author": [
+      {
+        "family": "Bristow",
+        "given": "Joseph"
+      }
+    ],
+    "container-title": "Celebrating the Mark Samuels Lasner Collection: Rare Books and Manuscripts, Victorian Literature and Art",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Oscar Wilde, the Fairy Tale, and the Illustrated Book, 1888-1928",
+    "type": "webpage"
+  },
+  {
     "id": "budziak2009text",
-    "type": "book",
     "author": [
       {
         "family": "Budziak",
         "given": "Anna"
       }
     ],
-    "title": "Text, Body and Indeterminacy: Doppelgänger Selves in Pater and Wilde",
-    "publisher": "Cambridge Scholars Publishing",
     "issued": {
       "date-parts": [
         [
           2009
         ]
       ]
-    }
+    },
+    "publisher": "Cambridge Scholars Publishing",
+    "title": "Text, Body and Indeterminacy: Doppelgänger Selves in Pater and Wilde",
+    "type": "book"
   },
   {
     "id": "cameron2002oscar",
@@ -494,19 +593,19 @@
         "given": "Rachael"
       }
     ],
-    "title": "Oscar Wilde’s ‘The Young King’: The Fairy Tale as Countermemory",
     "container-title": "Australian Folklore: A Yearly Journal of Folklore Studies",
-    "volume": "17",
     "issued": {
       "date-parts": [
         [
-          2002,
+          "2002",
           11
         ]
       ]
     },
     "page": "53–67",
-    "type": "article-journal"
+    "title": "Oscar Wilde’s ‘The Young King’: The Fairy Tale as Countermemory",
+    "type": "article-journal",
+    "volume": "17"
   },
   {
     "id": "campbell2013sexual",
@@ -517,7 +616,6 @@
         "given": "James"
       }
     ],
-    "title": "Sexual Gnosticism: The Procreative Code of ‘The Portrait of Mr. W.H.’",
     "container-title": "Wilde Discoveries: Traditions, Histories, Archives",
     "editor": [
       {
@@ -534,6 +632,7 @@
     },
     "page": "169–89",
     "publisher": "University of Toronto Press",
+    "title": "Sexual Gnosticism: The Procreative Code of ‘The Portrait of Mr. W.H.’",
     "type": "chapter"
   },
   {
@@ -544,9 +643,7 @@
         "given": "Nils"
       }
     ],
-    "title": "Lady Alroy’s Secret: ‘Surface and Symbol’ in Wilde’s ‘The Sphinx without a Secret.’",
     "container-title": "The Wildean: A Journal of Oscar Wilde Studies",
-    "volume": "28",
     "issued": {
       "date-parts": [
         [
@@ -555,7 +652,9 @@
       ]
     },
     "page": "24–32",
-    "type": "article-journal"
+    "title": "Lady Alroy’s Secret: ‘Surface and Symbol’ in Wilde’s ‘The Sphinx without a Secret.’",
+    "type": "article-journal",
+    "volume": "28"
   },
   {
     "id": "clayworth2001making",
@@ -566,7 +665,6 @@
         "given": "Anya"
       }
     ],
-    "title": "‘Of Making Many Books’: Ian Small on Wilde",
     "container-title": "The Wildean",
     "issue": "19",
     "issued": {
@@ -577,11 +675,17 @@
       ]
     },
     "page": "66–68",
+    "title": "‘Of Making Many Books’: Ian Small on Wilde",
     "type": "article-journal"
   },
   {
     "id": "clayworth2001oscar",
-    "title": "Oscar Wilde and Macmillan and Co.: The Publisher and the Iconoclast",
+    "author": [
+      {
+        "family": "Clayworth",
+        "given": "Anya"
+      }
+    ],
     "container-title": "English Literature in Transition 1880–1920",
     "issued": {
       "date-parts": [
@@ -591,13 +695,27 @@
       ]
     },
     "page": "64–78",
-    "type": "article-journal",
+    "title": "Oscar Wilde and Macmillan and Co.: The Publisher and the Iconoclast",
+    "type": "article-journal"
+  },
+  {
+    "id": "cohen1976moral",
     "author": [
       {
-        "family": "Clayworth",
-        "given": "Anya"
+        "family": "Cohen",
+        "given": "Philip K."
       }
-    ]
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    },
+    "publisher": "University of Wisconsin",
+    "title": "The Moral Vision of Oscar Wilde",
+    "type": "book"
   },
   {
     "id": "cohen2005marriages",
@@ -607,7 +725,6 @@
         "given": "Philip K."
       }
     ],
-    "title": "Marriages and Murders: ‘Lord Arthur Savile’s Crime’ and ‘The Canterville Ghost.’",
     "container-title": "Short Story Criticism",
     "issued": {
       "date-parts": [
@@ -617,26 +734,8 @@
       ]
     },
     "page": "53–70",
+    "title": "Marriages and Murders: ‘Lord Arthur Savile’s Crime’ and ‘The Canterville Ghost.’",
     "type": "article-journal"
-  },
-  {
-    "id": "cohen1976moral",
-    "title": "The Moral Vision of Oscar Wilde",
-    "issued": {
-      "date-parts": [
-        [
-          1976
-        ]
-      ]
-    },
-    "publisher": "University of Wisconsin",
-    "type": "book",
-    "author": [
-      {
-        "family": "Cohen",
-        "given": "Philip K."
-      }
-    ]
   },
   {
     "id": "cooper2018happy",
@@ -647,17 +746,17 @@
         "given": "John"
       }
     ],
-    "title": "The Happy Prince (2018)",
     "container-title": "The Oscar Wilde Blog",
     "issued": {
       "date-parts": [
         [
-          2018,
+          "2018",
           10,
           13
         ]
       ]
     },
+    "title": "The Happy Prince (2018)",
     "type": "webpage"
   },
   {
@@ -669,9 +768,7 @@
         "given": "Lawrence"
       }
     ],
-    "title": "Oscar Wilde, W. H., and the Unspoken Name of Love",
     "container-title": "ELH",
-    "volume": "58",
     "issue": "4",
     "issued": {
       "date-parts": [
@@ -681,28 +778,9 @@
       ]
     },
     "page": "979",
-    "type": "article-journal"
-  },
-  {
-    "id": "desaix1979le",
-    "URL": "https://books.google.es/books?id=DdYqAAAAMAAJ",
-    "author": [
-      {
-        "family": "de Saix",
-        "given": "Léon Guillot"
-      }
-    ],
-    "title": "Le Chant Du Cygne: Contes Parlés d’Oscar Wilde",
-    "issued": {
-      "date-parts": [
-        [
-          1979
-        ]
-      ]
-    },
-    "publisher": "Garland Pub",
-    "type": "book",
-    "language": "fr"
+    "title": "Oscar Wilde, W. H., and the Unspoken Name of Love",
+    "type": "article-journal",
+    "volume": "58"
   },
   {
     "id": "dentith2003story",
@@ -712,7 +790,6 @@
         "given": "Simon"
       }
     ],
-    "title": "‘A Story with a Moral’: Varieties of Narrative and Significance in Wilde’s Fairy Stories",
     "container-title": "The Importance of Being Misunderstood: Homage to Oscar Wilde",
     "editor": [
       {
@@ -733,7 +810,29 @@
     },
     "page": "269–83",
     "publisher": "Patron Editore",
+    "title": "‘A Story with a Moral’: Varieties of Narrative and Significance in Wilde’s Fairy Stories",
     "type": "chapter"
+  },
+  {
+    "id": "desaix1979le",
+    "URL": "https://books.google.es/books?id=DdYqAAAAMAAJ",
+    "author": [
+      {
+        "family": "de Saix",
+        "given": "Léon Guillot"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    },
+    "language": "fr",
+    "publisher": "Garland Pub",
+    "title": "Le Chant Du Cygne: Contes Parlés d’Oscar Wilde",
+    "type": "book"
   },
   {
     "id": "dryden2003oscar",
@@ -744,7 +843,6 @@
         "given": "Linda"
       }
     ],
-    "title": "Oscar Wilde: Gothic Ironies and Terrible Dualities",
     "container-title": "The Modern Gothic and Literary Doubles: Stevenson, Wilde and Wells",
     "editor": [
       {
@@ -761,6 +859,7 @@
     },
     "page": "110–46",
     "publisher": "Palgrave Macmillan UK",
+    "title": "Oscar Wilde: Gothic Ironies and Terrible Dualities",
     "type": "chapter"
   },
   {
@@ -772,9 +871,7 @@
         "given": "John-Charles"
       }
     ],
-    "title": "Gay-Related Themes in the Fairy Tales of Oscar Wilde",
     "container-title": "Victorian Literature and Culture",
-    "volume": "29",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -784,7 +881,9 @@
       ]
     },
     "page": "327–49",
-    "type": "article-journal"
+    "title": "Gay-Related Themes in the Fairy Tales of Oscar Wilde",
+    "type": "article-journal",
+    "volume": "29"
   },
   {
     "id": "edelson1988language",
@@ -794,9 +893,7 @@
         "given": "Maria"
       }
     ],
-    "title": "The Language of Allegory in Oscar Wilde’s Fairy Tales",
     "container-title": "Short Story Criticism",
-    "volume": "2",
     "issued": {
       "date-parts": [
         [
@@ -805,7 +902,29 @@
       ]
     },
     "page": "407–10",
-    "type": "article-journal"
+    "title": "The Language of Allegory in Oscar Wilde’s Fairy Tales",
+    "type": "article-journal",
+    "volume": "2"
+  },
+  {
+    "id": "edwards1989fireworks",
+    "URL": "https://books.google.es/books?id=ExdoPwAACAAJ",
+    "author": [
+      {
+        "family": "Edwards",
+        "given": "O. D."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "publisher": "Barrie & Jenkins",
+    "title": "The Fireworks of Oscar Wilde",
+    "type": "book"
   },
   {
     "id": "erkan2011subversive",
@@ -816,40 +935,20 @@
         "given": "B. Ayça Ülker"
       }
     ],
-    "title": "Subversive Desire in Oscar Wilde’s Fairy Tale ‘The Happy Prince.’",
     "container-title": "Interactions: Ege Journal of British and American Studies/Ege İngiliz ve Amerikan İncelemeleri Dergisi",
-    "volume": "20",
     "issue": "1–2",
     "issued": {
       "date-parts": [
         [
-          2011
+          "2011"
         ]
       ],
       "season": "Spring–Fall"
     },
     "page": "143–52",
-    "type": "article-journal"
-  },
-  {
-    "id": "edwards1989fireworks",
-    "URL": "https://books.google.es/books?id=ExdoPwAACAAJ",
-    "type": "book",
-    "author": [
-      {
-        "family": "Edwards",
-        "given": "O. D."
-      }
-    ],
-    "title": "The Fireworks of Oscar Wilde",
-    "publisher": "Barrie & Jenkins",
-    "issued": {
-      "date-parts": [
-        [
-          1989
-        ]
-      ]
-    }
+    "title": "Subversive Desire in Oscar Wilde’s Fairy Tale ‘The Happy Prince.’",
+    "type": "article-journal",
+    "volume": "20"
   },
   {
     "id": "foss2017for",
@@ -860,45 +959,48 @@
         "given": "Chris"
       }
     ],
-    "title": "‘For the Future Let Those Who Come to Play With Me Have No Hearts’: The Affect of Pity in Oscar Wilde’s ‘The Birthday of the Infanta.’",
     "container-title": "Journal of Narrative Theory",
-    "volume": "47",
     "issue": "3",
     "issued": {
       "date-parts": [
         [
-          2017
+          "2017"
         ]
       ],
       "season": "Fall"
     },
     "page": "337–55",
-    "type": "article-journal"
+    "title": "‘For the Future Let Those Who Come to Play With Me Have No Hearts’: The Affect of Pity in Oscar Wilde’s ‘The Birthday of the Infanta.’",
+    "type": "article-journal",
+    "volume": "47"
   },
   {
-    "id": "frankel2020introduction",
+    "id": "frankel2000oscar",
     "author": [
       {
         "family": "Frankel",
         "given": "Nicholas"
       }
     ],
-    "title": "Introduction",
-    "container-title": "The Short Stories of Oscar Wilde: An Annotated Selection",
     "issued": {
       "date-parts": [
         [
-          2020
+          2000
         ]
       ]
     },
-    "page": "1–30",
-    "publisher": "Harvard University Press",
-    "type": "chapter"
+    "publisher": "University of Michigan Press",
+    "title": "Oscar Wilde’s Decorated Books",
+    "type": "book"
   },
   {
     "id": "frankel2004lying",
-    "title": "On Lying as a Way of Knowing: A Portrait of ‘The Portrait of Mr. W. H.’",
+    "author": [
+      {
+        "family": "Frankel",
+        "given": "Nicholas"
+      }
+    ],
     "container-title": "Fakes and Forgeries",
     "editor": [
       {
@@ -919,39 +1021,19 @@
     },
     "page": "254–58",
     "publisher": "Cambridge Scholars Press",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Frankel",
-        "given": "Nicholas"
-      }
-    ]
-  },
-  {
-    "id": "frankel2000oscar",
-    "title": "Oscar Wilde’s Decorated Books",
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "publisher": "University of Michigan Press",
-    "type": "book",
-    "author": [
-      {
-        "family": "Frankel",
-        "given": "Nicholas"
-      }
-    ]
+    "title": "On Lying as a Way of Knowing: A Portrait of ‘The Portrait of Mr. W. H.’",
+    "type": "chapter"
   },
   {
     "id": "frankel2016portraiture",
     "DOI": "10/gh6xfv",
-    "title": "Portraiture in Oscar Wilde’s Fiction",
+    "author": [
+      {
+        "family": "Frankel",
+        "given": "Nicholas"
+      }
+    ],
     "container-title": "Etudes Anglaises",
-    "volume": "69",
     "issue": "1",
     "issued": {
       "date-parts": [
@@ -961,13 +1043,30 @@
       ]
     },
     "page": "49–61",
+    "title": "Portraiture in Oscar Wilde’s Fiction",
     "type": "article-journal",
+    "volume": "69"
+  },
+  {
+    "id": "frankel2020introduction",
     "author": [
       {
         "family": "Frankel",
         "given": "Nicholas"
       }
-    ]
+    ],
+    "container-title": "The Short Stories of Oscar Wilde: An Annotated Selection",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "1–30",
+    "publisher": "Harvard University Press",
+    "title": "Introduction",
+    "type": "chapter"
   },
   {
     "id": "gantar2015evolution",
@@ -977,7 +1076,6 @@
         "given": "Jure"
       }
     ],
-    "title": "The Evolution of Wilde’s Wit",
     "issued": {
       "date-parts": [
         [
@@ -986,6 +1084,7 @@
       ]
     },
     "publisher": "Palgrave Macmillan",
+    "title": "The Evolution of Wilde’s Wit",
     "type": "book"
   },
   {
@@ -993,19 +1092,20 @@
     "URL": "https://books.google.com/ngrams/graph?content=Happy+Prince+and+Other+Tales%2CA+House+of+Pomegranates%2CLord+Arthur+Savile%27s+Crime&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3",
     "author": [
       {
-        "literal": "Google Books Ngram Viewer"
+        "family": "Google Books Ngram Viewer",
+        "given": ""
       }
     ],
-    "title": "Happy Prince and Other Tales, A House of Pomegranates, Lord Arthur Savile’s Crime",
     "issued": {
       "date-parts": [
         [
-          2023,
+          "2023",
           3,
           30
         ]
       ]
     },
+    "title": "Happy Prince and Other Tales, A House of Pomegranates, Lord Arthur Savile’s Crime",
     "type": "webpage"
   },
   {
@@ -1016,9 +1116,7 @@
         "given": "Jan B."
       }
     ],
-    "title": "‘The Wilde Child’: Structure and Origin in the Fin-de-Siecle Short Story",
     "container-title": "English Literature in Transition, 1880–1920",
-    "volume": "15",
     "issue": "4",
     "issued": {
       "date-parts": [
@@ -1028,7 +1126,9 @@
       ]
     },
     "page": "277–90",
-    "type": "article-journal"
+    "title": "‘The Wilde Child’: Structure and Origin in the Fin-de-Siecle Short Story",
+    "type": "article-journal",
+    "volume": "15"
   },
   {
     "id": "green1997grave",
@@ -1039,9 +1139,7 @@
         "given": "Stephanie"
       }
     ],
-    "title": "Grave Desires: Sexual Alterity and Gothic Romance in Oscar Wilde’s The Canterville Ghost",
     "container-title": "Australasian Victorian Studies Annual",
-    "volume": "3",
     "issue": "1",
     "issued": {
       "date-parts": [
@@ -1051,7 +1149,9 @@
       ]
     },
     "page": "71–79",
-    "type": "article-journal"
+    "title": "Grave Desires: Sexual Alterity and Gothic Romance in Oscar Wilde’s The Canterville Ghost",
+    "type": "article-journal",
+    "volume": "3"
   },
   {
     "id": "griswold1974sacrifice",
@@ -1062,9 +1162,7 @@
         "given": "Jerome"
       }
     ],
-    "title": "Sacrifice and Mercy in Wilde’s ‘The Happy Prince.’",
     "container-title": "Children’s Literature",
-    "volume": "3",
     "issue": "1",
     "issued": {
       "date-parts": [
@@ -1074,7 +1172,9 @@
       ]
     },
     "page": "103–06",
-    "type": "article-journal"
+    "title": "Sacrifice and Mercy in Wilde’s ‘The Happy Prince.’",
+    "type": "article-journal",
+    "volume": "3"
   },
   {
     "id": "guy2000oscar",
@@ -1088,7 +1188,6 @@
         "given": "Ian"
       }
     ],
-    "title": "Oscar Wilde’s Profession: Writing and Culture Industry in the Late Nineteenth Century",
     "issued": {
       "date-parts": [
         [
@@ -1097,6 +1196,7 @@
       ]
     },
     "publisher": "Oxford University Press",
+    "title": "Oscar Wilde’s Profession: Writing and Culture Industry in the Late Nineteenth Century",
     "type": "book"
   },
   {
@@ -1108,20 +1208,20 @@
         "given": "Alison"
       }
     ],
-    "title": "Hea[r]Th and Home: Wilde Domestic Space",
     "container-title": "Signs: Journal of Women in Culture and Society",
-    "volume": "27",
     "issue": "3",
     "issued": {
       "date-parts": [
         [
-          2002,
+          "2002",
           3
         ]
       ]
     },
     "page": "881–91",
-    "type": "article-journal"
+    "title": "Hea[r]Th and Home: Wilde Domestic Space",
+    "type": "article-journal",
+    "volume": "27"
   },
   {
     "id": "hernandezguerrero2007la",
@@ -1132,9 +1232,7 @@
         "given": "María José"
       }
     ],
-    "title": "La traduction chez Schwob",
     "container-title": "Çédille: Revista de Estudios Franceses",
-    "volume": "15",
     "issue": "3",
     "issued": {
       "date-parts": [
@@ -1143,28 +1241,11 @@
         ]
       ]
     },
+    "language": "fr",
     "page": "217–25",
+    "title": "La traduction chez Schwob",
     "type": "article-journal",
-    "language": "fr"
-  },
-  {
-    "id": "holland2008portrait",
-    "author": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      }
-    ],
-    "title": "A Portrait of Oscar Wilde: From the Moreira Salles Collection of Literary Manuscripts",
-    "issued": {
-      "date-parts": [
-        [
-          2008
-        ]
-      ]
-    },
-    "publisher": "Privately printed for Lucia Moreira Salles",
-    "type": "book"
+    "volume": "15"
   },
   {
     "id": "holland1954once",
@@ -1174,9 +1255,7 @@
         "given": "Vyvyan"
       }
     ],
-    "title": "Once Upon a Time... A Critical Note on Oscar Wilde’s Fairy Stories",
     "container-title": "The Adelphi",
-    "volume": "30",
     "issue": "3",
     "issued": {
       "date-parts": [
@@ -1186,7 +1265,28 @@
       ]
     },
     "page": "241–51",
-    "type": "article-journal"
+    "title": "Once Upon a Time... A Critical Note on Oscar Wilde’s Fairy Stories",
+    "type": "article-journal",
+    "volume": "30"
+  },
+  {
+    "id": "holland2008portrait",
+    "author": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "publisher": "Privately printed for Lucia Moreira Salles",
+    "title": "A Portrait of Oscar Wilde: From the Moreira Salles Collection of Literary Manuscripts",
+    "type": "book"
   },
   {
     "id": "hou2014aesthetic",
@@ -1197,20 +1297,20 @@
         "given": "Jing"
       }
     ],
-    "title": "The Aesthetic Experiment of Oscar Wilde in A House of Pomegranates",
     "container-title": "Theory and Practice in Language Studies",
-    "volume": "4",
     "issue": "10",
     "issued": {
       "date-parts": [
         [
-          2014,
+          "2014",
           10
         ]
       ]
     },
     "page": "2168–72",
-    "type": "article-journal"
+    "title": "The Aesthetic Experiment of Oscar Wilde in A House of Pomegranates",
+    "type": "article-journal",
+    "volume": "4"
   },
   {
     "id": "jernigan2014suffer",
@@ -1220,7 +1320,6 @@
         "given": "Brandon"
       }
     ],
-    "title": "‘Suffer the Little Children’: Irish Revivalism in the Fairy Tales of Oscar Wilde",
     "container-title": "Children, Childhood and Irish Society: 1500s to the Present",
     "editor": [
       {
@@ -1241,6 +1340,7 @@
     },
     "page": "277–90",
     "publisher": "Four Courts Press",
+    "title": "‘Suffer the Little Children’: Irish Revivalism in the Fairy Tales of Oscar Wilde",
     "type": "chapter"
   },
   {
@@ -1252,9 +1352,7 @@
         "given": "Justin T."
       }
     ],
-    "title": "Morality’s Ugly Implications in Oscar Wilde’s Fairy Tales",
     "container-title": "SEL Studies in English Literature 1500-1900",
-    "volume": "51",
     "issue": "4",
     "issued": {
       "date-parts": [
@@ -1264,7 +1362,9 @@
       ]
     },
     "page": "883–903",
-    "type": "article-journal"
+    "title": "Morality’s Ugly Implications in Oscar Wilde’s Fairy Tales",
+    "type": "article-journal",
+    "volume": "51"
   },
   {
     "id": "jones2016catching",
@@ -1274,7 +1374,6 @@
         "given": "Rebecca Elizabeth"
       }
     ],
-    "title": "Catching All Passions in His Craft of Will: Portraits and Pater in Oscar Wilde’s “The Portrait of Mr.W .H .”",
     "issued": {
       "date-parts": [
         [
@@ -1282,6 +1381,7 @@
         ]
       ]
     },
+    "title": "Catching All Passions in His Craft of Will: Portraits and Pater in Oscar Wilde’s “The Portrait of Mr.W .H .”",
     "type": "thesis"
   },
   {
@@ -1296,9 +1396,7 @@
         "given": "Ya"
       }
     ],
-    "title": "Allusions Functioning in Oscar Wilde’s Short Stories",
     "container-title": "ВІСНИК ДНІПРОПЕТРОВСЬКОГО УНІВЕРСИТЕТУ ІМЕНІ АЛЬФРЕДА НОБЕЛЯ. Серія «ФІЛОЛОГІЧНІ НАУКИ»",
-    "volume": "1",
     "issue": "9",
     "issued": {
       "date-parts": [
@@ -1308,7 +1406,9 @@
       ]
     },
     "page": "135–42",
-    "type": "article-journal"
+    "title": "Allusions Functioning in Oscar Wilde’s Short Stories",
+    "type": "article-journal",
+    "volume": "1"
   },
   {
     "id": "kamerer2013love",
@@ -1319,9 +1419,7 @@
         "given": "Lindsey Brooke"
       }
     ],
-    "title": "‘Love Is Better than Wisdom and More Precious than Riches’: The Influence of Greek Love on the Fairy Tales of Oscar Wilde",
     "container-title": "The Victorian",
-    "volume": "1",
     "issue": "1",
     "issued": {
       "date-parts": [
@@ -1331,7 +1429,9 @@
       ]
     },
     "page": "1–25",
-    "type": "article-journal"
+    "title": "‘Love Is Better than Wisdom and More Precious than Riches’: The Influence of Greek Love on the Fairy Tales of Oscar Wilde",
+    "type": "article-journal",
+    "volume": "1"
   },
   {
     "id": "kessler2018oscar",
@@ -1341,9 +1441,7 @@
         "given": "Jeffrey C."
       }
     ],
-    "title": "Oscar Wilde’s Imaginary ‘Portrait of Mr. W.H.’",
     "container-title": "English Literature in Transition 1880-1920",
-    "volume": "61",
     "issue": "3",
     "issued": {
       "date-parts": [
@@ -1353,7 +1451,74 @@
       ]
     },
     "page": "352–73",
-    "type": "article-journal"
+    "title": "Oscar Wilde’s Imaginary ‘Portrait of Mr. W.H.’",
+    "type": "article-journal",
+    "volume": "61"
+  },
+  {
+    "id": "killeen2005faiths",
+    "author": [
+      {
+        "family": "Killeen",
+        "given": "Jarlath"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "publisher": "Springer",
+    "title": "The Faiths of Oscar Wilde: Catholicism, Folklore and Ireland",
+    "type": "book"
+  },
+  {
+    "id": "killeen2007fairy",
+    "author": [
+      {
+        "family": "Killeen",
+        "given": "Jarlath"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "publisher": "Ashgate",
+    "title": "The Fairy Tales of Oscar Wilde",
+    "type": "book"
+  },
+  {
+    "id": "killeen2008teaching",
+    "author": [
+      {
+        "family": "Killeen",
+        "given": "Jarlath"
+      }
+    ],
+    "container-title": "Approaches to Teaching the Works of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "Philip E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "196–203",
+    "publisher": "Modern Language Association",
+    "title": "Teaching Oscar Wilde’s “The Portrait of Mr W.H.” and the Crisis of Faith in Victorian England and English Studies",
+    "type": "chapter"
   },
   {
     "id": "killeen2011introduction",
@@ -1363,7 +1528,6 @@
         "given": "Jarlath"
       }
     ],
-    "title": "Introduction: Wilde’s Aphoristic Imagination",
     "container-title": "Oscar Wilde",
     "editor": [
       {
@@ -1380,11 +1544,17 @@
     },
     "page": "1–23",
     "publisher": "Irish Academic Press",
+    "title": "Introduction: Wilde’s Aphoristic Imagination",
     "type": "chapter"
   },
   {
     "id": "killeen2017oscar",
-    "title": "Oscar Wilde in the Fourth Dimension: Ghosts, Geometry, and the Victorian Crisis of Meaning",
+    "author": [
+      {
+        "family": "Killeen",
+        "given": "Jarlath"
+      }
+    ],
     "container-title": "The Routledge Handbook to the Ghost Story",
     "issued": {
       "date-parts": [
@@ -1395,79 +1565,30 @@
     },
     "page": "49–58",
     "publisher": "Routledge",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Killeen",
-        "given": "Jarlath"
-      }
-    ]
+    "title": "Oscar Wilde in the Fourth Dimension: Ghosts, Geometry, and the Victorian Crisis of Meaning",
+    "type": "chapter"
   },
   {
-    "id": "killeen2008teaching",
-    "title": "Teaching Oscar Wilde’s “The Portrait of Mr W.H.” and the Crisis of Faith in Victorian England and English Studies",
-    "issued": {
-      "date-parts": [
-        [
-          2008
-        ]
-      ]
-    },
-    "page": "196–203",
-    "publisher": "Modern Language Association",
-    "type": "chapter",
+    "id": "king2010origins",
+    "URL": "https://web.archive.org/web/20101014195213/http://www.oscholars.com/TO/Specials/Tales/Birthday_King.htm",
     "author": [
       {
-        "family": "Killeen",
-        "given": "Jarlath"
+        "family": "King",
+        "given": "Mary C."
       }
     ],
-    "container-title": "Approaches to Teaching the Works of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Smith",
-        "given": "Philip E.",
-        "suffix": "II"
-      }
-    ]
-  },
-  {
-    "id": "killeen2007fairy",
-    "title": "The Fairy Tales of Oscar Wilde",
+    "container-title": "A Giant’s Garden: Special ‘Fairy Tales’ Issue",
     "issued": {
       "date-parts": [
         [
-          2007
+          "2010",
+          10,
+          14
         ]
       ]
     },
-    "publisher": "Ashgate",
-    "type": "book",
-    "author": [
-      {
-        "family": "Killeen",
-        "given": "Jarlath"
-      }
-    ]
-  },
-  {
-    "id": "killeen2005faiths",
-    "title": "The Faiths of Oscar Wilde: Catholicism, Folklore and Ireland",
-    "issued": {
-      "date-parts": [
-        [
-          2005
-        ]
-      ]
-    },
-    "publisher": "Springer",
-    "type": "book",
-    "author": [
-      {
-        "family": "Killeen",
-        "given": "Jarlath"
-      }
-    ]
+    "title": "Origins, Interpellations and Decadence in ‘The Birthday of the Infanta.’",
+    "type": "webpage"
   },
   {
     "id": "king2017portrait",
@@ -1478,7 +1599,6 @@
         "given": "Frederick D."
       }
     ],
-    "title": "‘The Portrait of Mr. W. H.’ and Oscar Wilde’s Revisionist History of Same-Sex Desire",
     "container-title": "Quintessential Wilde: His Wordly Place, His Penetrating Philosophy and His Influential Aestheticism",
     "editor": [
       {
@@ -1495,29 +1615,8 @@
     },
     "page": "204–27",
     "publisher": "Cambridge Scholars Publishing",
+    "title": "‘The Portrait of Mr. W. H.’ and Oscar Wilde’s Revisionist History of Same-Sex Desire",
     "type": "chapter"
-  },
-  {
-    "id": "king2010origins",
-    "URL": "https://web.archive.org/web/20101014195213/http://www.oscholars.com/TO/Specials/Tales/Birthday_King.htm",
-    "author": [
-      {
-        "family": "King",
-        "given": "Mary C."
-      }
-    ],
-    "title": "Origins, Interpellations and Decadence in ‘The Birthday of the Infanta.’",
-    "container-title": "A Giant’s Garden: Special ‘Fairy Tales’ Issue",
-    "issued": {
-      "date-parts": [
-        [
-          2010,
-          10,
-          14
-        ]
-      ]
-    },
-    "type": "webpage"
   },
   {
     "id": "kirkpatrick2010word",
@@ -1528,17 +1627,17 @@
         "given": "Heather"
       }
     ],
-    "title": "The Word Made Flesh: Christ and the Artist in Oscar Wilde’s Fairy Tales",
     "container-title": "A Giant’s Garden: Special ‘Fairy Tales’ Issue",
     "issued": {
       "date-parts": [
         [
-          2010,
+          "2010",
           10,
           14
         ]
       ]
     },
+    "title": "The Word Made Flesh: Christ and the Artist in Oscar Wilde’s Fairy Tales",
     "type": "webpage"
   },
   {
@@ -1550,7 +1649,6 @@
         "given": "Lorraine Janzen"
       }
     ],
-    "title": "Wilde’s Legacy: Fairy Tales, Laurence Housman, and the Expression of ‘Beautiful Untrue Things.’",
     "container-title": "Oscar Wilde and the Cultures of Childhood",
     "editor": [
       {
@@ -1567,6 +1665,7 @@
     },
     "page": "89–118",
     "publisher": "Springer International Publishing",
+    "title": "Wilde’s Legacy: Fairy Tales, Laurence Housman, and the Expression of ‘Beautiful Untrue Things.’",
     "type": "chapter"
   },
   {
@@ -1577,9 +1676,7 @@
         "given": "Michael C."
       }
     ],
-    "title": "‘The Selfish Giant’ As Literary Fairy Tale",
     "container-title": "Studies in Short Fiction",
-    "volume": "16",
     "issue": "4",
     "issued": {
       "date-parts": [
@@ -1589,38 +1686,9 @@
       ]
     },
     "page": "301–09",
-    "type": "article-journal"
-  },
-  {
-    "id": "lane2000oscar",
-    "author": [
-      {
-        "family": "Lane",
-        "given": "John"
-      }
-    ],
-    "title": "Signed Letter to Oscar Wilde (MS Clark), G1 The Albany, 7 September 1894",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "607",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter"
+    "title": "‘The Selfish Giant’ As Literary Fairy Tale",
+    "type": "article-journal",
+    "volume": "16"
   },
   {
     "id": "lane2000from",
@@ -1634,7 +1702,6 @@
         "given": "Elkin"
       }
     ],
-    "title": "Signed Letter from the Bodley Head to Oscar Wilde (Draft in Clark), 21 September 1894",
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -1655,6 +1722,38 @@
     },
     "page": "612",
     "publisher": "Henry Holt and Company",
+    "title": "Signed Letter from the Bodley Head to Oscar Wilde (Draft in Clark), 21 September 1894",
+    "type": "chapter"
+  },
+  {
+    "id": "lane2000oscar",
+    "author": [
+      {
+        "family": "Lane",
+        "given": "John"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "607",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Oscar Wilde (MS Clark), G1 The Albany, 7 September 1894",
     "type": "chapter"
   },
   {
@@ -1665,7 +1764,6 @@
         "given": "Rebecca"
       }
     ],
-    "title": "The Sonnets on Trial: Reconsidering the Portrait of Mr. W.H",
     "container-title": "Shakespeare’s Sonnets: Critical Essays",
     "editor": [
       {
@@ -1681,74 +1779,8 @@
       ]
     },
     "publisher": "Garland Publishing",
+    "title": "The Sonnets on Trial: Reconsidering the Portrait of Mr. W.H",
     "type": "chapter"
-  },
-  {
-    "id": "liang2021estranged",
-    "DOI": "10.1007/s10583-021-09456-7",
-    "author": [
-      {
-        "family": "Liang",
-        "given": "Yuanyuan"
-      }
-    ],
-    "title": "An Estranged Perception: Metatheatricality of Oscar Wilde’s The Happy Prince and Other Tales",
-    "container-title": "Children’s Literature in Education",
-    "issued": {
-      "date-parts": [
-        [
-          2021,
-          6
-        ]
-      ]
-    },
-    "type": "article-journal"
-  },
-  {
-    "id": "liang2020dance",
-    "DOI": "10.1007/s10583-019-09397-2",
-    "title": "Dance of Estrangement: Paragraphisions in Oscar Wilde’s Fairy Tales",
-    "container-title": "Children’s Literature in Education",
-    "volume": "51",
-    "issue": "4",
-    "issued": {
-      "date-parts": [
-        [
-          2020,
-          12
-        ]
-      ]
-    },
-    "page": "544–55",
-    "type": "article-journal",
-    "author": [
-      {
-        "family": "Liang",
-        "given": "Yuanyuan"
-      }
-    ]
-  },
-  {
-    "id": "liang2019influence",
-    "DOI": "10.1080/0895769X.2019.1656998",
-    "title": "The Influence of Oscar Wilde’s Fairy Tales on W. B. Yeats’s THE CAP AND BELLS",
-    "container-title": "ANQ: A Quarterly Journal of Short Articles, Notes and Reviews",
-    "issued": {
-      "date-parts": [
-        [
-          2019,
-          8
-        ]
-      ]
-    },
-    "page": "1–5",
-    "type": "article-journal",
-    "author": [
-      {
-        "family": "Liang",
-        "given": "Yuanyuan"
-      }
-    ]
   },
   {
     "id": "liang2018music",
@@ -1763,7 +1795,6 @@
         "given": "Fei"
       }
     ],
-    "title": "Music of Love, Beauty and the Good: A Platonic Reading of Oscar Wilde’s Fairy Tales",
     "container-title": "Children’s Literature in Education",
     "issued": {
       "date-parts": [
@@ -1773,6 +1804,74 @@
       ]
     },
     "page": "82–94",
+    "title": "Music of Love, Beauty and the Good: A Platonic Reading of Oscar Wilde’s Fairy Tales",
+    "type": "article-journal"
+  },
+  {
+    "id": "liang2019influence",
+    "DOI": "10.1080/0895769X.2019.1656998",
+    "author": [
+      {
+        "family": "Liang",
+        "given": "Yuanyuan"
+      }
+    ],
+    "container-title": "ANQ: A Quarterly Journal of Short Articles, Notes and Reviews",
+    "issued": {
+      "date-parts": [
+        [
+          "2019",
+          8
+        ]
+      ]
+    },
+    "page": "1–5",
+    "title": "The Influence of Oscar Wilde’s Fairy Tales on W. B. Yeats’s THE CAP AND BELLS",
+    "type": "article-journal"
+  },
+  {
+    "id": "liang2020dance",
+    "DOI": "10.1007/s10583-019-09397-2",
+    "author": [
+      {
+        "family": "Liang",
+        "given": "Yuanyuan"
+      }
+    ],
+    "container-title": "Children’s Literature in Education",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          12
+        ]
+      ]
+    },
+    "page": "544–55",
+    "title": "Dance of Estrangement: Paragraphisions in Oscar Wilde’s Fairy Tales",
+    "type": "article-journal",
+    "volume": "51"
+  },
+  {
+    "id": "liang2021estranged",
+    "DOI": "10.1007/s10583-021-09456-7",
+    "author": [
+      {
+        "family": "Liang",
+        "given": "Yuanyuan"
+      }
+    ],
+    "container-title": "Children’s Literature in Education",
+    "issued": {
+      "date-parts": [
+        [
+          "2021",
+          6
+        ]
+      ]
+    },
+    "title": "An Estranged Perception: Metatheatricality of Oscar Wilde’s The Happy Prince and Other Tales",
     "type": "article-journal"
   },
   {
@@ -1783,19 +1882,20 @@
         "given": "Kelley Lynne"
       }
     ],
-    "title": "The Song of the Nightingale: Form and Function in Oscar Wilde’s Fairy Tales",
-    "publisher": "Florida State University",
-    "type": "thesis",
     "issued": {
       "date-parts": [
         [
           1999
         ]
       ]
-    }
+    },
+    "publisher": "Florida State University",
+    "title": "The Song of the Nightingale: Form and Function in Oscar Wilde’s Fairy Tales",
+    "type": "thesis"
   },
   {
     "id": "luthrandallegories",
+    "URL": "https://web.archive.org/web/20101014195757/http://www.oscholars.com/TO/Specials/Tales/Luthra.htm",
     "accessed": {
       "date-parts": [
         [
@@ -1805,15 +1905,14 @@
         ]
       ]
     },
-    "URL": "https://web.archive.org/web/20101014195757/http://www.oscholars.com/TO/Specials/Tales/Luthra.htm",
     "author": [
       {
         "family": "Luthra",
         "given": "Neelima"
       }
     ],
-    "title": "Allegories of the Self: Subjectivity and Sexuality in Enchanted Lands in Oscar Wilde’s Fairy Tales",
     "container-title": "A Giant’s Garden: Special ‘Fairy Tales’ Issue",
+    "title": "Allegories of the Self: Subjectivity and Sexuality in Enchanted Lands in Oscar Wilde’s Fairy Tales",
     "type": "webpage"
   },
   {
@@ -1825,17 +1924,16 @@
         "given": "Patrice Phelan"
       }
     ],
-    "title": "A Rhetorical Critique of Oscar Wilde’s Fairy Tales",
-    "issue": "7",
-    "publisher": "Texas Woman’s University",
-    "type": "thesis",
     "issued": {
       "date-parts": [
         [
           1999
         ]
       ]
-    }
+    },
+    "publisher": "Texas Woman’s University",
+    "title": "A Rhetorical Critique of Oscar Wilde’s Fairy Tales",
+    "type": "thesis"
   },
   {
     "id": "maclear2018selfish",
@@ -1846,70 +1944,29 @@
         "given": "Kyo"
       }
     ],
-    "title": "Selfish Giants and Child Redeemers: Refiguring Environmental Hope in Oscar Wilde’s and Clio Barnard’s The Selfish Giant",
     "container-title": "Jeunesse: Young People, Texts, Culture",
-    "volume": "10",
     "issue": "1",
     "issued": {
       "date-parts": [
         [
-          2018
+          "2018"
         ]
       ],
       "season": "Summer"
     },
     "page": "41–57",
-    "type": "article-journal"
-  },
-  {
-    "id": "markey2011oscar",
-    "author": [
-      {
-        "family": "Markey",
-        "given": "Anne"
-      }
-    ],
-    "title": "Oscar Wilde’s Fairy Tales: Origins and Contexts",
-    "issued": {
-      "date-parts": [
-        [
-          2011
-        ]
-      ]
-    },
-    "publisher": "Irish Academic Press",
-    "type": "book"
-  },
-  {
-    "id": "markey2011oscarb",
-    "title": "Oscar Wilde’s Short Fiction: The Hermeneutics of Storytelling",
-    "container-title": "Oscar Wilde",
-    "editor": [
-      {
-        "family": "Killeen",
-        "given": "Jarlath"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2011
-        ]
-      ]
-    },
-    "page": "71–93",
-    "publisher": "Irish Academic Press",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Markey",
-        "given": "Anne"
-      }
-    ]
+    "title": "Selfish Giants and Child Redeemers: Refiguring Environmental Hope in Oscar Wilde’s and Clio Barnard’s The Selfish Giant",
+    "type": "article-journal",
+    "volume": "10"
   },
   {
     "id": "markey2010true",
-    "title": "The True Artistry of Oscar Wilde: Sources and Style in ‘The Canterville Ghost.’",
+    "author": [
+      {
+        "family": "Markey",
+        "given": "Anne"
+      }
+    ],
     "container-title": "The Ghost Story from the Middle Ages to the Twentieth Century: A Ghostly Genre",
     "editor": [
       {
@@ -1930,13 +1987,54 @@
     },
     "page": "124–36",
     "publisher": "Four Courts Press",
-    "type": "chapter",
+    "title": "The True Artistry of Oscar Wilde: Sources and Style in ‘The Canterville Ghost.’",
+    "type": "chapter"
+  },
+  {
+    "id": "markey2011oscar",
     "author": [
       {
         "family": "Markey",
         "given": "Anne"
       }
-    ]
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "publisher": "Irish Academic Press",
+    "title": "Oscar Wilde’s Fairy Tales: Origins and Contexts",
+    "type": "book"
+  },
+  {
+    "id": "markey2011oscarb",
+    "author": [
+      {
+        "family": "Markey",
+        "given": "Anne"
+      }
+    ],
+    "container-title": "Oscar Wilde",
+    "editor": [
+      {
+        "family": "Killeen",
+        "given": "Jarlath"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "71–93",
+    "publisher": "Irish Academic Press",
+    "title": "Oscar Wilde’s Short Fiction: The Hermeneutics of Storytelling",
+    "type": "chapter"
   },
   {
     "id": "martin1979oscar",
@@ -1946,9 +2044,7 @@
         "given": "Robert K."
       }
     ],
-    "title": "Oscar Wilde and the Fairy Tale: ‘The Happy Prince’ as Self-Dramatization",
     "container-title": "Studies in Short Fiction",
-    "volume": "16",
     "issue": "1",
     "issued": {
       "date-parts": [
@@ -1958,7 +2054,9 @@
       ]
     },
     "page": "74–74",
-    "type": "article-journal"
+    "title": "Oscar Wilde and the Fairy Tale: ‘The Happy Prince’ as Self-Dramatization",
+    "type": "article-journal",
+    "volume": "16"
   },
   {
     "id": "mashilker2017reclaiming",
@@ -1969,7 +2067,6 @@
         "given": "A. R."
       }
     ],
-    "title": "Reclaiming the Fisherman: Soul Searching and the Subversive in Oscar Wilde’s Fairy Tale",
     "container-title": "Quintessential Wilde: His Wordly Place, His Penetrating Philosophy and His Influential Aestheticism",
     "editor": [
       {
@@ -1986,6 +2083,7 @@
     },
     "page": "155–86",
     "publisher": "Cambridge Scholars Publishing",
+    "title": "Reclaiming the Fisherman: Soul Searching and the Subversive in Oscar Wilde’s Fairy Tale",
     "type": "chapter"
   },
   {
@@ -1997,21 +2095,26 @@
         "given": "Stuart"
       }
     ],
-    "title": "Bibliography of Oscar Wilde",
-    "publisher": "T. Werner Laurie",
-    "type": "book",
-    "publisher-place": "London",
     "issued": {
       "date-parts": [
         [
           1914
         ]
       ]
-    }
+    },
+    "publisher": "T. Werner Laurie",
+    "publisher-place": "London",
+    "title": "Bibliography of Oscar Wilde",
+    "type": "book"
   },
   {
     "id": "mason1914who",
-    "title": "“Who Is Hughes? Or, the Mystery of Mr W. H.” <i>The Saturday Review</i>, vol. 67, no. 1757, p. 780",
+    "author": [
+      {
+        "family": "Mason",
+        "given": "Stuart"
+      }
+    ],
     "container-title": "Bibliography of Oscar Wilde",
     "issued": {
       "date-parts": [
@@ -2021,13 +2124,8 @@
       ]
     },
     "page": "6",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Mason",
-        "given": "Stuart"
-      }
-    ]
+    "title": "“Who Is Hughes? Or, the Mystery of Mr W. H.” <i>The Saturday Review</i>, vol. 67, no. 1757, p. 780",
+    "type": "chapter"
   },
   {
     "id": "mccormack2004wilde",
@@ -2037,7 +2135,6 @@
         "given": "Jerusha"
       }
     ],
-    "title": "Wilde’s Fiction(s)",
     "container-title": "The Cambridge Companion to Oscar Wilde",
     "editor": [
       {
@@ -2054,6 +2151,7 @@
     },
     "page": "96–117",
     "publisher": "Cambridge University Press",
+    "title": "Wilde’s Fiction(s)",
     "type": "chapter"
   },
   {
@@ -2065,7 +2163,6 @@
         "given": "Edward Halim"
       }
     ],
-    "title": "Oscar Wilde: An Annotated Bibliography of Criticism",
     "issued": {
       "date-parts": [
         [
@@ -2074,12 +2171,18 @@
       ]
     },
     "publisher": "Springer",
+    "title": "Oscar Wilde: An Annotated Bibliography of Criticism",
     "type": "book"
   },
   {
     "id": "mikhail1979oscar",
     "DOI": "10.1007/978-1-349-03926-5",
-    "title": "Oscar Wilde: Interviews and Recollections",
+    "editor": [
+      {
+        "family": "Mikhail",
+        "given": "Edward Halim"
+      }
+    ],
     "issued": {
       "date-parts": [
         [
@@ -2088,20 +2191,20 @@
       ]
     },
     "publisher": "Palgrave Macmillan UK",
-    "type": "book",
     "publisher-place": "London",
-    "editor": [
-      {
-        "family": "Mikhail",
-        "given": "Edward Halim"
-      }
-    ],
+    "title": "Oscar Wilde: Interviews and Recollections",
+    "type": "book",
     "volume": "2"
   },
   {
     "id": "mikhail1979oscarb",
     "DOI": "10.1007/978-1-349-03923-4",
-    "title": "Oscar Wilde: Interviews and Recollections",
+    "editor": [
+      {
+        "family": "Mikhail",
+        "given": "Edward Halim"
+      }
+    ],
     "issued": {
       "date-parts": [
         [
@@ -2110,14 +2213,9 @@
       ]
     },
     "publisher": "Palgrave Macmillan UK",
-    "type": "book",
     "publisher-place": "London",
-    "editor": [
-      {
-        "family": "Mikhail",
-        "given": "Edward Halim"
-      }
-    ],
+    "title": "Oscar Wilde: Interviews and Recollections",
+    "type": "book",
     "volume": "1"
   },
   {
@@ -2128,7 +2226,6 @@
         "given": "Thomas A."
       }
     ],
-    "title": "Oscar Wilde: An Annotated Bibliography",
     "issued": {
       "date-parts": [
         [
@@ -2137,6 +2234,7 @@
       ]
     },
     "publisher": "Greenwood Press",
+    "title": "Oscar Wilde: An Annotated Bibliography",
     "type": "book"
   },
   {
@@ -2147,30 +2245,27 @@
         "given": "Robyn"
       }
     ],
-    "title": "Wilde Monsters: The Creation of Aesthete Criminals",
-    "publisher": "Clemson University",
-    "type": "thesis",
     "issued": {
       "date-parts": [
         [
           2012
         ]
       ]
-    }
+    },
+    "publisher": "Clemson University",
+    "title": "Wilde Monsters: The Creation of Aesthete Criminals",
+    "type": "thesis"
   },
   {
     "id": "missa2025serious",
     "DOI": "10.64867/pjes.25435981.25.112.0972",
-    "type": "article-journal",
     "author": [
       {
         "family": "Missa",
         "given": "Konstancja"
       }
     ],
-    "title": "The Serious and The Frivolous: Parodic and Thematic Dualities of Oscar Wilde’s “The Canterville Ghost”",
     "container-title": "Polish Journal of English Studies",
-    "volume": "11",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -2179,7 +2274,10 @@
         ]
       ]
     },
-    "page": "129–43"
+    "page": "129–43",
+    "title": "The Serious and The Frivolous: Parodic and Thematic Dualities of Oscar Wilde’s “The Canterville Ghost”",
+    "type": "article-journal",
+    "volume": "11"
   },
   {
     "id": "monaghan1974literary",
@@ -2189,9 +2287,7 @@
         "given": "David M."
       }
     ],
-    "title": "The Literary Fairy-Tale: A Study of Oscar Wilde’s ‘The Happy Prince’ and ‘The Star-Child.’",
     "container-title": "CRCL/RCLC",
-    "volume": "1",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -2201,29 +2297,9 @@
       ]
     },
     "page": "156–66",
-    "type": "article-journal"
-  },
-  {
-    "id": "wildeoscar1891fisherman",
-    "URL": "http://corsair.themorgan.org/vwebv/holdingsInfo?bibId=325213",
-    "author": [
-      {
-        "literal": "Wilde, Oscar"
-      }
-    ],
-    "title": "The Fisherman and His Soul: Proof Sheets with Autograph Corrections",
-    "type": "manuscript",
-    "archive": "Morgan Library and Museum",
-    "issued": {
-      "date-parts": [
-        [
-          1891,
-          5,
-          26
-        ]
-      ]
-    },
-    "publisher-place": "London"
+    "title": "The Literary Fairy-Tale: A Study of Oscar Wilde’s ‘The Happy Prince’ and ‘The Star-Child.’",
+    "type": "article-journal",
+    "volume": "1"
   },
   {
     "id": "moyle2012constance",
@@ -2233,7 +2309,6 @@
         "given": "Franny"
       }
     ],
-    "title": "Constance: The Tragic and Scandalous Life of Mrs Oscar Wilde",
     "issued": {
       "date-parts": [
         [
@@ -2242,6 +2317,7 @@
       ]
     },
     "publisher": "John Murray",
+    "title": "Constance: The Tragic and Scandalous Life of Mrs Oscar Wilde",
     "type": "book"
   },
   {
@@ -2252,7 +2328,6 @@
         "given": "Isobel"
       }
     ],
-    "title": "Introduction",
     "container-title": "The Complete Shorter Fiction of Oscar Wilde",
     "issued": {
       "date-parts": [
@@ -2263,6 +2338,7 @@
     },
     "page": "1–18",
     "publisher": "Oxford University Press",
+    "title": "Introduction",
     "type": "chapter"
   },
   {
@@ -2273,9 +2349,7 @@
         "given": "Christopher S."
       }
     ],
-    "title": "Andersen’s ‘The Shadow’ and Wilde’s ‘The Fisherman and His Soul’: A Case of Influence",
     "container-title": "Nineteenth-Century Literature",
-    "volume": "50",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -2285,7 +2359,9 @@
       ]
     },
     "page": "217–24",
-    "type": "article-journal"
+    "title": "Andersen’s ‘The Shadow’ and Wilde’s ‘The Fisherman and His Soul’: A Case of Influence",
+    "type": "article-journal",
+    "volume": "50"
   },
   {
     "id": "nassaar1997andersen",
@@ -2296,9 +2372,7 @@
         "given": "Christopher S."
       }
     ],
-    "title": "Andersen’s the Ugly Duckling and Wilde’s the Birthday of the Infanta",
     "container-title": "The Explicator",
-    "volume": "55",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -2308,7 +2382,32 @@
       ]
     },
     "page": "83–85",
-    "type": "article-journal"
+    "title": "Andersen’s the Ugly Duckling and Wilde’s the Birthday of the Infanta",
+    "type": "article-journal",
+    "volume": "55"
+  },
+  {
+    "id": "nassaar2002wilde",
+    "DOI": "10/b7t64z",
+    "author": [
+      {
+        "family": "Nassaar",
+        "given": "Christopher S."
+      }
+    ],
+    "container-title": "The Explicator",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "142–45",
+    "title": "Wilde’s the Happy Prince and Other Tales and a House of Pomegranates",
+    "type": "article-journal",
+    "volume": "60"
   },
   {
     "id": "nassaar2014oscar",
@@ -2319,7 +2418,6 @@
         "given": "Christopher S."
       }
     ],
-    "title": "Oscar Wilde and the (Attempted) Murder of Conscience",
     "container-title": "The Wildean",
     "issue": "45",
     "issued": {
@@ -2330,6 +2428,7 @@
       ]
     },
     "page": "2–19",
+    "title": "Oscar Wilde and the (Attempted) Murder of Conscience",
     "type": "article-journal"
   },
   {
@@ -2341,9 +2440,7 @@
         "given": "Christopher S."
       }
     ],
-    "title": "Oscar Wilde’s ‘Lord Arthur Savile’s Crime’ and <i>The Picture of Dorian Gray</i>: Point Counterpoint",
     "container-title": "ANQ: A Quarterly Journal of Short Articles, Notes and Reviews",
-    "volume": "27",
     "issue": "3",
     "issued": {
       "date-parts": [
@@ -2353,30 +2450,9 @@
       ]
     },
     "page": "137–43",
-    "type": "article-journal"
-  },
-  {
-    "id": "nassaar2002wilde",
-    "DOI": "10/b7t64z",
-    "title": "Wilde’s the Happy Prince and Other Tales and a House of Pomegranates",
-    "container-title": "The Explicator",
-    "volume": "60",
-    "issue": "3",
-    "issued": {
-      "date-parts": [
-        [
-          2002
-        ]
-      ]
-    },
-    "page": "142–45",
+    "title": "Oscar Wilde’s ‘Lord Arthur Savile’s Crime’ and <i>The Picture of Dorian Gray</i>: Point Counterpoint",
     "type": "article-journal",
-    "author": [
-      {
-        "family": "Nassaar",
-        "given": "Christopher S."
-      }
-    ]
+    "volume": "27"
   },
   {
     "id": "navarre2011oscar",
@@ -2386,9 +2462,7 @@
         "given": "Joan"
       }
     ],
-    "title": "Oscar Wilde, Edward Heron-Allen, and the Palmistry Craze of the 1880s",
     "container-title": "English Literature in Transition 1880-1920",
-    "volume": "54",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -2398,7 +2472,40 @@
       ]
     },
     "page": "174–84",
-    "type": "article-journal"
+    "title": "Oscar Wilde, Edward Heron-Allen, and the Palmistry Craze of the 1880s",
+    "type": "article-journal",
+    "volume": "54"
+  },
+  {
+    "id": "ndannotated",
+    "URL": "https://portraitofmrwh.wordpress.com/",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          4
+        ]
+      ]
+    },
+    "title": "The Annotated Portrait of Mr. W.H.",
+    "type": "webpage"
+  },
+  {
+    "id": "ndrosenbach",
+    "URL": "https://editions.covecollective.org/content/rosenbach-manuscript-oscar-wildes-extended-portrait-mr-wh",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          5
+        ]
+      ]
+    },
+    "container-title": "COVE Editions",
+    "title": "Rosenbach Manuscript of Oscar Wilde’s Extended “The Portrait of Mr W.H.”",
+    "type": "webpage"
   },
   {
     "id": "nodelman2017young",
@@ -2408,7 +2515,6 @@
         "given": "Perry"
       }
     ],
-    "title": "The Young Know Everything: Oscar Wilde’s Fairy Tales as Children’s Literature",
     "container-title": "Oscar Wilde and the Cultures of Childhood",
     "editor": [
       {
@@ -2425,6 +2531,7 @@
     },
     "page": "181–202",
     "publisher": "Palgrave Macmillan",
+    "title": "The Young Know Everything: Oscar Wilde’s Fairy Tales as Children’s Literature",
     "type": "chapter"
   },
   {
@@ -2435,7 +2542,7 @@
         "given": "Gareth"
       }
     ],
-    "title": "Wilde’s Gracious Enclosures: A Brief Tour",
+    "container-title": "Victorian Newsletter",
     "issue": "91",
     "issued": {
       "date-parts": [
@@ -2445,8 +2552,8 @@
       ]
     },
     "page": "17–20",
-    "type": "article-journal",
-    "container-title": "Victorian Newsletter"
+    "title": "Wilde’s Gracious Enclosures: A Brief Tour",
+    "type": "article-journal"
   },
   {
     "id": "obed1997approaching",
@@ -2457,17 +2564,17 @@
         "given": "Leonara R. Villegas"
       }
     ],
-    "title": "Approaching an Irony of Difference: The Self as an Outsider in the Short Stories of Oscar Wilde",
     "container-title": "Journal of the Short Story in English. Les Cahiers de la nouvelle",
     "issue": "29",
     "issued": {
       "date-parts": [
         [
-          1997,
+          "1997",
           9
         ]
       ]
     },
+    "title": "Approaching an Irony of Difference: The Self as an Outsider in the Short Stories of Oscar Wilde",
     "type": "article-journal"
   },
   {
@@ -2479,9 +2586,7 @@
         "given": "Maureen"
       }
     ],
-    "title": "Maria Edgeworth’s Fostering Art and the Fairy Tales of Oscar Wilde",
     "container-title": "Women’s Studies: An Interdisciplinary Journal",
-    "volume": "31",
     "issue": "3",
     "issued": {
       "date-parts": [
@@ -2491,31 +2596,33 @@
       ]
     },
     "page": "399–429",
-    "type": "article-journal"
+    "title": "Maria Edgeworth’s Fostering Art and the Fairy Tales of Oscar Wilde",
+    "type": "article-journal",
+    "volume": "31"
   },
   {
     "id": "oconnor2004spectre",
     "DOI": "10.1080/0967088042000267542",
-    "title": "The Spectre of Genre in ‘The Canterville Ghost.’",
-    "container-title": "Irish Studies Review",
-    "volume": "12",
-    "issue": "3",
-    "issued": {
-      "date-parts": [
-        [
-          2004,
-          12
-        ]
-      ]
-    },
-    "page": "329–38",
-    "type": "article-journal",
     "author": [
       {
         "family": "O’Connor",
         "given": "Maureen"
       }
-    ]
+    ],
+    "container-title": "Irish Studies Review",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          "2004",
+          12
+        ]
+      ]
+    },
+    "page": "329–38",
+    "title": "The Spectre of Genre in ‘The Canterville Ghost.’",
+    "type": "article-journal",
+    "volume": "12"
   },
   {
     "id": "ohi2005innocence",
@@ -2525,7 +2632,6 @@
         "given": "Kevin"
       }
     ],
-    "title": "Innocence and Rapture: The Erotic Child in Pater, Wilde, James, and Nabokov",
     "issued": {
       "date-parts": [
         [
@@ -2534,6 +2640,7 @@
       ]
     },
     "publisher": "Palgrave Macmillan",
+    "title": "Innocence and Rapture: The Erotic Child in Pater, Wilde, James, and Nabokov",
     "type": "book"
   },
   {
@@ -2545,9 +2652,7 @@
         "given": "Kate"
       }
     ],
-    "title": "The Building of ‘A House of Pomegranates.’",
     "container-title": "Marvels & Tales",
-    "volume": "25",
     "issue": "1",
     "issued": {
       "date-parts": [
@@ -2557,7 +2662,9 @@
       ]
     },
     "page": "124–41",
-    "type": "article-journal"
+    "title": "The Building of ‘A House of Pomegranates.’",
+    "type": "article-journal",
+    "volume": "25"
   },
   {
     "id": "peters2020oscar",
@@ -2568,9 +2675,7 @@
         "given": "John G."
       }
     ],
-    "title": "Oscar Wilde’s Aesthetics of Perception",
     "container-title": "English Literature in Transition 1880-1920",
-    "volume": "63",
     "issue": "4",
     "issued": {
       "date-parts": [
@@ -2580,7 +2685,9 @@
       ]
     },
     "page": "559–79",
-    "type": "article-journal"
+    "title": "Oscar Wilde’s Aesthetics of Perception",
+    "type": "article-journal",
+    "volume": "63"
   },
   {
     "id": "pine1995thief",
@@ -2590,7 +2697,6 @@
         "given": "Richard"
       }
     ],
-    "title": "The Thief of Reason: Oscar Wilde & Modern Ireland",
     "issued": {
       "date-parts": [
         [
@@ -2599,6 +2705,7 @@
       ]
     },
     "publisher": "St. Martin’s Press",
+    "title": "The Thief of Reason: Oscar Wilde & Modern Ireland",
     "type": "book"
   },
   {
@@ -2609,7 +2716,6 @@
         "given": "Regina M."
       }
     ],
-    "title": "Loveable Monsters, Redeemable Men: The Lonely Voice of Oscar Wilde",
     "container-title": "Advances in English and American Studies: Current Developments, Future Trends",
     "editor": [
       {
@@ -2624,22 +2730,21 @@
         ]
       ]
     },
+    "note": "et al.",
     "page": "49–56",
     "publisher": "UCO Press",
-    "type": "chapter",
-    "note": "et al."
+    "title": "Loveable Monsters, Redeemable Men: The Lonely Voice of Oscar Wilde",
+    "type": "chapter"
   },
   {
     "id": "ponciano2025haunting",
     "DOI": "10.24162/EI2025-13258",
-    "type": "article-journal",
     "author": [
       {
         "family": "Ponciano",
         "given": "Regina M."
       }
     ],
-    "title": "Haunting the In-between: Gender and Genre in Oscar Wilde’s “The Canterville Ghost”",
     "container-title": "Estudios Irlandeses",
     "issue": "20",
     "issued": {
@@ -2649,29 +2754,31 @@
         ]
       ]
     },
-    "page": "78–90"
+    "page": "78–90",
+    "title": "Haunting the In-between: Gender and Genre in Oscar Wilde’s “The Canterville Ghost”",
+    "type": "article-journal"
   },
   {
     "id": "ponciano2025revaluing",
-    "type": "article-journal",
     "author": [
       {
         "family": "Ponciano",
         "given": "Regina M."
       }
     ],
-    "title": "Revaluing Oscar Wilde’s Short Fiction: A Call for Collaboration",
     "container-title": "The Wildean: A Journal of Oscar Wilde Studies",
     "issue": "67",
     "issued": {
       "date-parts": [
         [
-          2025,
+          "2025",
           7
         ]
       ]
     },
-    "page": "178–85"
+    "page": "178–85",
+    "title": "Revaluing Oscar Wilde’s Short Fiction: A Call for Collaboration",
+    "type": "article-journal"
   },
   {
     "id": "poteet1970romantic",
@@ -2681,20 +2788,20 @@
         "given": "Lewis J."
       }
     ],
-    "title": "Romantic Aesthetics in Oscar Wilde’s ‘Mr. W.H.’",
     "container-title": "Short Fiction",
-    "volume": "7",
     "issue": "3",
     "issued": {
       "date-parts": [
         [
-          1970
+          "1970"
         ]
       ],
       "season": "Summer"
     },
     "page": "458–64",
-    "type": "article-journal"
+    "title": "Romantic Aesthetics in Oscar Wilde’s ‘Mr. W.H.’",
+    "type": "article-journal",
+    "volume": "7"
   },
   {
     "id": "puleo2008altruism",
@@ -2705,19 +2812,19 @@
         "given": "Regina"
       }
     ],
-    "title": "Altruism and Redemption in the Fairy Tales of Hans Christian Andersen and Oscar Wilde",
     "container-title": "The Wildean: A Journal of Oscar Wilde Studies",
-    "volume": "32",
     "issued": {
       "date-parts": [
         [
-          2008,
+          "2008",
           1
         ]
       ]
     },
     "page": "78–87",
-    "type": "article-journal"
+    "title": "Altruism and Redemption in the Fairy Tales of Hans Christian Andersen and Oscar Wilde",
+    "type": "article-journal",
+    "volume": "32"
   },
   {
     "id": "quintus1979moral",
@@ -2728,9 +2835,7 @@
         "given": "John Allen"
       }
     ],
-    "title": "The Moral Prerogative in Oscar Wilde: A Look at the Fairy Tales",
     "container-title": "The Virginia Quarterly Review",
-    "volume": "53",
     "issue": "4",
     "issued": {
       "date-parts": [
@@ -2739,24 +2844,9 @@
         ]
       ]
     },
-    "type": "article-journal"
-  },
-  {
-    "id": "1888reader",
-    "title": "Reader Report for Macmillan",
-    "type": "manuscript",
-    "archive": "Macmillan Archive, British Library",
-    "archive_location": "Add. MS 55945",
-    "issued": {
-      "date-parts": [
-        [
-          1888,
-          2,
-          16
-        ]
-      ]
-    },
-    "note": "Reproduced in Small (2017), pp. xxviii, xxx."
+    "title": "The Moral Prerogative in Oscar Wilde: A Look at the Fairy Tales",
+    "type": "article-journal",
+    "volume": "53"
   },
   {
     "id": "rojaslizana2018kiss",
@@ -2775,20 +2865,20 @@
         "given": "Emily"
       }
     ],
-    "title": "‘Kiss Me on the Lips, for I Love You’ Over A Century of Heterosexism in the Spanish Translation of Oscar Wilde",
-    "volume": "6",
+    "container-title": "International Journal of Comparative Literature & Translation Studies",
     "issue": "2",
     "issued": {
       "date-parts": [
         [
-          2018,
+          "2018",
           4
         ]
       ]
     },
     "page": "9–18",
+    "title": "‘Kiss Me on the Lips, for I Love You’ Over A Century of Heterosexism in the Spanish Translation of Oscar Wilde",
     "type": "article-journal",
-    "container-title": "International Journal of Comparative Literature & Translation Studies"
+    "volume": "6"
   },
   {
     "id": "rose2008shorter",
@@ -2799,12 +2889,16 @@
       },
       {
         "family": "Smith",
-        "given": "Philip E.",
-        "suffix": "II"
+        "given": "Philip E."
       }
     ],
-    "title": "The Shorter Fiction Approached and Questioned",
     "container-title": "Approaches to Teaching the Works of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "Philip E."
+      }
+    ],
     "issued": {
       "date-parts": [
         [
@@ -2813,30 +2907,8 @@
       ]
     },
     "publisher": "Modern Language Association",
-    "type": "chapter",
-    "editor": [
-      {
-        "family": "Smith",
-        "given": "Philip E.",
-        "suffix": "II"
-      }
-    ]
-  },
-  {
-    "id": "ndrosenbach",
-    "accessed": {
-      "date-parts": [
-        [
-          2022,
-          9,
-          5
-        ]
-      ]
-    },
-    "URL": "https://editions.covecollective.org/content/rosenbach-manuscript-oscar-wildes-extended-portrait-mr-wh",
-    "title": "Rosenbach Manuscript of Oscar Wilde’s Extended “The Portrait of Mr W.H.”",
-    "type": "webpage",
-    "container-title": "COVE Editions"
+    "title": "The Shorter Fiction Approached and Questioned",
+    "type": "chapter"
   },
   {
     "id": "ross1920oscar",
@@ -2847,9 +2919,6 @@
         "given": "Robert Baldwin"
       }
     ],
-    "title": "Oscar Wilde: Manuscripts, Autograph Letters, First Editions",
-    "publisher": "Dulau & Company Limited",
-    "type": "book",
     "issued": {
       "date-parts": [
         [
@@ -2857,7 +2926,10 @@
         ]
       ]
     },
-    "note": "et al."
+    "note": "et al.",
+    "publisher": "Dulau & Company Limited",
+    "title": "Oscar Wilde: Manuscripts, Autograph Letters, First Editions",
+    "type": "book"
   },
   {
     "id": "ruddick2008teaching",
@@ -2867,13 +2939,11 @@
         "given": "Nicholas"
       }
     ],
-    "title": "Teaching Wilde’s Fairy Tales: Aestheticism as Social and Cultural Critique in ‘The Happy Prince’ and ‘The Nightingale and the Rose.’",
     "container-title": "Approaches to Teaching the Works of Oscar Wilde",
     "editor": [
       {
         "family": "Smith",
-        "given": "Philip E.",
-        "suffix": "II"
+        "given": "Philip E."
       }
     ],
     "issued": {
@@ -2885,6 +2955,7 @@
     },
     "page": "93–99",
     "publisher": "Modern Language Association",
+    "title": "Teaching Wilde’s Fairy Tales: Aestheticism as Social and Cultural Critique in ‘The Happy Prince’ and ‘The Nightingale and the Rose.’",
     "type": "chapter"
   },
   {
@@ -2895,9 +2966,7 @@
         "given": "Michelle"
       }
     ],
-    "title": "Wilde’s <i>The Happy Prince</i> and <i>A House of Pomegranates</i>: Bedtime Stories for Grown-Ups",
     "container-title": "English Literature in Transition 1880-1920",
-    "volume": "46",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -2907,7 +2976,9 @@
       ]
     },
     "page": "141–53",
-    "type": "article-journal"
+    "title": "Wilde’s <i>The Happy Prince</i> and <i>A House of Pomegranates</i>: Bedtime Stories for Grown-Ups",
+    "type": "article-journal",
+    "volume": "46"
   },
   {
     "id": "rutledge2010flowers",
@@ -2918,18 +2989,18 @@
         "given": "Amelia A."
       }
     ],
-    "title": "Flowers of Love, Death, and Redemption: Wagnerian Motifs in Oscar Wilde’s “The Fisherman and His Soul” and “The Nightingale and the Rose”",
+    "container-title": "A Giant’s Garden: Special ‘Fairy Tales’ Issue",
     "issued": {
       "date-parts": [
         [
-          2010,
+          "2010",
           10,
           14
         ]
       ]
     },
-    "type": "webpage",
-    "container-title": "A Giant’s Garden: Special ‘Fairy Tales’ Issue"
+    "title": "Flowers of Love, Death, and Redemption: Wagnerian Motifs in Oscar Wilde’s “The Fisherman and His Soul” and “The Nightingale and the Rose”",
+    "type": "webpage"
   },
   {
     "id": "saintamour2000oscar",
@@ -2940,9 +3011,7 @@
         "given": "K."
       }
     ],
-    "title": "Oscar Wilde: Orality, Literary Property, and Crimes of Writing",
     "container-title": "Nineteenth-Century Literature",
-    "volume": "55",
     "issue": "1",
     "issued": {
       "date-parts": [
@@ -2952,7 +3021,9 @@
       ]
     },
     "page": "59–91",
-    "type": "article-journal"
+    "title": "Oscar Wilde: Orality, Literary Property, and Crimes of Writing",
+    "type": "article-journal",
+    "volume": "55"
   },
   {
     "id": "sanudo2011borges",
@@ -2962,8 +3033,7 @@
         "given": "Belén Lozano"
       }
     ],
-    "title": "Borges y la traducción. Análisis de su primera incursión práctica: El príncipe feliz de Oscar Wilde",
-    "volume": "4",
+    "container-title": "Mutatis Mutandis. Revista Latinoamericana de Traducción",
     "issue": "1",
     "issued": {
       "date-parts": [
@@ -2972,10 +3042,11 @@
         ]
       ]
     },
-    "page": "38–47",
-    "type": "article-journal",
     "language": "es",
-    "container-title": "Mutatis Mutandis. Revista Latinoamericana de Traducción"
+    "page": "38–47",
+    "title": "Borges y la traducción. Análisis de su primera incursión práctica: El príncipe feliz de Oscar Wilde",
+    "type": "article-journal",
+    "volume": "4"
   },
   {
     "id": "sanzcasares1996el",
@@ -2985,7 +3056,6 @@
         "given": "María Concepción"
       }
     ],
-    "title": "El Universo de Los Cuentos de Oscar Wilde",
     "issued": {
       "date-parts": [
         [
@@ -2993,32 +3063,19 @@
         ]
       ]
     },
+    "language": "es",
     "publisher": "Secretariado de Publicaciones e Intercambio Científico, Universidad de Valladolid",
-    "type": "book",
-    "language": "es"
+    "title": "El Universo de Los Cuentos de Oscar Wilde",
+    "type": "book"
   },
   {
-    "id": "schroeder1989additions",
+    "id": "schroeder1984oscar",
     "author": [
       {
         "family": "Schroeder",
         "given": "Horst"
       }
     ],
-    "title": "Additions and Corrections to Richard Ellmann’s Oscar Wilde",
-    "issued": {
-      "date-parts": [
-        [
-          1989
-        ]
-      ]
-    },
-    "publisher": "Privately Printed",
-    "type": "book"
-  },
-  {
-    "id": "schroeder1984oscar",
-    "title": "Oscar Wilde, ’The Portrait of Mr W.H.’—Its Composition, Publication and Reception",
     "issued": {
       "date-parts": [
         [
@@ -3027,17 +3084,17 @@
       ]
     },
     "publisher": "Technische Universität Carolo-Wilhelmina zu Braunschweig",
-    "type": "book",
+    "title": "Oscar Wilde, ’The Portrait of Mr W.H.’—Its Composition, Publication and Reception",
+    "type": "book"
+  },
+  {
+    "id": "schroeder1988some",
     "author": [
       {
         "family": "Schroeder",
         "given": "Horst"
       }
-    ]
-  },
-  {
-    "id": "schroeder1988some",
-    "title": "Some Historical & Literary References in Oscar Wilde’s ‘The Birthday of the Infanta.’",
+    ],
     "container-title": "Literatur in Wissenschaft Und Unterricht",
     "issue": "4",
     "issued": {
@@ -3048,13 +3105,27 @@
       ]
     },
     "page": "289–92",
-    "type": "article-journal",
+    "title": "Some Historical & Literary References in Oscar Wilde’s ‘The Birthday of the Infanta.’",
+    "type": "article-journal"
+  },
+  {
+    "id": "schroeder1989additions",
     "author": [
       {
         "family": "Schroeder",
         "given": "Horst"
       }
-    ]
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "publisher": "Privately Printed",
+    "title": "Additions and Corrections to Richard Ellmann’s Oscar Wilde",
+    "type": "book"
   },
   {
     "id": "schultz2009coalescing",
@@ -3065,20 +3136,20 @@
         "given": "Matthew"
       }
     ],
-    "title": "Coalescing Oscar Wilde: Discussing Wilde’s Decadent Aesthetic Using His Essays, Fairy Tales, and Biography",
     "container-title": "Eureka Studies in Teaching Short Fiction",
-    "volume": "9",
     "issue": "2",
-    "page": "79–88",
-    "type": "article-journal",
     "issued": {
       "date-parts": [
         [
-          2009
+          "2009"
         ]
       ],
       "season": "Spring"
-    }
+    },
+    "page": "79–88",
+    "title": "Coalescing Oscar Wilde: Discussing Wilde’s Decadent Aesthetic Using His Essays, Fairy Tales, and Biography",
+    "type": "article-journal",
+    "volume": "9"
   },
   {
     "id": "serra2002de",
@@ -3088,9 +3159,7 @@
         "given": "Alessandra"
       }
     ],
-    "title": "De-Centering Myths: Postmodernism Echoes in Oscar Wilde’s Poems in Prose",
     "container-title": "Rivista Di Studi Vittoriani",
-    "volume": "14",
     "issued": {
       "date-parts": [
         [
@@ -3099,7 +3168,9 @@
       ]
     },
     "page": "63–75",
-    "type": "article-journal"
+    "title": "De-Centering Myths: Postmodernism Echoes in Oscar Wilde’s Poems in Prose",
+    "type": "article-journal",
+    "volume": "14"
   },
   {
     "id": "shillinglaw2005wilde",
@@ -3110,20 +3181,20 @@
         "given": "Ann"
       }
     ],
-    "title": "Wilde’s the Remarkable Rocket",
     "container-title": "The Explicator",
-    "volume": "63",
     "issue": "4",
     "issued": {
       "date-parts": [
         [
-          2005,
+          "2005",
           1
         ]
       ]
     },
     "page": "222–25",
-    "type": "article-journal"
+    "title": "Wilde’s the Remarkable Rocket",
+    "type": "article-journal",
+    "volume": "63"
   },
   {
     "id": "siegel1986wilde",
@@ -3134,9 +3205,7 @@
         "given": "Sandra"
       }
     ],
-    "title": "Wilde’s Use and Abuse of Aphorisms",
     "container-title": "Newsletter of the Victorian Studies Association of Western Canada",
-    "volume": "12",
     "issued": {
       "date-parts": [
         [
@@ -3145,7 +3214,9 @@
       ]
     },
     "page": "16–26",
-    "type": "article-journal"
+    "title": "Wilde’s Use and Abuse of Aphorisms",
+    "type": "article-journal",
+    "volume": "12"
   },
   {
     "id": "small2007introduction",
@@ -3155,7 +3226,6 @@
         "given": "Ian"
       }
     ],
-    "title": "Introduction: Poems and Poems in Prose",
     "container-title": "The Complete Works of Oscar Wilde: Poems and Poems in Prose: Volume I",
     "editor": [
       {
@@ -3175,11 +3245,39 @@
       ]
     },
     "publisher": "Oxford University Press",
+    "title": "Introduction: Poems and Poems in Prose",
     "type": "chapter"
   },
   {
+    "id": "small2015some",
+    "URL": "https://www.jstor.org/stable/48571625",
+    "author": [
+      {
+        "family": "Small",
+        "given": "Ian"
+      }
+    ],
+    "container-title": "The Wildean",
+    "issue": "46",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "2–20",
+    "title": "‘Some Studies in Prose’: The Beginnings of Wilde’s Career in Fiction",
+    "type": "article-journal"
+  },
+  {
     "id": "small2017introduction",
-    "title": "Introduction: The Short Fiction",
+    "author": [
+      {
+        "family": "Small",
+        "given": "Ian"
+      }
+    ],
     "container-title": "The Complete Works of Oscar Wilde: Volume VIII The Short Fiction",
     "editor": [
       {
@@ -3196,42 +3294,19 @@
     },
     "page": "xi–lxxxiii",
     "publisher": "Oxford University Press",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Small",
-        "given": "Ian"
-      }
-    ]
+    "title": "Introduction: The Short Fiction",
+    "type": "chapter"
   },
   {
-    "id": "small2015some",
-    "URL": "https://www.jstor.org/stable/48571625",
-    "title": "‘Some Studies in Prose’: The Beginnings of Wilde’s Career in Fiction",
-    "container-title": "The Wildean",
-    "issue": "46",
-    "issued": {
-      "date-parts": [
-        [
-          2015
-        ]
-      ]
-    },
-    "type": "article-journal",
+    "id": "small2020portrait",
+    "URL": "https://muse.jhu.edu/article/751261",
     "author": [
       {
         "family": "Small",
         "given": "Ian"
       }
     ],
-    "page": "2–20"
-  },
-  {
-    "id": "small2020portrait",
-    "URL": "https://muse.jhu.edu/article/751261",
-    "title": "‘The Portrait of Mr W. H.’, Textual Identity, and Oscar Wilde’s ‘Incalculable Injury.’",
     "container-title": "English Literature in Transition 1880-1920",
-    "volume": "63",
     "issue": "4",
     "issued": {
       "date-parts": [
@@ -3241,13 +3316,9 @@
       ]
     },
     "page": "509–32",
+    "title": "‘The Portrait of Mr W. H.’, Textual Identity, and Oscar Wilde’s ‘Incalculable Injury.’",
     "type": "article-journal",
-    "author": [
-      {
-        "family": "Small",
-        "given": "Ian"
-      }
-    ]
+    "volume": "63"
   },
   {
     "id": "smith2017play",
@@ -3257,7 +3328,6 @@
         "given": "Lindsay"
       }
     ],
-    "title": "‘Play[Ing] Narcissus to a Photograph’: Oscar Wilde and the Image of the Child",
     "container-title": "Oscar Wilde and the Cultures of Childhood",
     "issued": {
       "date-parts": [
@@ -3268,6 +3338,7 @@
     },
     "page": "41–68",
     "publisher": "Palgrave Macmillan",
+    "title": "‘Play[Ing] Narcissus to a Photograph’: Oscar Wilde and the Image of the Child",
     "type": "chapter"
   },
   {
@@ -3279,19 +3350,19 @@
         "given": "Clifton"
       }
     ],
-    "title": "Eros and Logos in Some Fairy Tales by Oscar Wilde: A Jungian Interpretation",
     "container-title": "Victorian Newsletter",
-    "volume": "84",
     "issued": {
       "date-parts": [
         [
-          1993
+          "1993"
         ]
       ],
       "season": "Fall"
     },
     "page": "1–8",
-    "type": "article-journal"
+    "title": "Eros and Logos in Some Fairy Tales by Oscar Wilde: A Jungian Interpretation",
+    "type": "article-journal",
+    "volume": "84"
   },
   {
     "id": "stevens2010afterlife",
@@ -3302,7 +3373,6 @@
         "given": "Jennifer"
       }
     ],
-    "title": "The Afterlife of Oscar Wilde’s Oral Tales",
     "container-title": "The Historical Jesus and the Literary Imagination 1860–1920",
     "issued": {
       "date-parts": [
@@ -3312,6 +3382,7 @@
       ]
     },
     "publisher": "Liverpool University Press",
+    "title": "The Afterlife of Oscar Wilde’s Oral Tales",
     "type": "chapter"
   },
   {
@@ -3323,7 +3394,6 @@
         "given": "Jessica"
       }
     ],
-    "title": "Oscar Wilde’s Fairy Tales and the Evolution of Lying",
     "container-title": "Oscar Wilde and the Cultures of Childhood",
     "issued": {
       "date-parts": [
@@ -3334,39 +3404,19 @@
     },
     "page": "159–80",
     "publisher": "Palgrave Macmillan",
+    "title": "Oscar Wilde’s Fairy Tales and the Evolution of Lying",
     "type": "chapter"
   },
   {
-    "id": "thampy2020goodness",
-    "author": [
-      {
-        "family": "Thampy",
-        "given": "Chitra Susan"
-      }
-    ],
-    "title": "The Goodness in Sin: A Protest against Utilitarianism in Short Stories by Oscar Wilde",
-    "issue": "4",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "page": "2422–2425",
-    "type": "article-journal",
-    "container-title": "International Journal of Creative Research Thoughts (IJCRT)",
-    "volume": "8"
-  },
-  {
     "id": "talairachvielmas2011review",
+    "URL": "https://muse.jhu.edu/article/462748",
     "author": [
       {
         "family": "Talairach-Vielmas",
         "given": "Laurence"
       }
     ],
-    "title": "Review of <i>A Giant’s Garden: Special “Fairy Tales” Issue</i>",
+    "container-title": "Marvels & Tales",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -3376,10 +3426,9 @@
       ]
     },
     "page": "392–394",
+    "title": "Review of <i>A Giant’s Garden: Special “Fairy Tales” Issue</i>",
     "type": "article-journal",
-    "container-title": "Marvels & Tales",
-    "volume": "25",
-    "URL": "https://muse.jhu.edu/article/462748"
+    "volume": "25"
   },
   {
     "id": "tatar2017aesthetics",
@@ -3389,7 +3438,6 @@
         "given": "Maria"
       }
     ],
-    "title": "The Aesthetics of Altruism in Oscar Wilde’s Fairy Tales",
     "container-title": "Oscar Wilde and the Cultures of Childhood",
     "issued": {
       "date-parts": [
@@ -3400,6 +3448,7 @@
     },
     "page": "145–57",
     "publisher": "Palgrave Macmillan",
+    "title": "The Aesthetics of Altruism in Oscar Wilde’s Fairy Tales",
     "type": "chapter"
   },
   {
@@ -3410,9 +3459,7 @@
         "given": "Carol Ann"
       }
     ],
-    "title": "An Immodest Proposal: Rereading Oscar Wilde’s ‘Fairy Tales.’",
     "container-title": "Wascana Review",
-    "volume": "26",
     "issue": "1–2",
     "issued": {
       "date-parts": [
@@ -3422,13 +3469,12 @@
       ]
     },
     "page": "128–39",
-    "type": "article-journal"
+    "title": "An Immodest Proposal: Rereading Oscar Wilde’s ‘Fairy Tales.’",
+    "type": "article-journal",
+    "volume": "26"
   },
   {
     "id": "tattersall1998oscar",
-    "title": "Oscar Fingal O’Flahertie, The Wilde Colonial Boy: Social and Political Subversion in Oscar Wilde’s Fairy Tales",
-    "publisher": "University of Toronto",
-    "type": "thesis",
     "author": [
       {
         "family": "Tattersall",
@@ -3442,104 +3488,32 @@
         ]
       ]
     },
-    "number-of-pages": "274"
+    "number-of-pages": "274",
+    "publisher": "University of Toronto",
+    "title": "Oscar Fingal O’Flahertie, The Wilde Colonial Boy: Social and Political Subversion in Oscar Wilde’s Fairy Tales",
+    "type": "thesis"
   },
   {
-    "id": "ndannotated",
-    "accessed": {
-      "date-parts": [
-        [
-          2020,
-          11,
-          4
-        ]
-      ]
-    },
-    "URL": "https://portraitofmrwh.wordpress.com/",
-    "title": "The Annotated Portrait of Mr. W.H.",
-    "type": "webpage"
-  },
-  {
-    "id": "1996canterville",
-    "URL": "https://www.imdb.com/title/tt0115820/",
-    "title": "The Canterville Ghost",
-    "director": [
+    "id": "thampy2020goodness",
+    "author": [
       {
-        "family": "Macartney",
-        "given": "Syd"
+        "family": "Thampy",
+        "given": "Chitra Susan"
       }
     ],
+    "container-title": "International Journal of Creative Research Thoughts (IJCRT)",
+    "issue": "4",
     "issued": {
       "date-parts": [
         [
-          1996
+          2020
         ]
       ]
     },
-    "type": "motion_picture"
-  },
-  {
-    "id": "1944canterville",
-    "URL": "https://www.imdb.com/title/tt0036696/?ref_=tt_sims_tt_i_2",
-    "title": "The Canterville Ghost",
-    "director": [
-      {
-        "family": "Dassin",
-        "given": "Jules"
-      },
-      {
-        "family": "McLeod",
-        "given": "Norman Z."
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          1944
-        ]
-      ]
-    },
-    "publisher": "Metro-Goldwyn-Mayer (MGM)",
-    "type": "motion_picture"
-  },
-  {
-    "id": "1986canterville",
-    "URL": "https://www.imdb.com/title/tt0090792/?ref_=fn_al_tt_4",
-    "title": "The Canterville Ghost",
-    "director": [
-      {
-        "family": "Bogart",
-        "given": "Paul"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          1986
-        ]
-      ]
-    },
-    "publisher": "Columbia Pictures Television, HTV, Inter-Hemisphere",
-    "type": "motion_picture"
-  },
-  {
-    "id": "2018happy",
-    "title": "The Happy Prince",
-    "director": [
-      {
-        "family": "Everett",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2018
-        ]
-      ]
-    },
-    "publisher": "Maze Pictures, Entre Chien et Loup, Palomar",
-    "type": "motion_picture"
+    "page": "2422–2425",
+    "title": "The Goodness in Sin: A Protest against Utilitarianism in Short Stories by Oscar Wilde",
+    "type": "article-journal",
+    "volume": "8"
   },
   {
     "id": "thompson2001importance",
@@ -3550,9 +3524,7 @@
         "given": "Mary Shine"
       }
     ],
-    "title": "The Importance of Not Being Earnest: Children and Oscar Wilde’s Fairy Tales",
     "container-title": "New Review of Children’s Literature and Librarianship",
-    "volume": "7",
     "issue": "1",
     "issued": {
       "date-parts": [
@@ -3562,7 +3534,9 @@
       ]
     },
     "page": "191–204",
-    "type": "article-journal"
+    "title": "The Importance of Not Being Earnest: Children and Oscar Wilde’s Fairy Tales",
+    "type": "article-journal",
+    "volume": "7"
   },
   {
     "id": "thurschwell2018theory",
@@ -3573,9 +3547,7 @@
         "given": "Pamela"
       }
     ],
-    "title": "Theory to Die for: Lunging at the Arras in Wilde’s The Portrait of Mr. W. H. and James’s ‘The Figure in the Carpet.’",
     "container-title": "The Henry James Review",
-    "volume": "39",
     "issue": "1",
     "issued": {
       "date-parts": [
@@ -3585,7 +3557,9 @@
       ]
     },
     "page": "1–22",
-    "type": "article-journal"
+    "title": "Theory to Die for: Lunging at the Arras in Wilde’s The Portrait of Mr. W. H. and James’s ‘The Figure in the Carpet.’",
+    "type": "article-journal",
+    "volume": "39"
   },
   {
     "id": "tintner1977rothschild",
@@ -3596,18 +3570,18 @@
         "given": "Adeline R."
       }
     ],
-    "title": "A Rothschild Anecdote as a Source for Oscar Wilde’s ‘The Model Millionaire.’",
     "container-title": "Notes and Queries",
-    "volume": "24",
-    "page": "45–46",
-    "type": "article-journal",
     "issued": {
       "date-parts": [
         [
           1977
         ]
       ]
-    }
+    },
+    "page": "45–46",
+    "title": "A Rothschild Anecdote as a Source for Oscar Wilde’s ‘The Model Millionaire.’",
+    "type": "article-journal",
+    "volume": "24"
   },
   {
     "id": "tippin2019trick",
@@ -3618,9 +3592,7 @@
         "given": "R. Eric"
       }
     ],
-    "title": "The Trick of Modernist Difficulty: Oscar Wilde, G. K. Chesterton and the Essay",
     "container-title": "English Literature in Transition 1880-1920",
-    "volume": "62",
     "issue": "3",
     "issued": {
       "date-parts": [
@@ -3630,7 +3602,9 @@
       ]
     },
     "page": "391–413",
-    "type": "article-journal"
+    "title": "The Trick of Modernist Difficulty: Oscar Wilde, G. K. Chesterton and the Essay",
+    "type": "article-journal",
+    "volume": "62"
   },
   {
     "id": "tremper1978commitment",
@@ -3641,9 +3615,7 @@
         "given": "Ellen"
       }
     ],
-    "title": "Commitment and Escape: The Fairy Tales of Thackeray, Dickens, and Wilde",
     "container-title": "The Lion and the Unicorn",
-    "volume": "2",
     "issue": "1",
     "issued": {
       "date-parts": [
@@ -3653,7 +3625,9 @@
       ]
     },
     "page": "38–47",
-    "type": "article-journal"
+    "title": "Commitment and Escape: The Fairy Tales of Thackeray, Dickens, and Wilde",
+    "type": "article-journal",
+    "volume": "2"
   },
   {
     "id": "vallsoyarzun2020el",
@@ -3664,9 +3638,7 @@
         "given": "Eduardo"
       }
     ],
-    "title": "El Arte Por El Dolor: Resemantización Estética de La Crueldad En ‘The Birthday of the Infanta’ de Oscar Wilde",
     "container-title": "Estudios Irlandeses: Journal of Irish Studies",
-    "volume": "15",
     "issued": {
       "date-parts": [
         [
@@ -3674,22 +3646,23 @@
         ]
       ]
     },
+    "language": "es",
     "page": "130–42",
+    "title": "El Arte Por El Dolor: Resemantización Estética de La Crueldad En ‘The Birthday of the Infanta’ de Oscar Wilde",
     "type": "article-journal",
-    "language": "es"
+    "volume": "15"
   },
   {
     "id": "vernadakis2018crosscut",
     "DOI": "10.46608/leaves.vi5.288",
-    "type": "article-journal",
     "author": [
       {
         "family": "Vernadakis",
         "given": "Emmanuel"
       }
     ],
-    "title": "Crosscut Voices and Broken Ideals in “The Happy Prince” by Oscar Wilde",
     "container-title": "Leaves",
+    "issue": "5",
     "issued": {
       "date-parts": [
         [
@@ -3697,27 +3670,11 @@
         ]
       ]
     },
-    "issue": "5"
+    "title": "Crosscut Voices and Broken Ideals in “The Happy Prince” by Oscar Wilde",
+    "type": "article-journal"
   },
   {
     "id": "vernadakis2021contrastes",
-    "title": "Contrastes, interaction et croisements dans <i>Le Prince Heureux et autres contes</i> d’Oscar Wilde: du contexte au co-texte",
-    "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
-    },
-    "page": "63–82",
-    "publisher": "Presses universitaires de Franche-Comté",
-    "type": "chapter",
-    "editor": [
-      {
-        "family": "Bouygues",
-        "given": "Élodie"
-      }
-    ],
     "author": [
       {
         "family": "Vernadakis",
@@ -3725,8 +3682,25 @@
       }
     ],
     "container-title": "Formes brèves en littérature de jeunesse",
+    "editor": [
+      {
+        "family": "Bouygues",
+        "given": "Élodie"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
     "language": "fr",
-    "note": "et al."
+    "note": "et al.",
+    "page": "63–82",
+    "publisher": "Presses universitaires de Franche-Comté",
+    "title": "Contrastes, interaction et croisements dans <i>Le Prince Heureux et autres contes</i> d’Oscar Wilde: du contexte au co-texte",
+    "type": "chapter"
   },
   {
     "id": "walsh2021oscar",
@@ -3737,17 +3711,17 @@
         "given": "Kerrie"
       }
     ],
-    "title": "Oscar Wilde and the Evolution of the Gothic in an Age of Epistemological Upheaval",
     "container-title": "COVE Collective",
     "issued": {
       "date-parts": [
         [
-          2021,
+          "2021",
           2,
           25
         ]
       ]
     },
+    "title": "Oscar Wilde and the Evolution of the Gothic in an Age of Epistemological Upheaval",
     "type": "webpage"
   },
   {
@@ -3758,22 +3732,22 @@
         "given": "Cuming"
       }
     ],
-    "title": "“The Mystery of Shakespeare’s Sonnets: An Attempted Elucidation,” 1899, p. 16",
-    "container-title": "Bibliography of Oscar Wilde",
-    "type": "chapter",
     "container-author": [
       {
         "family": "Mason",
         "given": "Stuart"
       }
     ],
+    "container-title": "Bibliography of Oscar Wilde",
     "issued": {
       "date-parts": [
         [
           1914
         ]
       ]
-    }
+    },
+    "title": "“The Mystery of Shakespeare’s Sonnets: An Attempted Elucidation,” 1899, p. 16",
+    "type": "chapter"
   },
   {
     "id": "whiteley2017cosmopolitan",
@@ -3784,9 +3758,7 @@
         "given": "Giles"
       }
     ],
-    "title": "Cosmopolitan Space: Political Topographies in ‘Lord Arthur Savile’s Crime.’",
     "container-title": "Victoriographies",
-    "volume": "7",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -3796,7 +3768,9 @@
       ]
     },
     "page": "124–42",
-    "type": "article-journal"
+    "title": "Cosmopolitan Space: Political Topographies in ‘Lord Arthur Savile’s Crime.’",
+    "type": "article-journal",
+    "volume": "7"
   },
   {
     "id": "wilburn2011oscar",
@@ -3806,7 +3780,6 @@
         "given": "Lydia Reineck"
       }
     ],
-    "title": "Oscar Wilde’s “The Canterville Ghost”: The Power of an Audience",
     "issued": {
       "date-parts": [
         [
@@ -3814,8 +3787,29 @@
         ]
       ]
     },
-    "type": "thesis",
-    "number-of-pages": "41"
+    "number-of-pages": "41",
+    "title": "Oscar Wilde’s “The Canterville Ghost”: The Power of an Audience",
+    "type": "thesis"
+  },
+  {
+    "id": "wilde1888happy",
+    "URL": "http://archive.org/details/happyprinceother02wild",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1888
+        ]
+      ]
+    },
+    "publisher": "David Nutt",
+    "title": "The Happy Prince and Other Tales",
+    "type": "book"
   },
   {
     "id": "wilde1891house",
@@ -3826,7 +3820,6 @@
         "given": "Oscar"
       }
     ],
-    "title": "A House of Pomegranates",
     "issued": {
       "date-parts": [
         [
@@ -3835,65 +3828,19 @@
       ]
     },
     "publisher": "James R. Osgood, McIlvaine",
-    "type": "book",
-    "publisher-place": "London"
-  },
-  {
-    "id": "wilde2003complete",
-    "URL": "https://www.overdrive.com/search?q=9D9ACB6F-0E56-4343-9B7A-CD26BCA3FA5C",
-    "title": "Complete Short Fiction",
-    "editor": [
-      {
-        "family": "Small",
-        "given": "Ian"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2003
-        ]
-      ]
-    },
-    "publisher": "Penguin Books",
-    "type": "book",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde1921complete",
-    "URL": "http://archive.org/details/cu31924103377028",
-    "title": "Complete Works of Oscar Wilde: The Happy Prince and Other Tales, Lord Arthur Saville’s [<i><span class=\"nocase\">sic</span></i>] Crime and Other Prose Pieces",
-    "editor": [
-      {
-        "family": "Ross",
-        "given": "Robert Baldwin"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          1921
-        ]
-      ]
-    },
-    "publisher": "Wyman-Fogg Co",
-    "type": "book",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
+    "publisher-place": "London",
+    "title": "A House of Pomegranates",
+    "type": "book"
   },
   {
     "id": "wilde1908lord",
     "URL": "https://www.archive.org/stream/lordarthursavil02wildgoog/lordarthursavil02wildgoog_djvu.txt",
-    "title": "Lord Arthur Savile’s Crime and Other Prose Pieces",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
     "editor": [
       {
         "family": "Ross",
@@ -3908,18 +3855,18 @@
       ]
     },
     "publisher": "Methuen and Co",
-    "type": "book",
+    "title": "Lord Arthur Savile’s Crime and Other Prose Pieces",
+    "type": "book"
+  },
+  {
+    "id": "wilde1908prose",
+    "URL": "http://archive.org/details/completeworksos00rossgoog",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde1908prose",
-    "URL": "http://archive.org/details/completeworksos00rossgoog",
-    "title": "Prose Poems",
+    ],
     "editor": [
       {
         "family": "Ross",
@@ -3934,17 +3881,43 @@
       ]
     },
     "publisher": "The Wyman-Fogg company",
-    "type": "book",
+    "title": "Prose Poems",
+    "type": "book"
+  },
+  {
+    "id": "wilde1921complete",
+    "URL": "http://archive.org/details/cu31924103377028",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
+    ],
+    "editor": [
+      {
+        "family": "Ross",
+        "given": "Robert Baldwin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1921
+        ]
+      ]
+    },
+    "publisher": "Wyman-Fogg Co",
+    "title": "Complete Works of Oscar Wilde: The Happy Prince and Other Tales, Lord Arthur Saville’s [<i><span class=\"nocase\">sic</span></i>] Crime and Other Prose Pieces",
+    "type": "book"
   },
   {
     "id": "wilde2000alexander",
-    "title": "Signed Letter to Alexander Galt Ross (MS Private), 16 Tite Street, ? Early 1889",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -3965,17 +3938,17 @@
     },
     "page": "393",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Alexander Galt Ross (MS Private), 16 Tite Street, ? Early 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000alfred",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000alfred",
-    "title": "Signed Letter to Alfred Nutt (MS Clark), 16 Tite Street, ca. 13 June 1888",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -3996,17 +3969,17 @@
     },
     "page": "350",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Alfred Nutt (MS Clark), 16 Tite Street, ca. 13 June 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000alfredb",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000alfredb",
-    "title": "Signed Letter to Alfred Nutt (MS Private), 29 Boulevard Des Capucines, Circa 15 November 1891",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -4027,17 +4000,17 @@
     },
     "page": "494",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Alfred Nutt (MS Private), 29 Boulevard Des Capucines, Circa 15 November 1891",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000alice",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000alice",
-    "title": "Signed Letter to Alice Corkran, 16 Tite Street, ca. November 1888",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -4058,17 +4031,17 @@
     },
     "page": "370",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Alice Corkran, 16 Tite Street, ca. November 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000amelie",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000amelie",
-    "title": "Signed Letter to Amelie Rives Chanler (MS Boston), 16 Tite Street, January 1889",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -4089,79 +4062,17 @@
     },
     "page": "388",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000unidentified",
-    "title": "Signed Letter to an Unidentified Correspondent (Most Probably Arthur Severn) (MS Montague), 16 Tite Street, ? July 1888",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "355",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000unidentifiedb",
-    "title": "Signed Letter to an Unidentified Correspondent (MS Simpson), 16 Tite Street, 19 November 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "414",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
+    "title": "Signed Letter to Amelie Rives Chanler (MS Boston), 16 Tite Street, January 1889",
+    "type": "chapter"
   },
   {
     "id": "wilde2000arthur",
-    "title": "Signed Letter to Arthur Conan Doyle,  ? April 1891",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -4182,17 +4093,17 @@
     },
     "page": "478",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Arthur Conan Doyle,  ? April 1891",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000aubrey",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000aubrey",
-    "title": "Signed Letter to Aubrey Richardson (MS Clark), 16 Tite Street, ? 1889",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -4213,17 +4124,17 @@
     },
     "page": "418",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Aubrey Richardson (MS Clark), 16 Tite Street, ? 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000beatrice",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000beatrice",
-    "title": "Signed Letter to Beatrice Allhusen  (TS Holland), 16 Tite Street, ? Early 1890",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -4244,17 +4155,17 @@
     },
     "page": "425",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Beatrice Allhusen  (TS Holland), 16 Tite Street, ? Early 1890",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000bernard",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000bernard",
-    "title": "Signed Letter to Bernard Partridge (MS Clarke), 16 Tite Street, Postmark 12 October 1888",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -4275,17 +4186,17 @@
     },
     "page": "359",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Bernard Partridge (MS Clarke), 16 Tite Street, Postmark 12 October 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000bertram",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000bertram",
-    "title": "Signed Letter to Bertram Grosvenor Goodhue (MS Clark), 16 Tite Street, June 1893",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -4306,17 +4217,17 @@
     },
     "page": "567",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Bertram Grosvenor Goodhue (MS Clark), 16 Tite Street, June 1893",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000blanche",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000blanche",
-    "title": "Signed Letter to Blanche Medhurst (MS Private), 16 Tite Street, Summer 1888",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -4337,17 +4248,17 @@
     },
     "page": "353",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Blanche Medhurst (MS Private), 16 Tite Street, Summer 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000charles",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000charles",
-    "title": "Signed Letter to Charles Ricketts (MS Texas), 16 Tite Street, ? Autumn 1889",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -4368,17 +4279,17 @@
     },
     "page": "412",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Charles Ricketts (MS Texas), 16 Tite Street, ? Autumn 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000dodd",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000dodd",
-    "title": "Signed Letter to Dodd, Mead & Co.(MS Hyde), 16 Tite Street, 1891",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -4399,947 +4310,17 @@
     },
     "page": "510",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000edward",
-    "title": "Signed Letter to Edward Heron-Allen, 16 Tite Street, Postmark 17 October 1887",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "328",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000elkin",
-    "title": "Signed Letter to Elkin Mathews and John Lane (MS Clark), 5 Esplanade, Worthing, September 1894",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "609",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000elkinb",
-    "title": "Signed Letter to Elkin Mathews and John Lane (MS Folger), 5 Esplanade, Worthing, circa 8 September 1894",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "606",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000elkinc",
-    "title": "Signed Letter to Elkin Mathews and John Lane (MS Johns Hopkins), 5 Esplanade, Worthing, circa 22 September 1894",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "612–13",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000f",
-    "title": "Signed Letter to F.H. Townsend (MS Simpson), 16 Tite Street, Early February 1887",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "294",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000florence",
-    "title": "Signed Letter to Florence Stoker, June 1888",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "349",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000george",
-    "title": "Signed Letter to George Macmillan (MS Macmillan), 16 Tite Street, January 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "385",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000g",
-    "title": "Signed Letter to G.H. Kersley (MS F Hyde), 16 Tite Street, 15 June 1888",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "352",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000gleeson",
-    "title": "Signed Letter to Gleeson White (MS Clark), 16 Tite Street, ? November 1888",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "370",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000harry",
-    "title": "Signed Letter to Harry Melvill (MS Clark), 16 Tite Street, ? June 1888",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "352",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000hsh",
-    "title": "Signed Letter to HSH the Princess of Monaco (MS Clark), 29 Boulevard Des Capucines, Paris, ? Late November 1891",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "494",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000hshb",
-    "title": "Signed Letter to HSH the Princess of Monaco (MS Hyde), ?28 October 1891",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "491",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000jacomb",
-    "title": "Signed Letter to Jacomb Hood (MS Princeton), 16 Tite Street, Early 1888",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "345",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000james",
-    "title": "Signed Letter to James Nicol Dunn (MS Hyde), 16 Tite Street, November-December 1888",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "371",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000j",
-    "title": "Signed Letter to J.M. Stoddart, 16 Tite Street, 30 September 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "413",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000jb",
-    "title": "Signed Letter to J.M. Stoddart (MS Clark), 16 Tite Street, Date of Receipt 17 December 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "416",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000john",
-    "title": "Signed Letter to John Lane (MS Clark), 5 Esplanade, Worthing, August 1894",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "604–05",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000johnb",
-    "title": "Signed Letter to John Lane (MS Morgan), 5 Esplanade, Worthing, 3 September 1894",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "606",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000johnc",
-    "title": "Signed Letter to John Lane, Office of the <i>Yellow Book</i>, circa Late September 1894",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "617",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000johnd",
-    "title": "Signed Letter to John Ruskin (MS Berg), 16 Tite Street, June 1888",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "349",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000johne",
-    "title": "Signed Letter to John Williams (MS Gentry), 16 Tite Street, Postmark 19 October 1888",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "362",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000jules",
-    "title": "Signed Letter to Jules Cantel (F Cantel),  ? Summer 1891",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "487",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000leonard",
-    "title": "Signed Letter to Leonard Smithers (MS Hyde), 16 Tite Street, Postmark 13 July 1888",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "355",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000mrs",
-    "title": "Signed Letter to Mrs W.H. Grenfell (MS Grenfell), 16 Tite Street, Early July 1891",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "484–85",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000mrsb",
-    "title": "Signed Letter to Mrs W.H. Grenfell (MS Grenfell), 29 Boulevard Des Capucines, Postmark of Receipt 12 November 1891",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "493",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000richard",
-    "title": "Signed Letter to Richard Le Gallienne (MS Hyde), 16 Tite Street, Postmark 5 December 1888",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "375",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000richardb",
-    "title": "Signed Letter to Richard Le Gallienne (MS Hyde), 16 Tite Street, Postmark 13 April 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "396",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000robert",
-    "title": "Signed Letter to Robert Ross (MS Clark), 16 Tite Street, July 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "408",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000robertb",
-    "title": "Signed Letter to Robert Ross (MS Morgan), Kreuznach, July 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "409",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000st",
-    "title": "Signed Letter to Stéphane Mallarmé  (MS Bonniot), Hôtel de l’Athénée, 14 Rue Scribe, Paris, Postmark 25 February 1891",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "471",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
+    "title": "Signed Letter to Dodd, Mead & Co.(MS Hyde), 16 Tite Street, 1891",
+    "type": "chapter"
   },
   {
     "id": "wilde2000editor",
-    "title": "Signed Letter to the Editor of the <i>Pall Mall Gazette</i> (MS Hyde), 29 Boulevard Des Capucines, Paris, Published 11 December 1891",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -5360,17 +4341,17 @@
     },
     "page": "503",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to the Editor of the <i>Pall Mall Gazette</i> (MS Hyde), 29 Boulevard Des Capucines, Paris, Published 11 December 1891",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000editorb",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000editorb",
-    "title": "Signed Letter to the Editor of the <i>Speaker</i>, 29 Boulevard Des Capucines, Paris, Published 5 December 1891",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -5391,17 +4372,17 @@
     },
     "page": "501",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to the Editor of the <i>Speaker</i>, 29 Boulevard Des Capucines, Paris, Published 5 December 1891",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000edward",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000librarian",
-    "title": "Signed Letter to the Librarian of Toynbee Hall (MS Clark), 16 Tite Street, Postmark 4 July 1888",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -5420,19 +4401,670 @@
         ]
       ]
     },
-    "page": "354",
+    "page": "328",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Edward Heron-Allen, 16 Tite Street, Postmark 17 October 1887",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000elkin",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "609",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Elkin Mathews and John Lane (MS Clark), 5 Esplanade, Worthing, September 1894",
+    "type": "chapter"
   },
   {
-    "id": "wilde2000thomas",
-    "title": "Signed Letter to Thomas Hutchinson (MS Hyde), 16 Tite Street, 13 July 1888",
+    "id": "wilde2000elkinb",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "606",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Elkin Mathews and John Lane (MS Folger), 5 Esplanade, Worthing, circa 8 September 1894",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000elkinc",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "612–13",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Elkin Mathews and John Lane (MS Johns Hopkins), 5 Esplanade, Worthing, circa 22 September 1894",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000f",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "294",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to F.H. Townsend (MS Simpson), 16 Tite Street, Early February 1887",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000florence",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "349",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Florence Stoker, June 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000g",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "352",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to G.H. Kersley (MS F Hyde), 16 Tite Street, 15 June 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000george",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "385",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to George Macmillan (MS Macmillan), 16 Tite Street, January 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000gleeson",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "370",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Gleeson White (MS Clark), 16 Tite Street, ? November 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000harry",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "352",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Harry Melvill (MS Clark), 16 Tite Street, ? June 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000hsh",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "494",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to HSH the Princess of Monaco (MS Clark), 29 Boulevard Des Capucines, Paris, ? Late November 1891",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000hshb",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "491",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to HSH the Princess of Monaco (MS Hyde), ?28 October 1891",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000j",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "413",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to J.M. Stoddart, 16 Tite Street, 30 September 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000jacomb",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "345",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Jacomb Hood (MS Princeton), 16 Tite Street, Early 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000james",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "371",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to James Nicol Dunn (MS Hyde), 16 Tite Street, November-December 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000jb",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "416",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to J.M. Stoddart (MS Clark), 16 Tite Street, Date of Receipt 17 December 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000john",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "604–05",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to John Lane (MS Clark), 5 Esplanade, Worthing, August 1894",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000johnb",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "606",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to John Lane (MS Morgan), 5 Esplanade, Worthing, 3 September 1894",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000johnc",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "617",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to John Lane, Office of the <i>Yellow Book</i>, circa Late September 1894",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000johnd",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "349",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to John Ruskin (MS Berg), 16 Tite Street, June 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000johne",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "362",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to John Williams (MS Gentry), 16 Tite Street, Postmark 19 October 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000jules",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "487",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Jules Cantel (F Cantel),  ? Summer 1891",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000leonard",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -5453,17 +5085,17 @@
     },
     "page": "355",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Leonard Smithers (MS Hyde), 16 Tite Street, Postmark 13 July 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000librarian",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000w",
-    "title": "Signed Letter to W. Graham Robertson (MS Princeton), 16 Tite Street, ? Early 1888",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -5482,19 +5114,19 @@
         ]
       ]
     },
-    "page": "347",
+    "page": "354",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to the Librarian of Toynbee Hall (MS Clark), 16 Tite Street, Postmark 4 July 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000mrs",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000wb",
-    "title": "Signed Letter to W.E. Gladstone (MS British Library), 16 Tite Street, June 1888",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -5513,19 +5145,19 @@
         ]
       ]
     },
-    "page": "350",
+    "page": "484–85",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Mrs W.H. Grenfell (MS Grenfell), 16 Tite Street, Early July 1891",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000mrsb",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000wc",
-    "title": "Signed Letter to W.E. Henley (MS Morgan), 16 Tite Street, ? December 1888",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -5544,19 +5176,19 @@
         ]
       ]
     },
-    "page": "372–73",
+    "page": "493",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Mrs W.H. Grenfell (MS Grenfell), 29 Boulevard Des Capucines, Postmark of Receipt 12 November 1891",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000richard",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000wd",
-    "title": "Signed Letter to W.E. Henley (MS Morgan), 16 Tite Street, July 1889",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -5575,19 +5207,19 @@
         ]
       ]
     },
-    "page": "409",
+    "page": "375",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Richard Le Gallienne (MS Hyde), 16 Tite Street, Postmark 5 December 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000richardb",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2000wemyss",
-    "title": "Signed Letter to Wemyss Reid (MS Gentry), 16 Tite Street, ? October 1888",
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -5606,360 +5238,19 @@
         ]
       ]
     },
-    "page": "363",
+    "page": "396",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Richard Le Gallienne (MS Hyde), 16 Tite Street, Postmark 13 April 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000robert",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000we",
-    "title": "Signed Letter to W.H. Pollock (MS Bucknell), 16 Tite Street, ? January 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
       }
     ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "387",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000whitelaw",
-    "title": "Signed Letter to Whitelaw Reid (MS Congress), 16 Tite Street, April 1887",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "295",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000whitelawb",
-    "title": "Signed Letter to Whitelaw Reid (MS Congress), 16 Tite Street, Late April 1887",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "299",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000william",
-    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, 7 July 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "405",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000williamb",
-    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, 10 July 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "407",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000williamc",
-    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, 12 June 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "402",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000williamd",
-    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, 18 May 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "400",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000williame",
-    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, 30 May 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "401",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000williamf",
-    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, April 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "398",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000williamg",
-    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, circa 6 June 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "401–02",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000williamh",
-    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, circa 22 May 1889",
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "400",
-    "publisher": "Henry Holt and Company",
-    "type": "chapter",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2000williami",
-    "title": "Signed Letter to William Rockstro (MS Hyde), 16 Tite Street, July 1889",
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -5980,44 +5271,79 @@
     },
     "page": "408",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Signed Letter to Robert Ross (MS Clark), 16 Tite Street, July 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000robertb",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde2005response",
-    "title": "Signed Response to James McNeill’s Accusation of Plagiarism, <i>Truth</i>, 9 January 1890, <span class=\"nocase\">xxvii</span>, 51",
-    "container-title": "Oscar Wilde: The Critical Heritage",
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
-        "family": "Beckson",
-        "given": "Karl"
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2005
+          2000
         ]
       ]
     },
-    "page": "61",
-    "publisher": "Routledge",
-    "type": "chapter",
+    "page": "409",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Robert Ross (MS Morgan), Kreuznach, July 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000st",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "471",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Stéphane Mallarmé  (MS Bonniot), Hôtel de l’Athénée, 14 Rue Scribe, Paris, Postmark 25 February 1891",
+    "type": "chapter"
   },
   {
     "id": "wilde2000telegram",
-    "title": "Telegram to Elkin Mathews and John Lane (MS Clark), Worthing, 17 August 1894",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
@@ -6038,62 +5364,690 @@
     },
     "page": "604",
     "publisher": "Henry Holt and Company",
-    "type": "chapter",
+    "title": "Telegram to Elkin Mathews and John Lane (MS Clark), Worthing, 17 August 1894",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000thomas",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
-  },
-  {
-    "id": "wilde1888happy",
-    "URL": "http://archive.org/details/happyprinceother02wild",
-    "title": "The Happy Prince and Other Tales",
-    "issued": {
-      "date-parts": [
-        [
-          1888
-        ]
-      ]
-    },
-    "publisher": "David Nutt",
-    "type": "book",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ]
-  },
-  {
-    "id": "wilde2020short",
-    "title": "The Short Stories of Oscar Wilde: An Annotated Selection",
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
-        "family": "Frankel",
-        "given": "Nicholas"
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2020
+          2000
         ]
       ]
     },
-    "publisher": "Harvard University Press",
-    "type": "book",
+    "page": "355",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Thomas Hutchinson (MS Hyde), 16 Tite Street, 13 July 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000unidentified",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "355",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to an Unidentified Correspondent (Most Probably Arthur Severn) (MS Montague), 16 Tite Street, ? July 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000unidentifiedb",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "414",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to an Unidentified Correspondent (MS Simpson), 16 Tite Street, 19 November 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000w",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "347",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to W. Graham Robertson (MS Princeton), 16 Tite Street, ? Early 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000wb",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "350",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to W.E. Gladstone (MS British Library), 16 Tite Street, June 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000wc",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "372–73",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to W.E. Henley (MS Morgan), 16 Tite Street, ? December 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000wd",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "409",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to W.E. Henley (MS Morgan), 16 Tite Street, July 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000we",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "387",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to W.H. Pollock (MS Bucknell), 16 Tite Street, ? January 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000wemyss",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "363",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Wemyss Reid (MS Gentry), 16 Tite Street, ? October 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000whitelaw",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "295",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Whitelaw Reid (MS Congress), 16 Tite Street, April 1887",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000whitelawb",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "299",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Whitelaw Reid (MS Congress), 16 Tite Street, Late April 1887",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000william",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "405",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, 7 July 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000williamb",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "407",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, 10 July 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000williamc",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "402",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, 12 June 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000williamd",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "400",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, 18 May 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000williame",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "401",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, 30 May 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000williamf",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "398",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, April 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000williamg",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "401–02",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, circa 6 June 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000williamh",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "400",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to William Blackwood (MS Edinburgh), 16 Tite Street, circa 22 May 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000williami",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "408",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to William Rockstro (MS Hyde), 16 Tite Street, July 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2003complete",
+    "URL": "https://www.overdrive.com/search?q=9D9ACB6F-0E56-4343-9B7A-CD26BCA3FA5C",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Small",
+        "given": "Ian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "publisher": "Penguin Books",
+    "title": "Complete Short Fiction",
+    "type": "book"
+  },
+  {
+    "id": "wilde2005response",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "Oscar Wilde: The Critical Heritage",
+    "editor": [
+      {
+        "family": "Beckson",
+        "given": "Karl"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "61",
+    "publisher": "Routledge",
+    "title": "Signed Response to James McNeill’s Accusation of Plagiarism, <i>Truth</i>, 9 January 1890, <span class=\"nocase\">xxvii</span>, 51",
+    "type": "chapter"
   },
   {
     "id": "wilde2017volume",
-    "title": "Volume VIII: The Short Fiction",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
     "editor": [
       {
         "family": "Small",
@@ -6108,13 +6062,56 @@
       ]
     },
     "publisher": "Oxford University Press",
-    "type": "book",
+    "title": "Volume VIII: The Short Fiction",
+    "type": "book"
+  },
+  {
+    "id": "wilde2020short",
     "author": [
       {
         "family": "Wilde",
         "given": "Oscar"
       }
-    ]
+    ],
+    "editor": [
+      {
+        "family": "Frankel",
+        "given": "Nicholas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "Harvard University Press",
+    "title": "The Short Stories of Oscar Wilde: An Annotated Selection",
+    "type": "book"
+  },
+  {
+    "id": "wildeoscar1891fisherman",
+    "URL": "http://corsair.themorgan.org/vwebv/holdingsInfo?bibId=325213",
+    "archive": "Morgan Library and Museum",
+    "author": [
+      {
+        "family": "Wilde, Oscar",
+        "given": ""
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1891",
+          5,
+          26
+        ]
+      ]
+    },
+    "publisher-place": "London",
+    "title": "The Fisherman and His Soul: Proof Sheets with Autograph Corrections",
+    "type": "manuscript"
   },
   {
     "id": "wood2002creating",
@@ -6125,9 +6122,7 @@
         "given": "Naomi"
       }
     ],
-    "title": "Creating the Sensual Child: Paterian Aesthetics, Pederasty, and Oscar Wilde’s Fairy Tales",
     "container-title": "Marvels & Tales",
-    "volume": "16",
     "issue": "2",
     "issued": {
       "date-parts": [
@@ -6137,7 +6132,9 @@
       ]
     },
     "page": "156–70",
-    "type": "article-journal"
+    "title": "Creating the Sensual Child: Paterian Aesthetics, Pederasty, and Oscar Wilde’s Fairy Tales",
+    "type": "article-journal",
+    "volume": "16"
   },
   {
     "id": "wright2000table",
@@ -6148,7 +6145,6 @@
         "given": "T. E."
       }
     ],
-    "title": "Table Talk",
     "issued": {
       "date-parts": [
         [
@@ -6157,6 +6153,7 @@
       ]
     },
     "publisher": "Cassell",
+    "title": "Table Talk",
     "type": "book"
   },
   {
@@ -6167,7 +6164,6 @@
         "given": "W. B."
       }
     ],
-    "title": "Signed Introduction to Volume III, <i>The Complete Works of Oscar Wilde</i>, New York, 1923, <span class=\"nocase\">pp. ix–xvi</span>",
     "container-title": "Oscar Wilde: The Critical Heritage",
     "editor": [
       {
@@ -6184,6 +6180,7 @@
     },
     "page": "410",
     "publisher": "Routledge",
+    "title": "Signed Introduction to Volume III, <i>The Complete Works of Oscar Wilde</i>, New York, 1923, <span class=\"nocase\">pp. ix–xvi</span>",
     "type": "chapter"
   },
   {
@@ -6194,7 +6191,6 @@
         "given": "Jack"
       }
     ],
-    "title": "When Dreams Came True: Classical Fairy Tales and Their Tradition",
     "edition": "2",
     "issued": {
       "date-parts": [
@@ -6204,6 +6200,7 @@
       ]
     },
     "publisher": "Routledge",
+    "title": "When Dreams Came True: Classical Fairy Tales and Their Tradition",
     "type": "book"
   }
 ]
