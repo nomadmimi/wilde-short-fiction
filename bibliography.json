@@ -2079,7 +2079,7 @@
   {
     "id": "mikhail1979oscar",
     "DOI": "10.1007/978-1-349-03926-5",
-    "title": "Oscar Wilde",
+    "title": "Oscar Wilde: Interviews and Recollections",
     "issued": {
       "date-parts": [
         [
@@ -2088,20 +2088,20 @@
       ]
     },
     "publisher": "Palgrave Macmillan UK",
-    "type": "chapter",
-    "author": [
+    "type": "book",
+    "publisher-place": "London",
+    "editor": [
       {
         "family": "Mikhail",
         "given": "Edward Halim"
       }
     ],
-    "container-title": "Oscar Wilde: Interviews and Recollections Volume 2",
-    "publisher-place": "London"
+    "volume": "2"
   },
   {
     "id": "mikhail1979oscarb",
     "DOI": "10.1007/978-1-349-03923-4",
-    "title": "Oscar Wilde",
+    "title": "Oscar Wilde: Interviews and Recollections",
     "issued": {
       "date-parts": [
         [
@@ -2110,15 +2110,15 @@
       ]
     },
     "publisher": "Palgrave Macmillan UK",
-    "type": "chapter",
-    "author": [
+    "type": "book",
+    "publisher-place": "London",
+    "editor": [
       {
         "family": "Mikhail",
         "given": "Edward Halim"
       }
     ],
-    "container-title": "Oscar Wilde: Interviews and Recollections Volume 1",
-    "publisher-place": "London"
+    "volume": "1"
   },
   {
     "id": "mikolyzk1993oscar",
@@ -2786,7 +2786,7 @@
         ]
       ]
     },
-    "page": "9",
+    "page": "9–18",
     "type": "article-journal",
     "container-title": "International Journal of Comparative Literature & Translation Studies"
   },
