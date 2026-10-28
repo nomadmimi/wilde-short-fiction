@@ -1,0 +1,31 @@
+{
+  "bibliography": "bibliography.json",
+  "zotero": {
+    "libraryType": "groups",
+    "libraryId": 6738308,
+    "collection": "Enumerative bibliography",
+    "reviewSubcollection": "To review",
+    "rejectedSubcollection": "Rejected"
+  },
+  "export": {
+    "maxShrink": 0.2
+  },
+  "discovery": {
+    "lookbackDays": 120,
+    "maxNewPerRun": 60,
+    "perQueryLimit": 50,
+    "tag": "auto-discovered",
+    "mustMention": ["Wilde"],
+    "queries": [
+      "\"Oscar Wilde\" \"Happy Prince\"",
+      "\"Oscar Wilde\" \"House of Pomegranates\"",
+      "\"Oscar Wilde\" \"Lord Arthur Savile\"",
+      "\"Oscar Wilde\" \"Canterville Ghost\"",
+      "\"Oscar Wilde\" \"Selfish Giant\"",
+      "\"Oscar Wilde\" \"Birthday of the Infanta\"",
+      "\"Oscar Wilde\" \"Portrait of Mr. W. H.\"",
+      "\"Oscar Wilde\" \"fairy tales\"",
+      "\"Oscar Wilde\" \"short stories\""
+    ]
+  }
+}

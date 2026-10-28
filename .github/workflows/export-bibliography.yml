@@ -1,0 +1,55 @@
+name: Export bibliography from Zotero
+
+# Zotero is the master copy of the bibliography. Every week this job exports the main
+# collection as CSL-JSON, checks it, and commits the result. Settings (collection name,
+# output file, safety limit) live in bibliography.config.json; the only secret is
+# ZOTERO_API_KEY (Settings > Secrets and variables > Actions).
+
+on:
+  schedule:
+    - cron: '41 5 * * 1'
+  workflow_dispatch:
+    inputs:
+      allow_shrink:
+        description: Write the file even if it loses more entries than the safety limit allows
+        type: boolean
+        default: false
+
+concurrency:
+  group: bibliography-export
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    name: Export the Zotero collection to CSL-JSON
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Export
+        env:
+          ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+          ALLOW_SHRINK: ${{ inputs.allow_shrink }}
+        run: |
+          args=()
+          if [ "$ALLOW_SHRINK" = "true" ]; then args+=(--allow-shrink); fi
+          python scripts/export_bibliography.py "${args[@]}"
+      - name: Validate
+        run: python scripts/validate_bibliography.py
+      - name: Commit if the bibliography changed
+        run: |
+          file=$(python -c "import json; print(json.load(open('bibliography.config.json'))['bibliography'])")
+          if git diff --quiet -- "$file"; then
+            echo "No changes in $file."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- "$file"
+          git commit -m "Update $file from Zotero"
+          git push
