@@ -17,15 +17,23 @@
     "tag": "auto-discovered",
     "mustMention": [
       "Wilde",
-      "Happy Prince|House of Pomegranates|Lord Arthur Savile|Canterville|Selfish Giant|Birthday of the Infanta|Young King|Star-Child|Fisherman and his Soul|Devoted Friend|Remarkable Rocket|Nightingale and the Rose|Sphinx Without a Secret|Model Millionaire|Portrait of Mr\\.? ?W\\.? ?H|fairy[- ]?tales?|short stor(?:y|ies)|short fiction|pr[ií]ncipe feliz|prince heureux"
+      "Happy Prince|Other Tales|Other Stories|House of Pomegranates|Lord Arthur Savile|Canterville|Selfish Giant|Birthday of the Infanta|Young King|Star-Child|Fisherman and his Soul|Devoted Friend|Remarkable Rocket|Nightingale and the Rose|Sphinx Without a Secret|Model Millionaire|Portrait of Mr\\.? ?W\\.? ?H|fairy[- ]?tales?|short stor(?:y|ies)|short fiction|pr[ií]ncipe feliz|prince heureux"
     ],
     "queries": [
       "\"Oscar Wilde\" \"Happy Prince\"",
-      "\"Oscar Wilde\" \"House of Pomegranates\"",
+      "\"Oscar Wilde\" \"Nightingale and the Rose\"",
+      "\"Oscar Wilde\" \"Selfish Giant\"",
+      "\"Oscar Wilde\" \"Devoted Friend\"",
+      "\"Oscar Wilde\" \"Remarkable Rocket\"",
       "\"Oscar Wilde\" \"Lord Arthur Savile\"",
       "\"Oscar Wilde\" \"Canterville Ghost\"",
-      "\"Oscar Wilde\" \"Selfish Giant\"",
+      "\"Oscar Wilde\" \"Sphinx Without a Secret\"",
+      "\"Oscar Wilde\" \"Model Millionaire\"",
+      "\"Oscar Wilde\" \"House of Pomegranates\"",
+      "\"Oscar Wilde\" \"Young King\"",
       "\"Oscar Wilde\" \"Birthday of the Infanta\"",
+      "\"Oscar Wilde\" \"Fisherman and his Soul\"",
+      "\"Oscar Wilde\" \"Star-Child\"",
       "\"Oscar Wilde\" \"Portrait of Mr. W. H.\"",
       "\"Oscar Wilde\" \"fairy tales\"",
       "\"Oscar Wilde\" \"short stories\""
