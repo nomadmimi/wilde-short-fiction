@@ -347,7 +347,6 @@
   },
   {
     "id": "boyiopoulos2019brilliancy",
-    "URL": "http://search.ebscohost.com/login.aspx?direct=true&db=mzh&AN=202018520640&lang=es&site=ehost-live",
     "author": [
       {
         "family": "Boyiopoulos",
@@ -2080,7 +2079,7 @@
   {
     "id": "mikhail1979oscar",
     "DOI": "10.1007/978-1-349-03926-5",
-    "title": "Oscar Wilde: Interviews and Recollections",
+    "title": "Oscar Wilde",
     "issued": {
       "date-parts": [
         [
@@ -2088,19 +2087,21 @@
         ]
       ]
     },
-    "publisher": "Palgrave Macmillan",
-    "type": "book",
-    "editor": [
+    "publisher": "Palgrave Macmillan UK",
+    "type": "chapter",
+    "author": [
       {
         "family": "Mikhail",
         "given": "Edward Halim"
       }
-    ]
+    ],
+    "container-title": "Oscar Wilde: Interviews and Recollections Volume 2",
+    "publisher-place": "London"
   },
   {
     "id": "mikhail1979oscarb",
     "DOI": "10.1007/978-1-349-03923-4",
-    "title": "Oscar Wilde: Interviews and Recollections",
+    "title": "Oscar Wilde",
     "issued": {
       "date-parts": [
         [
@@ -2108,14 +2109,16 @@
         ]
       ]
     },
-    "publisher": "Palgrave Macmillan",
-    "type": "book",
-    "editor": [
+    "publisher": "Palgrave Macmillan UK",
+    "type": "chapter",
+    "author": [
       {
         "family": "Mikhail",
         "given": "Edward Halim"
       }
-    ]
+    ],
+    "container-title": "Oscar Wilde: Interviews and Recollections Volume 1",
+    "publisher-place": "London"
   },
   {
     "id": "mikolyzk1993oscar",
@@ -2442,7 +2445,8 @@
       ]
     },
     "page": "17–20",
-    "type": "article-journal"
+    "type": "article-journal",
+    "container-title": "Victorian Newsletter"
   },
   {
     "id": "obed1997approaching",
@@ -2761,6 +2765,14 @@
       {
         "family": "Rojas-Lizana",
         "given": "Sol"
+      },
+      {
+        "family": "Tolton",
+        "given": "Laura"
+      },
+      {
+        "family": "Hannah",
+        "given": "Emily"
       }
     ],
     "title": "‘Kiss Me on the Lips, for I Love You’ Over A Century of Heterosexism in the Spanish Translation of Oscar Wilde",
@@ -2774,10 +2786,9 @@
         ]
       ]
     },
-    "page": "9–18",
+    "page": "9",
     "type": "article-journal",
-    "container-title": "International Journal of Comparative Literature and Translation Studies",
-    "note": "et al."
+    "container-title": "International Journal of Comparative Literature & Translation Studies"
   },
   {
     "id": "rose2008shorter",
@@ -2837,7 +2848,7 @@
       }
     ],
     "title": "Oscar Wilde: Manuscripts, Autograph Letters, First Editions",
-    "publisher": "Dulau & Co.",
+    "publisher": "Dulau & Company Limited",
     "type": "book",
     "issued": {
       "date-parts": [
@@ -2963,7 +2974,8 @@
     },
     "page": "38–47",
     "type": "article-journal",
-    "language": "es"
+    "language": "es",
+    "container-title": "Mutatis Mutandis. Revista Latinoamericana de Traducción"
   },
   {
     "id": "sanzcasares1996el",
@@ -3325,11 +3337,11 @@
     "type": "chapter"
   },
   {
-    "id": "susan2020goodness",
+    "id": "thampy2020goodness",
     "author": [
       {
-        "family": "Susan",
-        "given": "Chitra"
+        "family": "Thampy",
+        "given": "Chitra Susan"
       }
     ],
     "title": "The Goodness in Sin: A Protest against Utilitarianism in Short Stories by Oscar Wilde",
@@ -3341,11 +3353,13 @@
         ]
       ]
     },
-    "page": "4",
-    "type": "article-journal"
+    "page": "2422–2425",
+    "type": "article-journal",
+    "container-title": "International Journal of Creative Research Thoughts (IJCRT)",
+    "volume": "8"
   },
   {
-    "id": "talairachvielmas2019review",
+    "id": "talairachvielmas2011review",
     "author": [
       {
         "family": "Talairach-Vielmas",
@@ -3357,12 +3371,15 @@
     "issued": {
       "date-parts": [
         [
-          2019
+          2011
         ]
       ]
     },
-    "page": "392–94",
-    "type": "article-journal"
+    "page": "392–394",
+    "type": "article-journal",
+    "container-title": "Marvels & Tales",
+    "volume": "25",
+    "URL": "https://muse.jhu.edu/article/462748"
   },
   {
     "id": "tatar2017aesthetics",
@@ -3663,7 +3680,7 @@
   },
   {
     "id": "vernadakis2018crosscut",
-    "DOI": "10.21412/LEAVES_0507",
+    "DOI": "10.46608/leaves.vi5.288",
     "type": "article-journal",
     "author": [
       {
@@ -3679,7 +3696,8 @@
           2018
         ]
       ]
-    }
+    },
+    "issue": "5"
   },
   {
     "id": "vernadakis2021contrastes",
@@ -4112,7 +4130,7 @@
   },
   {
     "id": "wilde2000unidentifiedb",
-    "title": "Signed Letter to an Unidentified Correspondent (MS Simpson), 16 Tite Street, 30 19 November 1889 1889",
+    "title": "Signed Letter to an Unidentified Correspondent (MS Simpson), 16 Tite Street, 19 November 1889",
     "container-title": "The Complete Letters of Oscar Wilde",
     "editor": [
       {
