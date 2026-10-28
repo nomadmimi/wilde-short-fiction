@@ -40,7 +40,19 @@ def pinned_id(item):
     return found.group(1) if found else None
 
 
-def tidy(item):
+def name_lists(item):
+    """The lists of people in an item (author, editor, director, ...)."""
+    return [v for v in item.values() if isinstance(v, list) and v and all(isinstance(n, dict) for n in v)]
+
+
+def suffixes_in(items):
+    """(family, given) -> suffix for every name in the current bibliography that has one ("Smith", "Philip E." -> "II")."""
+    return {(n.get('family'), n.get('given')): n['suffix'] for item in items for names in name_lists(item)
+            for n in names if n.get('suffix')}
+
+
+def tidy(item, suffixes=None):
+    """Undo what the trip through Zotero changes without meaning to, so a re-export gives the same file."""
     out = {k: v for k, v in item.items() if k not in DROP and v not in (None, '', [], {})}
     if 'note' in out:
         note = CITATION_KEY.sub('', out['note']).strip()
@@ -48,6 +60,19 @@ def tidy(item):
             out['note'] = note
         else:
             del out['note']
+    # Zotero writes a film's director as its author; MLA wants the director.
+    if out.get('type') == 'motion_picture' and 'author' in out and 'director' not in out:
+        out['director'] = out.pop('author')
+    # Years are numbers in CSL-JSON; Zotero sometimes writes them as text.
+    for date in (v for v in out.values() if isinstance(v, dict) and 'date-parts' in v):
+        date['date-parts'] = [[int(p) if str(p).isdigit() else p for p in parts] for parts in date['date-parts']]
+    for names in name_lists(out):
+        for name in names:
+            if not name.get('given') and name.get('family'):  # a one-field name ("Google Books Ngram Viewer")
+                name.pop('given', None)
+                name['literal'] = name.pop('family')
+            elif suffixes and not name.get('suffix') and (name.get('family'), name.get('given')) in suffixes:
+                name['suffix'] = suffixes[name['family'], name['given']]  # Zotero has no field for "II"
     return out
 
 
@@ -55,12 +80,12 @@ def build_items(raw, previous=()):
     """CSL-JSON from Zotero -> the entries to store: untitled records dropped, ids assigned, sorted by id.
 
     `previous` is the current bibliography; a work found there keeps the id it has."""
-    items, skipped = [], 0
+    items, skipped, suffixes = [], 0, suffixes_in(previous)
     for record in raw:
         if not record.get('title'):  # a standalone note, not a work
             skipped += 1
             continue
-        items.append((pinned_id(record), tidy(record)))
+        items.append((pinned_id(record), tidy(record, suffixes)))
     if skipped:
         notice(f'Skipped {skipped} record(s) without a title (notes?).')
 
