@@ -1,0 +1,40 @@
+name: Open the publish pull request
+
+# data.csv is generated from dataset.xlsx on Regina's computer by publish_wsf_csv.py (in her
+# vault, not in this repository), which force-pushes the result to the publish/auto branch.
+# This job opens a pull request from that branch, or refreshes the open one, with the run log
+# (skipped rows, warnings, audit) from the commit message as its description. Merging the pull
+# request is what publishes; nothing here merges. Uses only the built-in GITHUB_TOKEN.
+
+on:
+  push:
+    branches: [publish/auto]
+
+concurrency:
+  group: publish-pr
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  pull-request:
+    name: Open or update the pull request
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Open or update
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git log -1 --format=%b > body.md
+          title=$(git log -1 --format=%s)
+          number=$(gh pr list --head publish/auto --base main --state open --json number --jq '.[0].number')
+          if [ -n "$number" ]; then
+            gh pr edit "$number" --title "$title" --body-file body.md
+            echo "Updated pull request #$number." >> "$GITHUB_STEP_SUMMARY"
+          else
+            gh pr create --head publish/auto --base main --title "$title" --body-file body.md
+            echo "Opened a pull request from publish/auto." >> "$GITHUB_STEP_SUMMARY"
+          fi

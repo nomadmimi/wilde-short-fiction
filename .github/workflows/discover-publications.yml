@@ -1,6 +1,6 @@
 name: Find new publications
 
-# Every week, search OpenAlex and Crossref for new work on Wilde's short fiction and add
+# Every month, search OpenAlex and Crossref for new work on Wilde's short fiction and add
 # what is new to the "To review" sub-collection in Zotero. Nothing reaches the
 # bibliography until a person moves an item into the main collection. Queries and limits
 # live in bibliography.config.json. Secrets: ZOTERO_API_KEY (required) and
@@ -8,7 +8,7 @@ name: Find new publications
 
 on:
   schedule:
-    - cron: '7 6 * * 1'
+    - cron: '7 6 1 * *'
   workflow_dispatch:
     inputs:
       since:
