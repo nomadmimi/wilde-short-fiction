@@ -6,7 +6,11 @@ source, not in Zotero. Each review becomes a Newspaper Article whose URL is its 
 duplicating them, and a changed citekey updates the same item. A record that leaves data.csv
 (merged, deleted or no longer published) is moved to the "Withdrawn" sub-collection and tagged,
 never deleted; if it comes back, it moves back. Only the fields this script writes are overwritten:
-notes, attachments, other tags and other collections stay. Settings: "reviews" in
+notes, attachments, other tags and other collections stay. The citekey goes into Extra as
+"Citation Key: <citekey>" (Better BibTeX's pinning convention), not into Zotero's citation key
+field, which Better BibTeX overwrites with a generated key when the item arrives; run Better BibTeX's
+"Move Citation Key from extra to citation key field" after a run that adds or changes keys. A key
+already in either place counts as right. Settings: "reviews" in
 bibliography.config.json. Run from the repository root with ZOTERO_API_KEY set:
 
     python scripts/sync_reviews.py [--apply] [--only ID ...] [--allow-shrink]
@@ -24,9 +28,20 @@ import sys
 from bibliography_lib import ROOT, ZoteroError, fail, load_config, notice, zotero_from_config
 
 CHAIN = re.compile(r'^[WLQ]\d{2}$')
+KEY_LINE = re.compile(r'^Citation Key:.*$\n?', re.M | re.I)
 # Fields this script owns on every item; anything else on the item is left alone.
 FIELDS = ('title', 'creators', 'publicationTitle', 'place', 'date', 'volume', 'issue', 'pages', 'url',
-          'archive', 'archiveLocation', 'citationKey')
+          'archive', 'archiveLocation')
+
+
+def key_ok(item, key):
+    return not key or item.get('citationKey') == key or f'Citation Key: {key}' in (item.get('extra') or '')
+
+
+def extra_with_key(extra, key):
+    """Extra with its "Citation Key:" line set to key (first line), everything else kept."""
+    rest = KEY_LINE.sub('', extra or '').strip()
+    return f'Citation Key: {key}' + (f'\n{rest}' if rest else '')
 
 
 def title_of(row, settings):
@@ -65,7 +80,6 @@ def wanted(row, settings):
         'url': settings['siteUrl'] + row['id'],
         'archive': row['archive_name'],
         'archiveLocation': row['archive_url'],
-        'citationKey': row.get('citekey', ''),
     }
 
 
@@ -124,8 +138,10 @@ def main():
     for id_ in sorted(ids, key=int):
         row = rows.get(id_)
         item, was_withdrawn = existing.get(id_, (None, False))
+        key = row.get('citekey', '') if row else ''
         if row and item is None:
             new = {'itemType': 'newspaperArticle', **wanted(row, settings),
+                   'extra': extra_with_key('', key) if key else '',
                    'tags': managed_tags({}, row.get('chain_id', ''), settings, False),
                    'collections': [main_key] if main_key else []}
             writes.append({k: v for k, v in new.items() if v not in ('', [])})
@@ -137,12 +153,16 @@ def main():
             tags = managed_tags(item, row.get('chain_id', ''), settings, False)
             if tag_names(tags) != tag_names(item.get('tags', [])):
                 changed.append('tags')
+            if not key_ok(item, key):
+                changed.append('citation key')
             collections = [c for c in item.get('collections', []) if c != gone_key]
             collections += [main_key] if main_key not in collections else []
             if not changed and not was_withdrawn:
                 continue
             update = {'key': item['key'], 'version': item['version'], 'tags': tags, 'collections': collections,
                       **{f: target[f] for f in FIELDS}}
+            if not key_ok(item, key):
+                update['extra'] = extra_with_key(item.get('extra'), key)
             writes.append(update)
             report['restored' if was_withdrawn else 'changed'].append(f'{id_}: {", ".join(changed) or "collection"}')
         elif not was_withdrawn:
