@@ -7,6 +7,28 @@
     "reviewSubcollection": "To review",
     "rejectedSubcollection": "Rejected"
   },
+  "reviews": {
+    "data": "data.csv",
+    "collection": "Reception reviews",
+    "withdrawnSubcollection": "Withdrawn",
+    "tag": "WSF",
+    "withdrawnTag": "withdrawn",
+    "siteUrl": "https://wildeshortfiction.com/reviews/",
+    "applyOnMerge": false,
+    "maxWithdraw": 0.2,
+    "severalCollections": "Oscar Wilde’s Short Fiction",
+    "titles": {
+      "Contemporary review (original)": "Review of {collection}",
+      "Contemporary review (reprint)": "Review of {collection}",
+      "Notice": "Notice of {collection}",
+      "News": "News item on {collection}",
+      "Article": "Article on {collection}",
+      "Correspondence": "Letter to the editor on {collection}",
+      "Advertisement": "Advertisement for {collection}",
+      "Obituary": "Obituary of Oscar Wilde"
+    },
+    "defaultTitle": "Item on {collection}"
+  },
   "export": {
     "maxShrink": 0.2
   },

@@ -139,7 +139,7 @@ class Zotero:
         key = self.find_collection(name, parent)
         if key:
             return key
-        result, _ = self._call('POST', '/collections', body=[{'name': name, 'parentCollection': parent}])
+        result, _ = self._call('POST', '/collections', body=[{'name': name, 'parentCollection': parent or False}])
         if result.get('failed'):
             raise ZoteroError(f'could not create collection {name!r}: {result["failed"]}')
         return result['successful']['0']['key']
@@ -149,7 +149,13 @@ class Zotero:
         return self._paged(f'/collections/{collection_key}/items/top',
                            {'format': 'csljson', 'itemType': '-attachment', 'sort': 'dateAdded'})
 
+    def items(self, collection_key):
+        """Full Zotero JSON (key, version, every field) for the items directly in a collection."""
+        return [i['data'] for i in self._paged(f'/collections/{collection_key}/items/top',
+                                                {'format': 'json', 'itemType': '-attachment'})]
+
     def create_items(self, items):
+        """Create items, or update those that carry a key and version (fields left out stay as they are)."""
         for start in range(0, len(items), 50):  # the API accepts 50 items per request
             result, _ = self._call('POST', '/items', body=items[start:start + 50])
             if result.get('failed'):

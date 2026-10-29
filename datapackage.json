@@ -161,6 +161,18 @@
             "name": "comments",
             "type": "string",
             "description": "Editorial notes on the record."
+          },
+          {
+            "name": "citekey",
+            "type": "string",
+            "description": "Citation key of the record, used in reference managers and as the key of its item in the project's Zotero group. Built from the periodical's code and the date of publication; unlike id, it can change when a possible duplicate is resolved.",
+            "constraints": { "required": true, "unique": true }
+          },
+          {
+            "name": "chain_id",
+            "type": "string",
+            "description": "Links records that are not independent: W = the same text printed in several periodicals; L = letters that answer one another; Q = a text that quotes another record. Empty when the record is in no chain. See Reprints and chains in METHODOLOGY.md.",
+            "constraints": { "pattern": "^[WLQ][0-9]{2}$" }
           }
         ]
       }

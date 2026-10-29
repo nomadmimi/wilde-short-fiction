@@ -157,7 +157,10 @@ def main():
         sub = zotero.find_collection if args.dry_run else zotero.ensure_subcollection
         review_key = sub(names['reviewSubcollection'], main_key)
         rejected_key = sub(names['rejectedSubcollection'], main_key)
-        known = {work_key(i) for key in (main_key, review_key, rejected_key) if key for i in zotero.csl_items(key)}
+        # The reception reviews (sync_reviews.py) are checked too, so a review is never proposed twice.
+        reviews_key = zotero.find_collection(config['reviews']['collection'])
+        known = {work_key(i) for key in (main_key, review_key, rejected_key, reviews_key) if key
+                 for i in zotero.csl_items(key)}
     except ZoteroError as error:
         fail(str(error))
 
