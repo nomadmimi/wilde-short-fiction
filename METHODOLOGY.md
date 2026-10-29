@@ -3,12 +3,16 @@
 The dataset collects reviews, notices and related press items about Oscar Wilde's three short story collections: *The Happy Prince and Other Tales* (1888), *Lord Arthur Savile's Crime and Other Stories* (1891) and *A House of Pomegranates* (1891). An item is in scope when it discusses at least one of these collections and was printed in a periodical. Each record is classified by `publication_type`:
 
 - **Contemporary review**: a review of one or more of the collections.
+- **Notice**: a short notice of a collection, shorter than a review.
 - **News**: a news item that mentions a collection without reviewing it.
+- **Article**: an article that discusses a collection without being a review of it.
+- **Correspondence**: a letter to the editor that discusses a collection.
+- **Obituary**: an obituary of Wilde that discusses a collection.
 - **Advertisement**: a publisher's or bookseller's advertisement for a collection.
 
 The same review was often reprinted in several periodicals. The dataset does not yet distinguish original reviews from reprints: each printing is a separate record. Linking reprints of the same text into clusters with shared identifiers is planned for a future release.
 
-The `period` field groups items chronologically: period 1 covers the first reception of the collections (1888–1894); period 3 covers items from 1895, the year of Wilde's trials.
+The `period` field groups items chronologically: period 1 covers the first reception of the collections (to 31 March 1895); period 2 runs from Wilde's trials (April 1895) to 30 November 1900; period 3 covers items after Wilde's death.
 
 ## Finding the reviews
 
