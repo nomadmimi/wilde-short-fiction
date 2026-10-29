@@ -39,26 +39,40 @@
           {
             "name": "collection",
             "type": "string",
-            "description": "The collection the item discusses.",
+            "description": "The collection or collections the item discusses; several are joined by \", \". To filter by collection, use the collection_* columns.",
             "constraints": {
               "required": true,
-              "enum": [
-                "The Happy Prince and Other Tales",
-                "Lord Arthur Savile’s Crime and Other Stories",
-                "A House of Pomegranates"
-              ]
+              "pattern": "^(The Happy Prince and Other Tales|Lord Arthur Savile’s Crime and Other Stories|A House of Pomegranates)(, (The Happy Prince and Other Tales|Lord Arthur Savile’s Crime and Other Stories|A House of Pomegranates))*$"
             }
+          },
+          {
+            "name": "collection_hp",
+            "type": "string",
+            "description": "\"y\" if the item discusses The Happy Prince and Other Tales, otherwise \"n\".",
+            "constraints": { "required": true, "enum": ["y", "n"] }
+          },
+          {
+            "name": "collection_lasc",
+            "type": "string",
+            "description": "\"y\" if the item discusses Lord Arthur Savile’s Crime and Other Stories, otherwise \"n\".",
+            "constraints": { "required": true, "enum": ["y", "n"] }
+          },
+          {
+            "name": "collection_ahop",
+            "type": "string",
+            "description": "\"y\" if the item discusses A House of Pomegranates, otherwise \"n\".",
+            "constraints": { "required": true, "enum": ["y", "n"] }
           },
           {
             "name": "period",
             "type": "integer",
-            "description": "Chronological group: 1 is the first reception of the collections (1888–1894); 3 is items from 1895, the year of Wilde's trials.",
-            "constraints": { "minimum": 1 }
+            "description": "Chronological group by date of publication: 1 is the first reception of the collections (to 31 March 1895); 2 runs from Wilde's trials (April 1895) to 30 November 1900; 3 is after Wilde's death.",
+            "constraints": { "minimum": 1, "maximum": 3 }
           },
           {
             "name": "publication_type",
             "type": "string",
-            "description": "Kind of item: a contemporary review, a news item mentioning a collection without reviewing it, or an advertisement. See Scope in METHODOLOGY.md.",
+            "description": "Kind of item: a contemporary review (original or reprint), a notice, a news item mentioning a collection without reviewing it, an article, a letter (correspondence), an obituary, or an advertisement. See Scope in METHODOLOGY.md.",
             "constraints": { "required": true }
           },
           {
