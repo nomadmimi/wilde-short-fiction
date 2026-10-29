@@ -10,9 +10,11 @@ The dataset collects reviews, notices and related press items about Oscar Wilde'
 - **Obituary**: an obituary of Wilde that discusses a collection.
 - **Advertisement**: a publisher's or bookseller's advertisement for a collection.
 
-The same review was often reprinted in several periodicals. The dataset does not yet distinguish original reviews from reprints: each printing is a separate record. Linking reprints of the same text into clusters with shared identifiers is planned for a future release.
-
 The `period` field groups items chronologically: period 1 covers the first reception of the collections (to 31 March 1895); period 2 runs from Wilde's trials (April 1895) to 30 November 1900; period 3 covers items after Wilde's death.
+
+## Reprints and chains
+
+The same review was often reprinted in several periodicals. Each printing is a separate record, and `publication_type` marks a review as an original or a reprint. Records that are not independent of each other share a `chain_id`: `W` for the same text printed in several periodicals (verbatim or with small variants, or sharing a substantial passage), `L` for letters that answer one another, `Q` for a text that quotes another record. Records in no chain have an empty `chain_id`. When counting, a chain counts once, so a widely reprinted text does not weigh more than a review printed once.
 
 ## Finding the reviews
 
@@ -32,7 +34,15 @@ The date each transcription was completed is recorded in `transcribed`.
 
 ## Metadata
 
-Each record gives the periodical's name, country, region and place of publication; the volume, number and page(s); the date of publication to the precision known (year, month, day); and the reviewer where identified. Most Victorian reviews were unsigned, so `publication_reviewer` is usually empty.
+Each record gives the periodical's name, country, region and place of publication; the volume, number and page(s); the date of publication to the precision known (year, month, day); and the reviewer where identified. Most Victorian reviews were unsigned, so `publication_reviewer` is usually empty. Every record has a `citekey` for reference managers.
+
+## Publication
+
+The dataset is compiled in a working spreadsheet that holds more records than are published here. A record is published once it has been checked: records found before the website was first built, and later records whose page images have been checked during analysis. Each record is cleared for publication individually. `data.csv` is generated from the spreadsheet by a script and never edited by hand; every export arrives as a pull request whose log lists any record left out and why, and is published only when that pull request is merged. Every published record is also an item in the "Reception reviews" collection of the project's [public Zotero group](https://www.zotero.org/groups/6738308), linked to its page on the website.
+
+## Responsibilities
+
+Regina M. Ponciano is responsible for the dataset: finding, transcribing and checking the records, and deciding which are published. Claude, an AI model by Anthropic, is responsible for its translation to this repository and the website: the export from the spreadsheet, the checks in `datapackage.json`, the scripts and the automated workflows. Every change Claude makes is reviewed and merged by Regina M. Ponciano.
 
 ## Limitations
 

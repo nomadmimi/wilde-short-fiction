@@ -1,0 +1,62 @@
+name: Sync reviews to Zotero
+
+# data.csv is the master copy of the published reviews; the "Reception reviews" collection of the
+# Zotero group is derived from it. On a pull request that changes data.csv, this job lists what
+# would be added, changed, withdrawn or restored in Zotero (the job summary), without writing
+# anything: that list is reviewed together with the data. When data.csv changes on main (the pull
+# request is merged), it applies the changes, once reviews.applyOnMerge is true in
+# bibliography.config.json. It can also be started by hand from the Actions tab, for example on a
+# single id. The only secret is ZOTERO_API_KEY.
+
+on:
+  pull_request:
+    paths: [data.csv]
+  push:
+    branches: [main]
+    paths: [data.csv]
+  workflow_dispatch:
+    inputs:
+      apply:
+        description: Write to Zotero (unticked = only list the changes)
+        type: boolean
+        default: false
+      only:
+        description: 'Only these ids, separated by spaces (empty = all)'
+        type: string
+        default: ''
+      allow_shrink:
+        description: Allow withdrawing more items than reviews.maxWithdraw
+        type: boolean
+        default: false
+
+concurrency:
+  group: zotero-reviews
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    name: Sync data.csv to the Zotero collection
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Sync
+        env:
+          ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+          EVENT: ${{ github.event_name }}
+          APPLY: ${{ inputs.apply }}
+          ONLY: ${{ inputs.only }}
+          ALLOW_SHRINK: ${{ inputs.allow_shrink }}
+        run: |
+          args=()
+          on_merge=$(python -c "import json; print(json.load(open('bibliography.config.json'))['reviews']['applyOnMerge'])")
+          if [ "$EVENT" = "push" ] && [ "$on_merge" = "True" ]; then args+=(--apply); fi
+          if [ "$EVENT" = "workflow_dispatch" ] && [ "$APPLY" = "true" ]; then args+=(--apply); fi
+          if [ -n "$ONLY" ]; then args+=(--only $ONLY); fi
+          if [ "$ALLOW_SHRINK" = "true" ]; then args+=(--allow-shrink); fi
+          python scripts/sync_reviews.py "${args[@]}"
