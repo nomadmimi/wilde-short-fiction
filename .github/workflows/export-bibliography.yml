@@ -1,13 +1,13 @@
 name: Export bibliography from Zotero
 
-# Zotero is the master copy of the bibliography. Every week this job exports the main
+# Zotero is the master copy of the bibliography. Every month this job exports the main
 # collection as CSL-JSON, checks it, and commits the result. Settings (collection name,
 # output file, safety limit) live in bibliography.config.json; the only secret is
 # ZOTERO_API_KEY (Settings > Secrets and variables > Actions).
 
 on:
   schedule:
-    - cron: '41 5 * * 1'
+    - cron: '41 5 1 * *'
   workflow_dispatch:
     inputs:
       allow_shrink:
