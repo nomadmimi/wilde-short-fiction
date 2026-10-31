@@ -18,6 +18,8 @@
     "maxWithdraw": 0.2,
     "severalCollections": "Oscar Wilde’s Short Fiction",
     "titles": {
+      "Review": "Review of {collection}",
+      "Syndicated review": "Review of {collection}",
       "Contemporary review (original)": "Review of {collection}",
       "Contemporary review (reprint)": "Review of {collection}",
       "Notice": "Notice of {collection}",
@@ -25,7 +27,8 @@
       "Article": "Article on {collection}",
       "Correspondence": "Letter to the editor on {collection}",
       "Advertisement": "Advertisement for {collection}",
-      "Obituary": "Obituary of Oscar Wilde"
+      "Obituary": "Obituary of Oscar Wilde",
+      "Story reprint": "Reprint of a story from {collection}"
     },
     "defaultTitle": "Item on {collection}"
   },

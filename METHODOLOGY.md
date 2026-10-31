@@ -2,19 +2,21 @@
 
 The dataset collects reviews, notices and related press items about Oscar Wilde's three short story collections: *The Happy Prince and Other Tales* (1888), *Lord Arthur Savile's Crime and Other Stories* (1891) and *A House of Pomegranates* (1891). An item is in scope when it discusses at least one of these collections and was printed in a periodical. Each record is classified by `publication_type`:
 
-- **Contemporary review**: a review of one or more of the collections.
+- **Review**: a review of one or more of the collections, first printed in this periodical.
+- **Syndicated review**: a reprint of a review first printed in another periodical.
 - **Notice**: a short notice of a collection, shorter than a review.
 - **News**: a news item that mentions a collection without reviewing it.
 - **Article**: an article that discusses a collection without being a review of it.
 - **Correspondence**: a letter to the editor that discusses a collection.
 - **Obituary**: an obituary of Wilde that discusses a collection.
 - **Advertisement**: a publisher's or bookseller's advertisement for a collection.
+- **Story reprint**: a story from one of the collections reprinted in a periodical.
 
 The `period` field groups items chronologically: period 1 covers the first reception of the collections (to 31 March 1895); period 2 runs from Wilde's trials (April 1895) to 30 November 1900; period 3 covers items after Wilde's death.
 
 ## Reprints and chains
 
-The same review was often reprinted in several periodicals. Each printing is a separate record, and `publication_type` marks a review as an original or a reprint. Records that are not independent of each other share a `chain_id`: `W` for the same text printed in several periodicals (verbatim or with small variants, or sharing a substantial passage), `L` for letters that answer one another, `Q` for a text that quotes another record. Records in no chain have an empty `chain_id`. When counting, a chain counts once, so a widely reprinted text does not weigh more than a review printed once.
+The same review was often reprinted in several periodicals. Each printing is a separate record, and `publication_type` marks a reprinted review as a syndicated review. Records that are not independent of each other share a `chain_id`: `W` for the same text printed in several periodicals (verbatim or with small variants, or sharing a substantial passage), `L` for letters that answer one another, `Q` for a text that quotes another record. Records in no chain have an empty `chain_id`. When counting, a chain counts once, so a widely reprinted text does not weigh more than a review printed once.
 
 ## Finding the reviews
 
