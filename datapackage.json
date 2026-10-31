@@ -72,7 +72,7 @@
           {
             "name": "publication_type",
             "type": "string",
-            "description": "Kind of item: a contemporary review (original or reprint), a notice, a news item mentioning a collection without reviewing it, an article, a letter (correspondence), an obituary, or an advertisement. See Scope in METHODOLOGY.md.",
+            "description": "Kind of item: a review, a syndicated review (a reprinted review), a notice, a news item mentioning a collection without reviewing it, an article, a letter (correspondence), an obituary, an advertisement, or a story reprint. See Scope in METHODOLOGY.md.",
             "constraints": { "required": true }
           },
           {
