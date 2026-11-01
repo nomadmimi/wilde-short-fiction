@@ -1,6 +1,6 @@
 [
   {
-    "id": "1888reader",
+    "id": "1888",
     "archive": "Macmillan Archive, British Library",
     "archive_location": "Add. MS 55945",
     "issued": {
@@ -17,86 +17,7 @@
     "type": "manuscript"
   },
   {
-    "id": "1944canterville",
-    "URL": "https://www.imdb.com/title/tt0036696/?ref_=tt_sims_tt_i_2",
-    "director": [
-      {
-        "family": "Dassin",
-        "given": "Jules"
-      },
-      {
-        "family": "McLeod",
-        "given": "Norman Z."
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          1944
-        ]
-      ]
-    },
-    "publisher": "Metro-Goldwyn-Mayer (MGM)",
-    "title": "The Canterville Ghost",
-    "type": "motion_picture"
-  },
-  {
-    "id": "1986canterville",
-    "URL": "https://www.imdb.com/title/tt0090792/?ref_=fn_al_tt_4",
-    "director": [
-      {
-        "family": "Bogart",
-        "given": "Paul"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          1986
-        ]
-      ]
-    },
-    "publisher": "Columbia Pictures Television, HTV, Inter-Hemisphere",
-    "title": "The Canterville Ghost",
-    "type": "motion_picture"
-  },
-  {
-    "id": "1996canterville",
-    "URL": "https://www.imdb.com/title/tt0115820/",
-    "director": [
-      {
-        "family": "Macartney",
-        "given": "Syd"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          1996
-        ]
-      ]
-    },
-    "title": "The Canterville Ghost",
-    "type": "motion_picture"
-  },
-  {
-    "id": "2010bibliography",
-    "URL": "https://web.archive.org/web/20101014201958/http://www.oscholars.com/TO/Specials/Tales/Bibliography.htm",
-    "container-title": "The Oscholars",
-    "issued": {
-      "date-parts": [
-        [
-          2010,
-          10,
-          14
-        ]
-      ]
-    },
-    "title": "Bibliography of Criticism of Wilde’s Fairy Tales",
-    "type": "webpage"
-  },
-  {
-    "id": "2010giant",
+    "id": "2010",
     "URL": "https://web.archive.org/web/20101012231032/http://www.oscholars.com/TO/Specials/Tales/ToC.htm",
     "container-title": "The Oscholars",
     "issued": {
@@ -112,26 +33,23 @@
     "type": "webpage"
   },
   {
-    "id": "2018happy",
-    "director": [
-      {
-        "family": "Everett",
-        "given": "Rupert"
-      }
-    ],
+    "id": "2010a",
+    "URL": "https://web.archive.org/web/20101014201958/http://www.oscholars.com/TO/Specials/Tales/Bibliography.htm",
+    "container-title": "The Oscholars",
     "issued": {
       "date-parts": [
         [
-          2018
+          2010,
+          10,
+          14
         ]
       ]
     },
-    "publisher": "Maze Pictures, Entre Chien et Loup, Palomar",
-    "title": "The Happy Prince",
-    "type": "motion_picture"
+    "title": "Bibliography of Criticism of Wilde’s Fairy Tales",
+    "type": "webpage"
   },
   {
-    "id": "ablow2009oscar",
+    "id": "ablow2009",
     "DOI": "10.1215/00295132-2009-002",
     "author": [
       {
@@ -154,7 +72,7 @@
     "volume": "42"
   },
   {
-    "id": "ackroyd2003foreword",
+    "id": "ackroyd2003",
     "author": [
       {
         "family": "Ackroyd",
@@ -173,7 +91,7 @@
     "type": "book"
   },
   {
-    "id": "alattar2010pomegranates",
+    "id": "al-attar2010",
     "author": [
       {
         "family": "Al–Attar",
@@ -194,7 +112,7 @@
     "type": "article-journal"
   },
   {
-    "id": "balog1996adaptability",
+    "id": "balog1996",
     "author": [
       {
         "family": "Balog",
@@ -215,7 +133,7 @@
     "volume": "16"
   },
   {
-    "id": "bartle2012pederasty",
+    "id": "bartle2012",
     "DOI": "10.5283/vn.39",
     "author": [
       {
@@ -238,7 +156,7 @@
     "volume": "4"
   },
   {
-    "id": "bashford1988hermeneutics",
+    "id": "bashford1988",
     "author": [
       {
         "family": "Bashford",
@@ -260,7 +178,7 @@
     "volume": "50"
   },
   {
-    "id": "beckson2005oscar",
+    "id": "beckson2005",
     "author": [
       {
         "family": "Beckson",
@@ -279,7 +197,7 @@
     "type": "book"
   },
   {
-    "id": "binder2007text",
+    "id": "binder2007",
     "URL": "https://digitalscholarship.unlv.edu/rtds/2280",
     "author": [
       {
@@ -299,7 +217,7 @@
     "type": "thesis"
   },
   {
-    "id": "blackwood2000oscar",
+    "id": "blackwood2000",
     "author": [
       {
         "family": "Blackwood",
@@ -330,7 +248,7 @@
     "type": "chapter"
   },
   {
-    "id": "blackwood2000oscarb",
+    "id": "blackwood2000a",
     "author": [
       {
         "family": "Blackwood",
@@ -361,7 +279,7 @@
     "type": "chapter"
   },
   {
-    "id": "blackwood2000oscarc",
+    "id": "blackwood2000b",
     "author": [
       {
         "family": "Blackwood",
@@ -392,7 +310,7 @@
     "type": "chapter"
   },
   {
-    "id": "blackwood2000oscard",
+    "id": "blackwood2000c",
     "author": [
       {
         "family": "Blackwood",
@@ -423,7 +341,27 @@
     "type": "chapter"
   },
   {
-    "id": "bonniord2013performativit",
+    "id": "bogart1986",
+    "URL": "https://www.imdb.com/title/tt0090792/?ref_=fn_al_tt_4",
+    "director": [
+      {
+        "family": "Bogart",
+        "given": "Paul"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "publisher": "Columbia Pictures Television, HTV, Inter-Hemisphere",
+    "title": "The Canterville Ghost",
+    "type": "motion_picture"
+  },
+  {
+    "id": "bonniord2013",
     "URL": "https://dune.univ-angers.fr/fichiers/20114409/20132MALLC1411/fichier/1411F.pdf",
     "author": [
       {
@@ -445,7 +383,7 @@
     "type": "thesis"
   },
   {
-    "id": "boyiopoulos2019brilliancy",
+    "id": "boyiopoulos2019",
     "author": [
       {
         "family": "Boyiopoulos",
@@ -475,7 +413,7 @@
     "type": "chapter"
   },
   {
-    "id": "bristow2015oscar",
+    "id": "bristow2015",
     "author": [
       {
         "family": "Bristow",
@@ -498,7 +436,7 @@
     "type": "book"
   },
   {
-    "id": "bristow2017introduction",
+    "id": "bristow2017",
     "DOI": "10.1007/978-3-319-60411-4_1",
     "author": [
       {
@@ -526,7 +464,7 @@
     "type": "chapter"
   },
   {
-    "id": "bristow2017oscar",
+    "id": "bristow2017a",
     "DOI": "10.1007/978-3-319-60411-4",
     "editor": [
       {
@@ -546,7 +484,7 @@
     "type": "book"
   },
   {
-    "id": "bristow2017oscarb",
+    "id": "bristow2017b",
     "URL": "http://udspace.udel.edu/handle/19716/21195#files-area",
     "author": [
       {
@@ -566,7 +504,7 @@
     "type": "webpage"
   },
   {
-    "id": "budziak2009text",
+    "id": "budziak2009",
     "author": [
       {
         "family": "Budziak",
@@ -585,7 +523,7 @@
     "type": "book"
   },
   {
-    "id": "cameron2002oscar",
+    "id": "cameron2002",
     "URL": "http://search.ebscohost.com/login.aspx?direct=true&db=mzh&AN=2005970416&lang=es&site=ehost-live",
     "author": [
       {
@@ -608,7 +546,7 @@
     "volume": "17"
   },
   {
-    "id": "campbell2013sexual",
+    "id": "campbell2013",
     "DOI": "10.3138/9781442665699-010",
     "author": [
       {
@@ -636,7 +574,7 @@
     "type": "chapter"
   },
   {
-    "id": "clausson2006lady",
+    "id": "clausson2006",
     "author": [
       {
         "family": "Clausson",
@@ -657,7 +595,7 @@
     "volume": "28"
   },
   {
-    "id": "clayworth2001making",
+    "id": "clayworth2001",
     "URL": "http://www.jstor.org/stable/45269377",
     "author": [
       {
@@ -679,7 +617,7 @@
     "type": "article-journal"
   },
   {
-    "id": "clayworth2001oscar",
+    "id": "clayworth2001a",
     "author": [
       {
         "family": "Clayworth",
@@ -699,7 +637,7 @@
     "type": "article-journal"
   },
   {
-    "id": "cohen1976moral",
+    "id": "cohen1976",
     "author": [
       {
         "family": "Cohen",
@@ -718,7 +656,7 @@
     "type": "book"
   },
   {
-    "id": "cohen2005marriages",
+    "id": "cohen2005",
     "author": [
       {
         "family": "Cohen",
@@ -738,7 +676,7 @@
     "type": "article-journal"
   },
   {
-    "id": "cooper2018happy",
+    "id": "cooper2018",
     "URL": "https://oscarwildeinamerica.blog/2018/10/13/the-happy-prince-2018/",
     "author": [
       {
@@ -760,7 +698,7 @@
     "type": "webpage"
   },
   {
-    "id": "danson1991oscar",
+    "id": "danson1991",
     "DOI": "10/d4dtts",
     "author": [
       {
@@ -783,7 +721,31 @@
     "volume": "58"
   },
   {
-    "id": "dentith2003story",
+    "id": "dassin1944",
+    "URL": "https://www.imdb.com/title/tt0036696/?ref_=tt_sims_tt_i_2",
+    "director": [
+      {
+        "family": "Dassin",
+        "given": "Jules"
+      },
+      {
+        "family": "McLeod",
+        "given": "Norman Z."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1944
+        ]
+      ]
+    },
+    "publisher": "Metro-Goldwyn-Mayer (MGM)",
+    "title": "The Canterville Ghost",
+    "type": "motion_picture"
+  },
+  {
+    "id": "dentith2003",
     "author": [
       {
         "family": "Dentith",
@@ -814,7 +776,7 @@
     "type": "chapter"
   },
   {
-    "id": "desaix1979le",
+    "id": "desaix1979",
     "URL": "https://books.google.es/books?id=DdYqAAAAMAAJ",
     "author": [
       {
@@ -835,7 +797,7 @@
     "type": "book"
   },
   {
-    "id": "dryden2003oscar",
+    "id": "dryden2003",
     "DOI": "10.1057/9780230006126_5",
     "author": [
       {
@@ -863,7 +825,7 @@
     "type": "chapter"
   },
   {
-    "id": "duffy2001gay",
+    "id": "duffy2001",
     "DOI": "10.1017/S1060150301002054",
     "author": [
       {
@@ -886,7 +848,7 @@
     "volume": "29"
   },
   {
-    "id": "edelson1988language",
+    "id": "edelson1988",
     "author": [
       {
         "family": "Edelson",
@@ -907,7 +869,7 @@
     "volume": "2"
   },
   {
-    "id": "edwards1989fireworks",
+    "id": "edwards1989",
     "URL": "https://books.google.es/books?id=ExdoPwAACAAJ",
     "author": [
       {
@@ -927,7 +889,7 @@
     "type": "book"
   },
   {
-    "id": "erkan2011subversive",
+    "id": "erkanSpring-Fall2011",
     "URL": "http://search.ebscohost.com/login.aspx?direct=true&db=mzh&AN=2012700100&lang=es&site=ehost-live",
     "author": [
       {
@@ -951,7 +913,26 @@
     "volume": "20"
   },
   {
-    "id": "foss2017for",
+    "id": "everett2018",
+    "director": [
+      {
+        "family": "Everett",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "Maze Pictures, Entre Chien et Loup, Palomar",
+    "title": "The Happy Prince",
+    "type": "motion_picture"
+  },
+  {
+    "id": "foss2017",
     "DOI": "10/gh6xfr",
     "author": [
       {
@@ -975,7 +956,7 @@
     "volume": "47"
   },
   {
-    "id": "frankel2000oscar",
+    "id": "frankel2000",
     "author": [
       {
         "family": "Frankel",
@@ -994,7 +975,7 @@
     "type": "book"
   },
   {
-    "id": "frankel2004lying",
+    "id": "frankel2004",
     "author": [
       {
         "family": "Frankel",
@@ -1025,7 +1006,7 @@
     "type": "chapter"
   },
   {
-    "id": "frankel2016portraiture",
+    "id": "frankel2016",
     "DOI": "10/gh6xfv",
     "author": [
       {
@@ -1048,7 +1029,7 @@
     "volume": "69"
   },
   {
-    "id": "frankel2020introduction",
+    "id": "frankel2020",
     "author": [
       {
         "family": "Frankel",
@@ -1069,7 +1050,7 @@
     "type": "chapter"
   },
   {
-    "id": "gantar2015evolution",
+    "id": "gantar2015",
     "author": [
       {
         "family": "Gantar",
@@ -1088,7 +1069,7 @@
     "type": "book"
   },
   {
-    "id": "googlebooksngramviewer2023happy",
+    "id": "googlebooksngramviewer2023",
     "URL": "https://books.google.com/ngrams/graph?content=Happy+Prince+and+Other+Tales%2CA+House+of+Pomegranates%2CLord+Arthur+Savile%27s+Crime&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3",
     "author": [
       {
@@ -1108,7 +1089,7 @@
     "type": "webpage"
   },
   {
-    "id": "gordon1972wilde",
+    "id": "gordon1972",
     "author": [
       {
         "family": "Gordon",
@@ -1130,7 +1111,7 @@
     "volume": "15"
   },
   {
-    "id": "green1997grave",
+    "id": "green1997",
     "URL": "http://search.ebscohost.com/login.aspx?direct=true&db=mzh&AN=2002140276&lang=es&site=ehost-live",
     "author": [
       {
@@ -1153,7 +1134,7 @@
     "volume": "3"
   },
   {
-    "id": "griswold1974sacrifice",
+    "id": "griswold1974",
     "DOI": "10/gh6xfh",
     "author": [
       {
@@ -1176,7 +1157,7 @@
     "volume": "3"
   },
   {
-    "id": "guy2000oscar",
+    "id": "guy2000",
     "author": [
       {
         "family": "Guy",
@@ -1199,7 +1180,7 @@
     "type": "book"
   },
   {
-    "id": "hennegan2002hea",
+    "id": "hennegan2002",
     "DOI": "10.1086/337931",
     "author": [
       {
@@ -1223,7 +1204,7 @@
     "volume": "27"
   },
   {
-    "id": "hernandezguerrero2007la",
+    "id": "hernandezguerrero2007",
     "DOI": "10.21071/ced.v3i.5367",
     "author": [
       {
@@ -1247,7 +1228,7 @@
     "volume": "15"
   },
   {
-    "id": "holland1954once",
+    "id": "holland1954",
     "author": [
       {
         "family": "Holland",
@@ -1269,7 +1250,7 @@
     "volume": "30"
   },
   {
-    "id": "holland2008portrait",
+    "id": "holland2008",
     "author": [
       {
         "family": "Holland",
@@ -1288,7 +1269,7 @@
     "type": "book"
   },
   {
-    "id": "hou2014aesthetic",
+    "id": "hou2014",
     "DOI": "10/gh6xfm",
     "author": [
       {
@@ -1312,7 +1293,7 @@
     "volume": "4"
   },
   {
-    "id": "jernigan2014suffer",
+    "id": "jernigan2014",
     "author": [
       {
         "family": "Jernigan",
@@ -1343,7 +1324,7 @@
     "type": "chapter"
   },
   {
-    "id": "jones2011morality",
+    "id": "jones2011",
     "DOI": "10/gh6xfg",
     "author": [
       {
@@ -1366,7 +1347,7 @@
     "volume": "51"
   },
   {
-    "id": "jones2016catching",
+    "id": "jones2016",
     "author": [
       {
         "family": "Jones",
@@ -1384,7 +1365,7 @@
     "type": "thesis"
   },
   {
-    "id": "kalinichenko2015allusions",
+    "id": "kalinichenko2015",
     "author": [
       {
         "family": "Kalinichenko",
@@ -1410,7 +1391,7 @@
     "volume": "1"
   },
   {
-    "id": "kamerer2013love",
+    "id": "kamerer2013",
     "URL": "http://search.ebscohost.com/login.aspx?direct=true&db=mzh&AN=2013140606&lang=es&site=ehost-live",
     "author": [
       {
@@ -1433,7 +1414,7 @@
     "volume": "1"
   },
   {
-    "id": "kessler2018oscar",
+    "id": "kessler2018",
     "author": [
       {
         "family": "Kessler",
@@ -1455,7 +1436,7 @@
     "volume": "61"
   },
   {
-    "id": "killeen2005faiths",
+    "id": "killeen2005",
     "author": [
       {
         "family": "Killeen",
@@ -1474,7 +1455,7 @@
     "type": "book"
   },
   {
-    "id": "killeen2007fairy",
+    "id": "killeen2007",
     "author": [
       {
         "family": "Killeen",
@@ -1493,7 +1474,7 @@
     "type": "book"
   },
   {
-    "id": "killeen2008teaching",
+    "id": "killeen2008",
     "author": [
       {
         "family": "Killeen",
@@ -1520,7 +1501,7 @@
     "type": "chapter"
   },
   {
-    "id": "killeen2011introduction",
+    "id": "killeen2011",
     "author": [
       {
         "family": "Killeen",
@@ -1547,7 +1528,7 @@
     "type": "chapter"
   },
   {
-    "id": "killeen2017oscar",
+    "id": "killeen2017",
     "author": [
       {
         "family": "Killeen",
@@ -1568,7 +1549,7 @@
     "type": "chapter"
   },
   {
-    "id": "king2010origins",
+    "id": "king2010",
     "URL": "https://web.archive.org/web/20101014195213/http://www.oscholars.com/TO/Specials/Tales/Birthday_King.htm",
     "author": [
       {
@@ -1590,7 +1571,7 @@
     "type": "webpage"
   },
   {
-    "id": "king2017portrait",
+    "id": "king2017",
     "URL": "http://search.ebscohost.com/login.aspx?direct=true&db=mzh&AN=2017580627&lang=es&site=ehost-live",
     "author": [
       {
@@ -1618,7 +1599,7 @@
     "type": "chapter"
   },
   {
-    "id": "kirkpatrick2010word",
+    "id": "kirkpatrick2010",
     "URL": "https://web.archive.org/web/20101014195548/http://www.oscholars.com/TO/Specials/Tales/Christ_Kirkpatrick.htm",
     "author": [
       {
@@ -1640,7 +1621,7 @@
     "type": "webpage"
   },
   {
-    "id": "kooistra2017wilde",
+    "id": "kooistra2017",
     "DOI": "10.1007/978-3-319-60411-4_4",
     "author": [
       {
@@ -1668,7 +1649,7 @@
     "type": "chapter"
   },
   {
-    "id": "kotzin1979selfish",
+    "id": "kotzin1979",
     "author": [
       {
         "family": "Kotzin",
@@ -1690,7 +1671,38 @@
     "volume": "16"
   },
   {
-    "id": "lane2000from",
+    "id": "lane2000",
+    "author": [
+      {
+        "family": "Lane",
+        "given": "John"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "607",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Oscar Wilde (MS Clark), G1 The Albany, 7 September 1894",
+    "type": "chapter"
+  },
+  {
+    "id": "lane2000a",
     "author": [
       {
         "family": "Lane",
@@ -1725,38 +1737,7 @@
     "type": "chapter"
   },
   {
-    "id": "lane2000oscar",
-    "author": [
-      {
-        "family": "Lane",
-        "given": "John"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "607",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Oscar Wilde (MS Clark), G1 The Albany, 7 September 1894",
-    "type": "chapter"
-  },
-  {
-    "id": "laroche1999sonnets",
+    "id": "laroche1999",
     "author": [
       {
         "family": "Laroche",
@@ -1782,7 +1763,7 @@
     "type": "chapter"
   },
   {
-    "id": "liang2018music",
+    "id": "liang2018",
     "DOI": "10.1007/s10583-018-9360-z",
     "author": [
       {
@@ -1807,7 +1788,7 @@
     "type": "article-journal"
   },
   {
-    "id": "liang2019influence",
+    "id": "liang2019",
     "DOI": "10.1080/0895769X.2019.1656998",
     "author": [
       {
@@ -1829,7 +1810,7 @@
     "type": "article-journal"
   },
   {
-    "id": "liang2020dance",
+    "id": "liang2020",
     "DOI": "10.1007/s10583-019-09397-2",
     "author": [
       {
@@ -1853,7 +1834,7 @@
     "volume": "51"
   },
   {
-    "id": "liang2021estranged",
+    "id": "liang2021",
     "DOI": "10.1007/s10583-021-09456-7",
     "author": [
       {
@@ -1874,7 +1855,7 @@
     "type": "article-journal"
   },
   {
-    "id": "logan1999song",
+    "id": "logan1999",
     "author": [
       {
         "family": "Logan",
@@ -1893,7 +1874,7 @@
     "type": "thesis"
   },
   {
-    "id": "luthrandallegories",
+    "id": "luthra",
     "URL": "https://web.archive.org/web/20101014195757/http://www.oscholars.com/TO/Specials/Tales/Luthra.htm",
     "accessed": {
       "date-parts": [
@@ -1915,7 +1896,7 @@
     "type": "webpage"
   },
   {
-    "id": "lyke1999rhetorical",
+    "id": "lyke1999",
     "URL": "http://search.ebscohost.com/login.aspx?direct=true&db=mzh&AN=1999097482&lang=es&site=ehost-live",
     "author": [
       {
@@ -1935,7 +1916,26 @@
     "type": "thesis"
   },
   {
-    "id": "maclear2018selfish",
+    "id": "macartney1996",
+    "URL": "https://www.imdb.com/title/tt0115820/",
+    "director": [
+      {
+        "family": "Macartney",
+        "given": "Syd"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "title": "The Canterville Ghost",
+    "type": "motion_picture"
+  },
+  {
+    "id": "maclear2018",
     "DOI": "10/gh6xfp",
     "author": [
       {
@@ -1959,7 +1959,7 @@
     "volume": "10"
   },
   {
-    "id": "markey2010true",
+    "id": "markey2010",
     "author": [
       {
         "family": "Markey",
@@ -1990,7 +1990,7 @@
     "type": "chapter"
   },
   {
-    "id": "markey2011oscar",
+    "id": "markey2011",
     "author": [
       {
         "family": "Markey",
@@ -2009,7 +2009,7 @@
     "type": "book"
   },
   {
-    "id": "markey2011oscarb",
+    "id": "markey2011a",
     "author": [
       {
         "family": "Markey",
@@ -2036,7 +2036,7 @@
     "type": "chapter"
   },
   {
-    "id": "martin1979oscar",
+    "id": "martin1979",
     "author": [
       {
         "family": "Martin",
@@ -2058,7 +2058,7 @@
     "volume": "16"
   },
   {
-    "id": "mashilker2017reclaiming",
+    "id": "mashilker2017",
     "URL": "http://search.ebscohost.com/login.aspx?direct=true&db=mzh&AN=2017580625&lang=es&site=ehost-live",
     "author": [
       {
@@ -2086,7 +2086,7 @@
     "type": "chapter"
   },
   {
-    "id": "mason1914bibliography",
+    "id": "mason1914",
     "URL": "http://archive.org/details/cu31924024248258",
     "author": [
       {
@@ -2107,7 +2107,7 @@
     "type": "book"
   },
   {
-    "id": "mason1914who",
+    "id": "mason1914a",
     "author": [
       {
         "family": "Mason",
@@ -2127,7 +2127,7 @@
     "type": "chapter"
   },
   {
-    "id": "mccormack2004wilde",
+    "id": "mccormack2004",
     "author": [
       {
         "family": "McCormack",
@@ -2154,7 +2154,7 @@
     "type": "chapter"
   },
   {
-    "id": "mikhail1978oscar",
+    "id": "mikhail1978",
     "URL": "https://archive.org/details/oscarwildeannota00mikh",
     "author": [
       {
@@ -2174,7 +2174,7 @@
     "type": "book"
   },
   {
-    "id": "mikhail1979oscar",
+    "id": "mikhail1979",
     "DOI": "10.1007/978-1-349-03926-5",
     "editor": [
       {
@@ -2196,7 +2196,7 @@
     "volume": "2"
   },
   {
-    "id": "mikhail1979oscarb",
+    "id": "mikhail1979a",
     "DOI": "10.1007/978-1-349-03923-4",
     "editor": [
       {
@@ -2218,7 +2218,7 @@
     "volume": "1"
   },
   {
-    "id": "mikolyzk1993oscar",
+    "id": "mikolyzk1993",
     "author": [
       {
         "family": "Mikolyzk",
@@ -2237,7 +2237,7 @@
     "type": "book"
   },
   {
-    "id": "miller2012wilde",
+    "id": "miller2012",
     "author": [
       {
         "family": "Miller",
@@ -2256,7 +2256,7 @@
     "type": "thesis"
   },
   {
-    "id": "missa2025serious",
+    "id": "missa2025",
     "DOI": "10.64867/pjes.25435981.25.112.0972",
     "author": [
       {
@@ -2279,7 +2279,7 @@
     "volume": "11"
   },
   {
-    "id": "monaghan1974literary",
+    "id": "monaghan1974",
     "author": [
       {
         "family": "Monaghan",
@@ -2301,7 +2301,7 @@
     "volume": "1"
   },
   {
-    "id": "moyle2012constance",
+    "id": "moyle2012",
     "author": [
       {
         "family": "Moyle",
@@ -2320,7 +2320,7 @@
     "type": "book"
   },
   {
-    "id": "murray1979introduction",
+    "id": "murray1979",
     "author": [
       {
         "family": "Murray",
@@ -2341,7 +2341,7 @@
     "type": "chapter"
   },
   {
-    "id": "nassaar1995andersen",
+    "id": "nassaar1995",
     "author": [
       {
         "family": "Nassaar",
@@ -2363,7 +2363,7 @@
     "volume": "50"
   },
   {
-    "id": "nassaar1997andersen",
+    "id": "nassaar1997",
     "DOI": "10.1080/00144940.1997.11484128",
     "author": [
       {
@@ -2386,7 +2386,7 @@
     "volume": "55"
   },
   {
-    "id": "nassaar2002wilde",
+    "id": "nassaar2002",
     "DOI": "10/b7t64z",
     "author": [
       {
@@ -2409,7 +2409,7 @@
     "volume": "60"
   },
   {
-    "id": "nassaar2014oscar",
+    "id": "nassaar2014",
     "URL": "https://www.jstor.org/stable/48569590",
     "author": [
       {
@@ -2431,7 +2431,7 @@
     "type": "article-journal"
   },
   {
-    "id": "nassaar2014oscarb",
+    "id": "nassaar2014a",
     "DOI": "10/gh6xfn",
     "author": [
       {
@@ -2454,7 +2454,7 @@
     "volume": "27"
   },
   {
-    "id": "navarre2011oscar",
+    "id": "navarre2011",
     "author": [
       {
         "family": "Navarre",
@@ -2476,38 +2476,7 @@
     "volume": "54"
   },
   {
-    "id": "ndannotated",
-    "URL": "https://portraitofmrwh.wordpress.com/",
-    "accessed": {
-      "date-parts": [
-        [
-          2020,
-          11,
-          4
-        ]
-      ]
-    },
-    "title": "The Annotated Portrait of Mr. W.H.",
-    "type": "webpage"
-  },
-  {
-    "id": "ndrosenbach",
-    "URL": "https://editions.covecollective.org/content/rosenbach-manuscript-oscar-wildes-extended-portrait-mr-wh",
-    "accessed": {
-      "date-parts": [
-        [
-          2022,
-          9,
-          5
-        ]
-      ]
-    },
-    "container-title": "COVE Editions",
-    "title": "Rosenbach Manuscript of Oscar Wilde’s Extended “The Portrait of Mr W.H.”",
-    "type": "webpage"
-  },
-  {
-    "id": "nodelman2017young",
+    "id": "nodelman2017",
     "author": [
       {
         "family": "Nodelman",
@@ -2534,7 +2503,7 @@
     "type": "chapter"
   },
   {
-    "id": "noon1997wilde",
+    "id": "noon1997",
     "author": [
       {
         "family": "Noon",
@@ -2555,7 +2524,7 @@
     "type": "article-journal"
   },
   {
-    "id": "obed1997approaching",
+    "id": "obed1997",
     "URL": "https://journals.openedition.org/jsse/123?lang=en#authors",
     "author": [
       {
@@ -2577,7 +2546,7 @@
     "type": "article-journal"
   },
   {
-    "id": "oconnor2002maria",
+    "id": "oconnor2002",
     "DOI": "10.1080/00497870212519",
     "author": [
       {
@@ -2600,7 +2569,7 @@
     "volume": "31"
   },
   {
-    "id": "oconnor2004spectre",
+    "id": "oconnor2004",
     "DOI": "10.1080/0967088042000267542",
     "author": [
       {
@@ -2624,7 +2593,7 @@
     "volume": "12"
   },
   {
-    "id": "ohi2005innocence",
+    "id": "ohi2005",
     "author": [
       {
         "family": "Ohi",
@@ -2643,7 +2612,7 @@
     "type": "book"
   },
   {
-    "id": "pendlebury2011building",
+    "id": "pendlebury2011",
     "URL": "http://www.jstor.org/stable/41388981",
     "author": [
       {
@@ -2666,7 +2635,7 @@
     "volume": "25"
   },
   {
-    "id": "peters2020oscar",
+    "id": "peters2020",
     "URL": "https://muse.jhu.edu/article/751263/",
     "author": [
       {
@@ -2689,7 +2658,7 @@
     "volume": "63"
   },
   {
-    "id": "pine1995thief",
+    "id": "pine1995",
     "author": [
       {
         "family": "Pine",
@@ -2708,7 +2677,7 @@
     "type": "book"
   },
   {
-    "id": "ponciano2020loveable",
+    "id": "ponciano2020",
     "author": [
       {
         "family": "Ponciano",
@@ -2736,7 +2705,7 @@
     "type": "chapter"
   },
   {
-    "id": "ponciano2025haunting",
+    "id": "ponciano2025",
     "DOI": "10.24162/EI2025-13258",
     "author": [
       {
@@ -2758,7 +2727,7 @@
     "type": "article-journal"
   },
   {
-    "id": "ponciano2025revaluing",
+    "id": "ponciano2025a",
     "author": [
       {
         "family": "Ponciano",
@@ -2780,7 +2749,7 @@
     "type": "article-journal"
   },
   {
-    "id": "poteet1970romantic",
+    "id": "poteet1970",
     "author": [
       {
         "family": "Poteet",
@@ -2803,7 +2772,7 @@
     "volume": "7"
   },
   {
-    "id": "puleo2008altruism",
+    "id": "puleo2008",
     "URL": "https://www.jstor.org/stable/45269108",
     "author": [
       {
@@ -2826,7 +2795,7 @@
     "volume": "32"
   },
   {
-    "id": "quintus1979moral",
+    "id": "quintus1979",
     "URL": "https://www.jstor.org/stable/26435981",
     "author": [
       {
@@ -2848,7 +2817,7 @@
     "volume": "53"
   },
   {
-    "id": "rojaslizana2018kiss",
+    "id": "rojas-lizana2018",
     "DOI": "10.7575/aiac.ijclts.v.6n.2p.9",
     "author": [
       {
@@ -2880,7 +2849,7 @@
     "volume": "6"
   },
   {
-    "id": "rose2008shorter",
+    "id": "rose2008",
     "author": [
       {
         "family": "Rose",
@@ -2910,7 +2879,7 @@
     "type": "chapter"
   },
   {
-    "id": "ross1920oscar",
+    "id": "ross1920",
     "URL": "http://archive.org/details/collectionoforig00adulrich",
     "editor": [
       {
@@ -2931,7 +2900,7 @@
     "type": "book"
   },
   {
-    "id": "ruddick2008teaching",
+    "id": "ruddick2008",
     "author": [
       {
         "family": "Ruddick",
@@ -2958,7 +2927,7 @@
     "type": "chapter"
   },
   {
-    "id": "ruggaber2003wilde",
+    "id": "ruggaber2003",
     "author": [
       {
         "family": "Ruggaber",
@@ -2980,7 +2949,7 @@
     "volume": "46"
   },
   {
-    "id": "rutledge2010flowers",
+    "id": "rutledge2010",
     "URL": "https://web.archive.org/web/20101014201124/http://www.oscholars.com/TO/Specials/Tales/Opera_Ruttledge.htm",
     "author": [
       {
@@ -3002,7 +2971,7 @@
     "type": "webpage"
   },
   {
-    "id": "saintamour2000oscar",
+    "id": "saint-amour2000",
     "DOI": "10.2307/2903057",
     "author": [
       {
@@ -3025,7 +2994,7 @@
     "volume": "55"
   },
   {
-    "id": "sanudo2011borges",
+    "id": "sanudo2011",
     "author": [
       {
         "family": "Sañudo",
@@ -3048,7 +3017,7 @@
     "volume": "4"
   },
   {
-    "id": "sanzcasares1996el",
+    "id": "sanzcasares1996",
     "author": [
       {
         "family": "Sanz Casares",
@@ -3068,7 +3037,7 @@
     "type": "book"
   },
   {
-    "id": "schroeder1984oscar",
+    "id": "schroeder1984",
     "author": [
       {
         "family": "Schroeder",
@@ -3087,7 +3056,7 @@
     "type": "book"
   },
   {
-    "id": "schroeder1988some",
+    "id": "schroeder1988",
     "author": [
       {
         "family": "Schroeder",
@@ -3108,7 +3077,7 @@
     "type": "article-journal"
   },
   {
-    "id": "schroeder1989additions",
+    "id": "schroeder1989",
     "author": [
       {
         "family": "Schroeder",
@@ -3127,7 +3096,7 @@
     "type": "book"
   },
   {
-    "id": "schultz2009coalescing",
+    "id": "schultz2009",
     "URL": "http://search.ebscohost.com/login.aspx?direct=true&db=mzh&AN=2009300770&lang=es&site=ehost-live",
     "author": [
       {
@@ -3151,7 +3120,7 @@
     "volume": "9"
   },
   {
-    "id": "serra2002de",
+    "id": "serra2002",
     "author": [
       {
         "family": "Serra",
@@ -3172,7 +3141,7 @@
     "volume": "14"
   },
   {
-    "id": "shillinglaw2005wilde",
+    "id": "shillinglaw2005",
     "DOI": "10/bvwbtw",
     "author": [
       {
@@ -3196,7 +3165,7 @@
     "volume": "63"
   },
   {
-    "id": "siegel1986wilde",
+    "id": "siegel1986",
     "URL": "https://www.jstor.org/stable/27794072",
     "author": [
       {
@@ -3218,7 +3187,7 @@
     "volume": "12"
   },
   {
-    "id": "small2007introduction",
+    "id": "small2007",
     "author": [
       {
         "family": "Small",
@@ -3248,7 +3217,7 @@
     "type": "chapter"
   },
   {
-    "id": "small2015some",
+    "id": "small2015",
     "URL": "https://www.jstor.org/stable/48571625",
     "author": [
       {
@@ -3270,7 +3239,7 @@
     "type": "article-journal"
   },
   {
-    "id": "small2017introduction",
+    "id": "small2017",
     "author": [
       {
         "family": "Small",
@@ -3297,7 +3266,7 @@
     "type": "chapter"
   },
   {
-    "id": "small2020portrait",
+    "id": "small2020",
     "URL": "https://muse.jhu.edu/article/751261",
     "author": [
       {
@@ -3320,7 +3289,7 @@
     "volume": "63"
   },
   {
-    "id": "smith2017play",
+    "id": "smith2017",
     "author": [
       {
         "family": "Smith",
@@ -3341,7 +3310,7 @@
     "type": "chapter"
   },
   {
-    "id": "snider1993eros",
+    "id": "snider1993",
     "URL": "http://search.ebscohost.com/login.aspx?direct=true&db=mzh&AN=1993067513&lang=es&site=ehost-live",
     "author": [
       {
@@ -3364,7 +3333,7 @@
     "volume": "84"
   },
   {
-    "id": "stevens2010afterlife",
+    "id": "stevens2010",
     "DOI": "10.2307/j.ctt5vjbx8",
     "author": [
       {
@@ -3385,7 +3354,7 @@
     "type": "chapter"
   },
   {
-    "id": "straley2017oscar",
+    "id": "straley2017",
     "DOI": "10.1007/978-3-319-60411-4_7",
     "author": [
       {
@@ -3407,7 +3376,7 @@
     "type": "chapter"
   },
   {
-    "id": "talairachvielmas2011review",
+    "id": "talairach-vielmas2011",
     "URL": "https://muse.jhu.edu/article/462748",
     "author": [
       {
@@ -3430,7 +3399,7 @@
     "volume": "25"
   },
   {
-    "id": "tatar2017aesthetics",
+    "id": "tatar2017",
     "author": [
       {
         "family": "Tatar",
@@ -3451,7 +3420,7 @@
     "type": "chapter"
   },
   {
-    "id": "tattersall1991immodest",
+    "id": "tattersall1991",
     "author": [
       {
         "family": "Tattersall",
@@ -3473,7 +3442,7 @@
     "volume": "26"
   },
   {
-    "id": "tattersall1998oscar",
+    "id": "tattersall1998",
     "author": [
       {
         "family": "Tattersall",
@@ -3493,7 +3462,7 @@
     "type": "thesis"
   },
   {
-    "id": "thampy2020goodness",
+    "id": "thampy2020",
     "author": [
       {
         "family": "Thampy",
@@ -3515,7 +3484,7 @@
     "volume": "8"
   },
   {
-    "id": "thompson2001importance",
+    "id": "thompson2001",
     "DOI": "10/crhpjp",
     "author": [
       {
@@ -3538,7 +3507,7 @@
     "volume": "7"
   },
   {
-    "id": "thurschwell2018theory",
+    "id": "thurschwell2018",
     "DOI": "10.1353/hjr.2018.0000",
     "author": [
       {
@@ -3561,7 +3530,7 @@
     "volume": "39"
   },
   {
-    "id": "tintner1977rothschild",
+    "id": "tintner1977",
     "DOI": "10/gh6xft",
     "author": [
       {
@@ -3583,7 +3552,7 @@
     "volume": "24"
   },
   {
-    "id": "tippin2019trick",
+    "id": "tippin2019",
     "URL": "http://search.ebscohost.com/login.aspx?direct=true&db=mzh&AN=2019582276&lang=es&site=ehost-live",
     "author": [
       {
@@ -3606,7 +3575,7 @@
     "volume": "62"
   },
   {
-    "id": "tremper1978commitment",
+    "id": "tremper1978",
     "DOI": "10/gh6xdt",
     "author": [
       {
@@ -3629,7 +3598,7 @@
     "volume": "2"
   },
   {
-    "id": "vallsoyarzun2020el",
+    "id": "vallsoyarzun2020",
     "DOI": "10/gh6xfq",
     "author": [
       {
@@ -3652,7 +3621,7 @@
     "volume": "15"
   },
   {
-    "id": "vernadakis2018crosscut",
+    "id": "vernadakis2018",
     "DOI": "10.46608/leaves.vi5.288",
     "author": [
       {
@@ -3673,7 +3642,7 @@
     "type": "article-journal"
   },
   {
-    "id": "vernadakis2021contrastes",
+    "id": "vernadakis2021",
     "author": [
       {
         "family": "Vernadakis",
@@ -3702,7 +3671,7 @@
     "type": "chapter"
   },
   {
-    "id": "walsh2021oscar",
+    "id": "walsh2021",
     "URL": "https://editions.covecollective.org/edition/oscar-wilde-and-evolution-gothic-age-epistemological-upheaval",
     "author": [
       {
@@ -3724,7 +3693,7 @@
     "type": "webpage"
   },
   {
-    "id": "walters1914mystery",
+    "id": "walters1914",
     "author": [
       {
         "family": "Walters",
@@ -3749,7 +3718,7 @@
     "type": "chapter"
   },
   {
-    "id": "whiteley2017cosmopolitan",
+    "id": "whiteley2017",
     "DOI": "10.3366/vic.2017.0267",
     "author": [
       {
@@ -3772,7 +3741,7 @@
     "volume": "7"
   },
   {
-    "id": "wilburn2011oscar",
+    "id": "wilburn2011",
     "author": [
       {
         "family": "Wilburn",
@@ -3791,7 +3760,7 @@
     "type": "thesis"
   },
   {
-    "id": "wilde1888happy",
+    "id": "wilde1888",
     "URL": "http://archive.org/details/happyprinceother02wild",
     "author": [
       {
@@ -3811,7 +3780,7 @@
     "type": "book"
   },
   {
-    "id": "wilde1891house",
+    "id": "wilde1891",
     "URL": "http://archive.org/details/houseofpomegrana00wild",
     "author": [
       {
@@ -3832,7 +3801,7 @@
     "type": "book"
   },
   {
-    "id": "wilde1908lord",
+    "id": "wilde1908",
     "URL": "https://www.archive.org/stream/lordarthursavil02wildgoog/lordarthursavil02wildgoog_djvu.txt",
     "author": [
       {
@@ -3858,7 +3827,7 @@
     "type": "book"
   },
   {
-    "id": "wilde1908prose",
+    "id": "wilde1908a",
     "URL": "http://archive.org/details/completeworksos00rossgoog",
     "author": [
       {
@@ -3884,7 +3853,7 @@
     "type": "book"
   },
   {
-    "id": "wilde1921complete",
+    "id": "wilde1921",
     "URL": "http://archive.org/details/cu31924103377028",
     "author": [
       {
@@ -3910,7 +3879,7 @@
     "type": "book"
   },
   {
-    "id": "wilde2000alexander",
+    "id": "wilde2000",
     "author": [
       {
         "family": "Wilde",
@@ -3941,7 +3910,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000alfred",
+    "id": "wilde2000a",
     "author": [
       {
         "family": "Wilde",
@@ -3972,813 +3941,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000alfredb",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "494",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Alfred Nutt (MS Private), 29 Boulevard Des Capucines, Circa 15 November 1891",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000alice",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "370",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Alice Corkran, 16 Tite Street, ca. November 1888",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000amelie",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "388",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Amelie Rives Chanler (MS Boston), 16 Tite Street, January 1889",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000arthur",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "478",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Arthur Conan Doyle,  ? April 1891",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000aubrey",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "418",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Aubrey Richardson (MS Clark), 16 Tite Street, ? 1889",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000beatrice",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "425",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Beatrice Allhusen  (TS Holland), 16 Tite Street, ? Early 1890",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000bernard",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "359",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Bernard Partridge (MS Clarke), 16 Tite Street, Postmark 12 October 1888",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000bertram",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "567",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Bertram Grosvenor Goodhue (MS Clark), 16 Tite Street, June 1893",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000blanche",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "353",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Blanche Medhurst (MS Private), 16 Tite Street, Summer 1888",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000charles",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "412",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Charles Ricketts (MS Texas), 16 Tite Street, ? Autumn 1889",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000dodd",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "510",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Dodd, Mead & Co.(MS Hyde), 16 Tite Street, 1891",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000editor",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "503",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to the Editor of the <i>Pall Mall Gazette</i> (MS Hyde), 29 Boulevard Des Capucines, Paris, Published 11 December 1891",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000editorb",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "501",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to the Editor of the <i>Speaker</i>, 29 Boulevard Des Capucines, Paris, Published 5 December 1891",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000edward",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "328",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Edward Heron-Allen, 16 Tite Street, Postmark 17 October 1887",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000elkin",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "609",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Elkin Mathews and John Lane (MS Clark), 5 Esplanade, Worthing, September 1894",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000elkinb",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "606",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Elkin Mathews and John Lane (MS Folger), 5 Esplanade, Worthing, circa 8 September 1894",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000elkinc",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "612–13",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Elkin Mathews and John Lane (MS Johns Hopkins), 5 Esplanade, Worthing, circa 22 September 1894",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000f",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "294",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to F.H. Townsend (MS Simpson), 16 Tite Street, Early February 1887",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000florence",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "349",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Florence Stoker, June 1888",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000g",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "352",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to G.H. Kersley (MS F Hyde), 16 Tite Street, 15 June 1888",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000george",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "385",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to George Macmillan (MS Macmillan), 16 Tite Street, January 1889",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000gleeson",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "370",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Gleeson White (MS Clark), 16 Tite Street, ? November 1888",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000harry",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "352",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to Harry Melvill (MS Clark), 16 Tite Street, ? June 1888",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000hsh",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "494",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to HSH the Princess of Monaco (MS Clark), 29 Boulevard Des Capucines, Paris, ? Late November 1891",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000hshb",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "491",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to HSH the Princess of Monaco (MS Hyde), ?28 October 1891",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000j",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "413",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to J.M. Stoddart, 16 Tite Street, 30 September 1889",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000jacomb",
+    "id": "wilde2000aa",
     "author": [
       {
         "family": "Wilde",
@@ -4809,7 +3972,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000james",
+    "id": "wilde2000ab",
     "author": [
       {
         "family": "Wilde",
@@ -4840,7 +4003,38 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000jb",
+    "id": "wilde2000ac",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "413",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to J.M. Stoddart, 16 Tite Street, 30 September 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000ad",
     "author": [
       {
         "family": "Wilde",
@@ -4871,7 +4065,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000john",
+    "id": "wilde2000ae",
     "author": [
       {
         "family": "Wilde",
@@ -4902,7 +4096,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000johnb",
+    "id": "wilde2000af",
     "author": [
       {
         "family": "Wilde",
@@ -4933,7 +4127,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000johnc",
+    "id": "wilde2000ag",
     "author": [
       {
         "family": "Wilde",
@@ -4964,7 +4158,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000johnd",
+    "id": "wilde2000ah",
     "author": [
       {
         "family": "Wilde",
@@ -4995,7 +4189,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000johne",
+    "id": "wilde2000ai",
     "author": [
       {
         "family": "Wilde",
@@ -5026,7 +4220,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000jules",
+    "id": "wilde2000aj",
     "author": [
       {
         "family": "Wilde",
@@ -5057,7 +4251,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000leonard",
+    "id": "wilde2000ak",
     "author": [
       {
         "family": "Wilde",
@@ -5088,38 +4282,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000librarian",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "354",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to the Librarian of Toynbee Hall (MS Clark), 16 Tite Street, Postmark 4 July 1888",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000mrs",
+    "id": "wilde2000al",
     "author": [
       {
         "family": "Wilde",
@@ -5150,7 +4313,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000mrsb",
+    "id": "wilde2000am",
     "author": [
       {
         "family": "Wilde",
@@ -5181,7 +4344,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000richard",
+    "id": "wilde2000an",
     "author": [
       {
         "family": "Wilde",
@@ -5212,7 +4375,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000richardb",
+    "id": "wilde2000ao",
     "author": [
       {
         "family": "Wilde",
@@ -5243,7 +4406,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000robert",
+    "id": "wilde2000ap",
     "author": [
       {
         "family": "Wilde",
@@ -5274,7 +4437,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000robertb",
+    "id": "wilde2000aq",
     "author": [
       {
         "family": "Wilde",
@@ -5305,7 +4468,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000st",
+    "id": "wilde2000ar",
     "author": [
       {
         "family": "Wilde",
@@ -5336,7 +4499,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000telegram",
+    "id": "wilde2000as",
     "author": [
       {
         "family": "Wilde",
@@ -5361,13 +4524,75 @@
         ]
       ]
     },
-    "page": "604",
+    "page": "503",
     "publisher": "Henry Holt and Company",
-    "title": "Telegram to Elkin Mathews and John Lane (MS Clark), Worthing, 17 August 1894",
+    "title": "Signed Letter to the Editor of the <i>Pall Mall Gazette</i> (MS Hyde), 29 Boulevard Des Capucines, Paris, Published 11 December 1891",
     "type": "chapter"
   },
   {
-    "id": "wilde2000thomas",
+    "id": "wilde2000at",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "501",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to the Editor of the <i>Speaker</i>, 29 Boulevard Des Capucines, Paris, Published 5 December 1891",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000au",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "354",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to the Librarian of Toynbee Hall (MS Clark), 16 Tite Street, Postmark 4 July 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000av",
     "author": [
       {
         "family": "Wilde",
@@ -5398,69 +4623,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000unidentified",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "355",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to an Unidentified Correspondent (Most Probably Arthur Severn) (MS Montague), 16 Tite Street, ? July 1888",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000unidentifiedb",
-    "author": [
-      {
-        "family": "Wilde",
-        "given": "Oscar"
-      }
-    ],
-    "container-title": "The Complete Letters of Oscar Wilde",
-    "editor": [
-      {
-        "family": "Holland",
-        "given": "Merlin"
-      },
-      {
-        "family": "Hart-Davis",
-        "given": "Rupert"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2000
-        ]
-      ]
-    },
-    "page": "414",
-    "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to an Unidentified Correspondent (MS Simpson), 16 Tite Street, 19 November 1889",
-    "type": "chapter"
-  },
-  {
-    "id": "wilde2000w",
+    "id": "wilde2000aw",
     "author": [
       {
         "family": "Wilde",
@@ -5491,7 +4654,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000wb",
+    "id": "wilde2000ax",
     "author": [
       {
         "family": "Wilde",
@@ -5522,7 +4685,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000wc",
+    "id": "wilde2000ay",
     "author": [
       {
         "family": "Wilde",
@@ -5553,7 +4716,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000wd",
+    "id": "wilde2000az",
     "author": [
       {
         "family": "Wilde",
@@ -5584,7 +4747,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000we",
+    "id": "wilde2000b",
     "author": [
       {
         "family": "Wilde",
@@ -5609,13 +4772,13 @@
         ]
       ]
     },
-    "page": "387",
+    "page": "494",
     "publisher": "Henry Holt and Company",
-    "title": "Signed Letter to W.H. Pollock (MS Bucknell), 16 Tite Street, ? January 1889",
+    "title": "Signed Letter to Alfred Nutt (MS Private), 29 Boulevard Des Capucines, Circa 15 November 1891",
     "type": "chapter"
   },
   {
-    "id": "wilde2000wemyss",
+    "id": "wilde2000ba",
     "author": [
       {
         "family": "Wilde",
@@ -5646,7 +4809,38 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000whitelaw",
+    "id": "wilde2000bb",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "387",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to W.H. Pollock (MS Bucknell), 16 Tite Street, ? January 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000bc",
     "author": [
       {
         "family": "Wilde",
@@ -5677,7 +4871,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000whitelawb",
+    "id": "wilde2000bd",
     "author": [
       {
         "family": "Wilde",
@@ -5708,7 +4902,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000william",
+    "id": "wilde2000be",
     "author": [
       {
         "family": "Wilde",
@@ -5739,7 +4933,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000williamb",
+    "id": "wilde2000bf",
     "author": [
       {
         "family": "Wilde",
@@ -5770,7 +4964,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000williamc",
+    "id": "wilde2000bg",
     "author": [
       {
         "family": "Wilde",
@@ -5801,7 +4995,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000williamd",
+    "id": "wilde2000bh",
     "author": [
       {
         "family": "Wilde",
@@ -5832,7 +5026,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000williame",
+    "id": "wilde2000bi",
     "author": [
       {
         "family": "Wilde",
@@ -5863,7 +5057,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000williamf",
+    "id": "wilde2000bj",
     "author": [
       {
         "family": "Wilde",
@@ -5894,7 +5088,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000williamg",
+    "id": "wilde2000bk",
     "author": [
       {
         "family": "Wilde",
@@ -5925,7 +5119,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000williamh",
+    "id": "wilde2000bl",
     "author": [
       {
         "family": "Wilde",
@@ -5956,7 +5150,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2000williami",
+    "id": "wilde2000bm",
     "author": [
       {
         "family": "Wilde",
@@ -5987,7 +5181,782 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2003complete",
+    "id": "wilde2000bn",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "604",
+    "publisher": "Henry Holt and Company",
+    "title": "Telegram to Elkin Mathews and John Lane (MS Clark), Worthing, 17 August 1894",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000c",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "370",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Alice Corkran, 16 Tite Street, ca. November 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000d",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "388",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Amelie Rives Chanler (MS Boston), 16 Tite Street, January 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000e",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "355",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to an Unidentified Correspondent (Most Probably Arthur Severn) (MS Montague), 16 Tite Street, ? July 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000f",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "414",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to an Unidentified Correspondent (MS Simpson), 16 Tite Street, 19 November 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000g",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "478",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Arthur Conan Doyle,  ? April 1891",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000h",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "418",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Aubrey Richardson (MS Clark), 16 Tite Street, ? 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000i",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "425",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Beatrice Allhusen  (TS Holland), 16 Tite Street, ? Early 1890",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000j",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "359",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Bernard Partridge (MS Clarke), 16 Tite Street, Postmark 12 October 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000k",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "567",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Bertram Grosvenor Goodhue (MS Clark), 16 Tite Street, June 1893",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000l",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "353",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Blanche Medhurst (MS Private), 16 Tite Street, Summer 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000m",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "412",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Charles Ricketts (MS Texas), 16 Tite Street, ? Autumn 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000n",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "510",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Dodd, Mead & Co.(MS Hyde), 16 Tite Street, 1891",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000o",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "328",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Edward Heron-Allen, 16 Tite Street, Postmark 17 October 1887",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000p",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "609",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Elkin Mathews and John Lane (MS Clark), 5 Esplanade, Worthing, September 1894",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000q",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "606",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Elkin Mathews and John Lane (MS Folger), 5 Esplanade, Worthing, circa 8 September 1894",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000r",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "612–13",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Elkin Mathews and John Lane (MS Johns Hopkins), 5 Esplanade, Worthing, circa 22 September 1894",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000s",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "294",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to F.H. Townsend (MS Simpson), 16 Tite Street, Early February 1887",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000t",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "349",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Florence Stoker, June 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000u",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "385",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to George Macmillan (MS Macmillan), 16 Tite Street, January 1889",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000v",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "352",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to G.H. Kersley (MS F Hyde), 16 Tite Street, 15 June 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000w",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "370",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Gleeson White (MS Clark), 16 Tite Street, ? November 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000x",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "352",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to Harry Melvill (MS Clark), 16 Tite Street, ? June 1888",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000y",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "494",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to HSH the Princess of Monaco (MS Clark), 29 Boulevard Des Capucines, Paris, ? Late November 1891",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2000z",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "Oscar"
+      }
+    ],
+    "container-title": "The Complete Letters of Oscar Wilde",
+    "editor": [
+      {
+        "family": "Holland",
+        "given": "Merlin"
+      },
+      {
+        "family": "Hart-Davis",
+        "given": "Rupert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "491",
+    "publisher": "Henry Holt and Company",
+    "title": "Signed Letter to HSH the Princess of Monaco (MS Hyde), ?28 October 1891",
+    "type": "chapter"
+  },
+  {
+    "id": "wilde2003",
     "URL": "https://www.overdrive.com/search?q=9D9ACB6F-0E56-4343-9B7A-CD26BCA3FA5C",
     "author": [
       {
@@ -6013,7 +5982,7 @@
     "type": "book"
   },
   {
-    "id": "wilde2005response",
+    "id": "wilde2005",
     "author": [
       {
         "family": "Wilde",
@@ -6040,7 +6009,7 @@
     "type": "chapter"
   },
   {
-    "id": "wilde2017volume",
+    "id": "wilde2017",
     "author": [
       {
         "family": "Wilde",
@@ -6065,7 +6034,7 @@
     "type": "book"
   },
   {
-    "id": "wilde2020short",
+    "id": "wilde2020",
     "author": [
       {
         "family": "Wilde",
@@ -6090,7 +6059,7 @@
     "type": "book"
   },
   {
-    "id": "wildeoscar1891fisherman",
+    "id": "wildeoscar1891",
     "URL": "http://corsair.themorgan.org/vwebv/holdingsInfo?bibId=325213",
     "archive": "Morgan Library and Museum",
     "author": [
@@ -6112,7 +6081,7 @@
     "type": "manuscript"
   },
   {
-    "id": "wood2002creating",
+    "id": "wood2002",
     "DOI": "10/cmsr32",
     "author": [
       {
@@ -6135,7 +6104,7 @@
     "volume": "16"
   },
   {
-    "id": "wright2000table",
+    "id": "wright2000",
     "URL": "https://books.google.es/books?id=q76uQgAACAAJ",
     "editor": [
       {
@@ -6155,7 +6124,7 @@
     "type": "book"
   },
   {
-    "id": "yeats2005introduction",
+    "id": "yeats2005",
     "author": [
       {
         "family": "Yeats",
@@ -6182,7 +6151,7 @@
     "type": "chapter"
   },
   {
-    "id": "zipes2007when",
+    "id": "zipes2007",
     "author": [
       {
         "family": "Zipes",
@@ -6200,5 +6169,36 @@
     "publisher": "Routledge",
     "title": "When Dreams Came True: Classical Fairy Tales and Their Tradition",
     "type": "book"
+  },
+  {
+    "id": "zotero-item-8386",
+    "URL": "https://editions.covecollective.org/content/rosenbach-manuscript-oscar-wildes-extended-portrait-mr-wh",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          5
+        ]
+      ]
+    },
+    "container-title": "COVE Editions",
+    "title": "Rosenbach Manuscript of Oscar Wilde’s Extended “The Portrait of Mr W.H.”",
+    "type": "webpage"
+  },
+  {
+    "id": "zotero-item-8414",
+    "URL": "https://portraitofmrwh.wordpress.com/",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          4
+        ]
+      ]
+    },
+    "title": "The Annotated Portrait of Mr. W.H.",
+    "type": "webpage"
   }
 ]
