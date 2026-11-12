@@ -24,9 +24,9 @@ Reviews were located by searching digitised newspaper and periodical collections
 
 ## Transcription
 
-Transcriptions are checked against the digitised page, but some OCR errors may remain. Corrections are ongoing, and every change to a transcription is recorded in the [history of `data.csv`](https://github.com/nomadmimi/wilde-short-fiction/commits/main/data.csv), where any correction can be checked against the previous version. When quoting a transcription, please verify it against the source linked in `archive_url`. Transcriptions follow these conventions:
+Most transcriptions began as the OCR text supplied by the archive and were then corrected by hand. Not every transcription has yet been collated word by word against the page image, so some errors remain, from the OCR or from transcription. A spelling or word that looks wrong may be the original's or an error of the transcription: unless it is marked `[sic]`, it has not been confirmed as the original's. Characters left by the OCR that cannot belong to the printed text (stray symbols, broken markup) are removed without notice. Corrections are ongoing, and every change to a transcription is recorded in the [history of `data.csv`](https://github.com/nomadmimi/wilde-short-fiction/commits/main/data.csv), where any correction can be checked against the previous version. When quoting a transcription, please verify it against the source linked in `archive_url`. Transcriptions follow these conventions:
 
-- Original spelling, punctuation and typographical errors are kept, and errors in the original are marked `[sic]`.
+- Original spelling, punctuation and typographical errors are kept; errors confirmed against the page image are marked `[sic]`.
 - Editorial additions are placed in square brackets.
 - Titles and other text italicised in the original are marked with asterisks (`*A House of Pomegranates*`).
 - Long dashes are rendered as `---`.
