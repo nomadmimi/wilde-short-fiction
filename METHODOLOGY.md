@@ -2,9 +2,7 @@
 
 The dataset collects reviews, notices and related press items about Oscar Wilde's three short story collections: *The Happy Prince and Other Tales* (1888), *Lord Arthur Savile's Crime and Other Stories* (1891) and *A House of Pomegranates* (1891). An item is in scope when it discusses at least one of these collections and was printed in a periodical. Each record is classified by `publication_type`:
 
-- **Review**: a review of one or more of the collections, first printed in this periodical.
-- **Syndicated review**: a reprint of a review first printed in another periodical.
-- **Notice**: a short notice of a collection, shorter than a review.
+- **Review**: a review or short notice of one or more of the collections.
 - **News**: a news item that mentions a collection without reviewing it.
 - **Article**: an article that discusses a collection without being a review of it.
 - **Correspondence**: a letter to the editor that discusses a collection.
@@ -16,7 +14,7 @@ The `period` field groups items chronologically: period 1 covers the first recep
 
 ## Reprints and chains
 
-The same review was often reprinted in several periodicals. Each printing is a separate record, and `publication_type` marks a reprinted review as a syndicated review. Records that are not independent of each other share a `chain_id`: `W` for the same text printed in several periodicals (verbatim or with small variants, or sharing a substantial passage), `L` for letters that answer one another, `Q` for a text that quotes another record. Records in no chain have an empty `chain_id`. When counting, a chain counts once, so a widely reprinted text does not weigh more than a review printed once.
+The same review was often reprinted in several periodicals. Each printing is a separate record with the same `publication_type` as the original (the type records the format of the item, not whether it was reprinted). Records that are not independent of each other share a `chain_id`: `W` for the same text printed in several periodicals (verbatim or with small variants, or sharing a substantial passage), `L` for letters that answer one another, `Q` for a text that quotes another record. Records in no chain have an empty `chain_id`. When counting, a chain counts once, so a widely reprinted text does not weigh more than a review printed once.
 
 ## Finding the reviews
 
@@ -37,6 +35,8 @@ The date each transcription was completed is recorded in `transcribed`.
 ## Metadata
 
 Each record gives the periodical's name, country, region and place of publication; the volume, number and page(s); the date of publication to the precision known (year, month, day); and the reviewer where identified. Most Victorian reviews were unsigned, so `publication_reviewer` is usually empty. Every record has a `citekey` for reference managers.
+
+Periodical metadata comes from the trade directories of the period, *Mitchell's Newspaper Press Directory* for British and Irish titles and *Rowell's American Newspaper Directory* for American ones, using the edition nearest the item's year, with web sources where a title is not in a directory. `publication_frequency`, `publication_price` and `publication_politics` give the directory's values without conversion: prices are per issue, in pence and shillings or in cents, and annual subscription rates are left out; political labels follow each directory's own vocabulary, so British and American values are not equivalent. `directory_source`, `directory_year` and `directory_match` record which entry was used and how securely the periodical was matched to it.
 
 ## Publication
 
